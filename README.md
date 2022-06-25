@@ -87,6 +87,12 @@ So, let's go to part two. (づ｡◕‿‿◕｡)づ
 
 ##
 
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
 ### Part 02 - Databases:
 
 
