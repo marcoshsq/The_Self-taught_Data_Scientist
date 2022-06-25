@@ -89,32 +89,6 @@ So, let's go to part two. (づ｡◕‿‿◕｡)づ
 
 ### Part 02 - Databases:
 
-From this section I will divide the curriculum into two fronts, one with general concepts and the other with specific concepts. While for this part the general concepts will be about Computer Science and Mathematics, the specific content will be about Databases.
-
-#### Mathematics:
-
-They say the hardest part in Data Science is math, but here's the fun part (for me), I'm a Bachelor of Civil Engineering and Statistics so I don't need to learn math for data science from scratch, isn't that amazing! (o^▽^o) ＼(^ω^＼): ヽ(o＾▽＾o)ノ: (✯◡✯) (* ^ ω ^): (づ｡◕‿‿◕｡)づ: (◕‿◕)
-
-Therefore, my math studies will be more focused on computational applications, modeling, and applied statistics in DS.
-
-#### Math 01:
-
-Courses | Repository if any | Certificate
-:-- | :--: | :--:
-[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | --- | ---
-[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | --- | ---
-[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | --- | ---
-[Math for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | --- | ---
-
-#### Math 02:
-
-Courses | Repository if any | Certificate
-:-- | :--: | :--:
-[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | --- | ---
-[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | --- | ---
-[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | --- | ---
-[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | --- | ---
-
 #### Computer Science:
 
 These three courses offered by Princeton University, totaling about 140 hours of class, focus on developing skills in ``algorithms`` and ``data structures``.
@@ -139,6 +113,52 @@ Courses | Repository if any | Certificate
 </div>
 
 ##
+
+### Mathematics:
+
+They say the hardest part in Data Science is math, but here's the fun part (for me), I'm a Bachelor of Civil Engineering and Statistics so I don't need to learn math for data science from scratch, isn't that amazing! (づ｡◕‿‿◕｡)づ (* ^ ω ^) ヽ(o＾▽＾o)ノ
+
+Therefore, my math studies will be more focused on computational applications, and courses for review.
+
+**The courses here are arranged in no particular order.
+
+#### General Courses:
+
+Courses | Certificate if any
+:-- | :--:
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | ---
+[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | ---
+[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | ---
+[Math for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | ---
+
+#### Calculus:
+
+Courses | Certificate if any
+:-- | :--:
+[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | ---
+[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | ---
+[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | ---
+[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | ---
+
+#### Probability and Statistics:
+
+Courses | Certificate if any
+:-- | :--:
+[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | ---
+[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | ---
+[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | ---
+[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | ---
+[Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | ---
+[Social Science](https://www.coursera.org/specializations/social-science) | ---
+
+#### Game Theory:
+
+Courses | Certificate if any
+:-- | :--:
+[Introduction to Game Theory](https://www.coursera.org/learn/game-theory-introduction) | ---
+[Game Theory I](https://www.coursera.org/learn/game-theory-1) | ---
+[Game Theory II](https://www.coursera.org/learn/game-theory-2) | ---
+[Social Economic Networks](https://www.coursera.org/learn/social-economic-networks) | ---
 
 <div align="right">
 	
