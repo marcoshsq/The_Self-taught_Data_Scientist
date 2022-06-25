@@ -22,7 +22,17 @@
 
 ## Content summary.
 
-work in progress...
+- [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
+- [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
+	- [Part 01 - Introduction](https://github.com/marcoshsq/DataScienceCurriculum#part-01---introduction)
+	- [Part 02 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-02---databases)
+	- [Part 03 - NA]()
+	- [Part 04 - NA]()
+	- [Part 05 - NA]()
+- [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
+- [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
+- [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
+- [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
 ---
 
@@ -50,7 +60,7 @@ work in progress...
 
 Work in progress... 
 
-### Introduction:
+### Part 01 - Introduction:
 
 This first section is an introduction to the area of data science and some tools used, my objective is to understand what data science is, where it is applied and what are their methodologies.
 
@@ -118,7 +128,7 @@ Courses | Repository if any | Certificate
 
 ##
 
-### Mathematics:
+## Mathematics:
 
 They say the hardest part in Data Science is math, but here's the fun part (for me), I'm a Bachelor of Civil Engineering and Statistics so I don't need to learn math for data science from scratch, isn't that amazing!
 
