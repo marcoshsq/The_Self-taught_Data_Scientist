@@ -3,8 +3,8 @@
 <!--Cabeçalho da página. -->
 
 <p align="center">
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-    <img src="https://github.com/marcoshsq/DataScienceCurriculum/blob/main/data_wallpaper.jpg" alt="Developer Roadmap" width="" height="">
+  <a href="https://github.com/marcoshsq/DataScienceCurriculum">
+    <img src="https://github.com/marcoshsq/DataScienceCurriculum/blob/main/RepositoryImages/CoverWallpaper.jpg" alt="Developer Roadmap" width="" height="">
   </a>
 </p>
   <h2 align="center">Data Science Undergraduate Curriculum</h2>
