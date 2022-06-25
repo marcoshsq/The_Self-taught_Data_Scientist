@@ -89,9 +89,7 @@ So, let's go to part two. (づ｡◕‿‿◕｡)づ
 
 ### Part 02 - Databases:
 
-#### Computer Science:
 
-These three courses offered by Princeton University, totaling about 140 hours of class, focus on developing skills in ``algorithms`` and ``data structures``.
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
@@ -116,11 +114,11 @@ Courses | Repository if any | Certificate
 
 ### Mathematics:
 
-They say the hardest part in Data Science is math, but here's the fun part (for me), I'm a Bachelor of Civil Engineering and Statistics so I don't need to learn math for data science from scratch, isn't that amazing! (づ｡◕‿‿◕｡)づ (* ^ ω ^) ヽ(o＾▽＾o)ノ
+They say the hardest part in Data Science is math, but here's the fun part (for me), I'm a Bachelor of Civil Engineering and Statistics so I don't need to learn math for data science from scratch, isn't that amazing!
 
 Therefore, my math studies will be more focused on computational applications, and courses for review.
 
-**The courses here are arranged in no particular order.
+***The courses here are arranged in no particular order.***
 
 #### General Courses:
 
