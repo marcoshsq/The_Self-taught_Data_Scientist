@@ -105,9 +105,9 @@ So, let's go to part two. (づ｡◕‿‿◕｡)づ
 
 ### Part 02 - Databases:
 
-In this section, my goal is to delve deeper into databases, but let's break it down.
+In this section, my goal was to delve into databases, but let's break it down.
 
-First I'm gonna learn a little about algorithms, for that I chose these three courses offered by Princeton University with about 140 hours of Data Structure and Algorithms content.
+First I decided to learn a little about algorithms, for that I chose these three courses offered by Princeton University with about 140 hours of ``Data Structure`` and ``Algorithms`` content.
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
