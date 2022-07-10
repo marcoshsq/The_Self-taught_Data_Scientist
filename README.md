@@ -24,7 +24,7 @@
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
-	- [Part 00 - Once upon a time...]()
+	- [Part 00 - Once upon a time...](https://github.com/marcoshsq/DataScienceCurriculum#part-00---once-upon-a-time)
 	- [Part 01 - Introduction](https://github.com/marcoshsq/DataScienceCurriculum#part-01---introduction)
 	- [Part 02 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-02---databases)
 	- [Part 03 - NA]()
@@ -74,6 +74,14 @@ This specialization is intended for professionals seeking to develop a skill set
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | --- | ---
+
+The other thing I need is a programming language, actually two, Python and R. So let's learn them!
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+[Data Analysis with R](https://www.coursera.org/specializations/statistics) | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
+[Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
+[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
 
 ### Part 01 - Introduction:
 
