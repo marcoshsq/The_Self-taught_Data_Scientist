@@ -24,10 +24,9 @@
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
-	- [Part 00 - Once upon a time...](https://github.com/marcoshsq/DataScienceCurriculum#part-00---once-upon-a-time)
-	- [Part 01 - Introduction](https://github.com/marcoshsq/DataScienceCurriculum#part-01---introduction)
-	- [Part 02 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-02---databases)
-	- [Part 03 - NA]()
+	- [Part 01 - Once upon a time...](https://github.com/marcoshsq/DataScienceCurriculum#part-01---once-upon-a-time)
+	- [Part 02 - First steps](https://github.com/marcoshsq/DataScienceCurriculum#part-02---first-steps)
+	- [Part 03 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-03---databases)
 	- [Part 04 - NA]()
 	- [Part 05 - NA]()
 - [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
@@ -61,7 +60,7 @@ work in progress...
 
 Work in progress... 
 
-### Part 00 - Once upon a time...:
+### Part 01 - Once upon a time...:
 
 ***For those who prove themselves worthy, paradise awaits!***
 
@@ -87,7 +86,15 @@ Courses | Repository if any | Certificate
 
 This zero section has about 16 courses, totaling approximately 300 hours. After finishing this part I hope to be sharp in programming, and understand why data is cool. But on top of that, now I can start for real.
 
-### Part 01 - Introduction:
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+### Part 02 - First steps:
 
 This first section is an introduction to the area of data science and some tools used, my objective is to understand what data science is, where it is applied and what are their methodologies.
 
@@ -130,7 +137,7 @@ So, let's go to part two. (づ｡◕‿‿◕｡)づ
 	
 </div>
 
-### Part 02 - Databases:
+### Part 03 - Databases:
 
 In this section, my goal was to delve into databases, but let's break it down.
 
