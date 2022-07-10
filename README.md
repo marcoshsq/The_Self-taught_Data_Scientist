@@ -142,7 +142,11 @@ Courses | Repository if any | Certificate
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1) | [Repository]() | ---
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | [Repository]() | ---
 
-#### Databases:
+``Database (DB) Design``, ``Data Warehousing``, ``NoSQL``, ``Database Administration,``, ``SQL``, ``Database (DBMS)``, ``Relational Models``, ``Normalization``, ``Entity–Relationship ``(E-R) Model``, ``Data Science``, ``Database Application``, ``SQL (Structured Query Language)``.
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | [Repository](https://github.com/marcoshsq/DatabasesForDataScientists) | ---
 
 ``SQL and Python syntax``, ``database management``, ``database administration``, ``MySQL``, ``Tabular records``, ``Database (DBMS)``, ``Data Management``, ``Relational Database``, ``Database (DB) Design``, ``Linux``, ``Web Development``, ``Bash (Unix Shell)``.
 
