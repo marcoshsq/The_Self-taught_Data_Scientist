@@ -26,7 +26,7 @@
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
 	- [Part 01 - Once upon a time...](https://github.com/marcoshsq/DataScienceCurriculum#part-01---once-upon-a-time)
 	- [Part 02 - First steps](https://github.com/marcoshsq/DataScienceCurriculum#part-02---first-steps)
-	- [Part 03 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-03---databases)
+	- [Part 03 - Databases FTW](https://github.com/marcoshsq/DataScienceCurriculum#part-03---databases)
 	- [Part 04 - Amazing tech & other cool stuff](https://github.com/marcoshsq/DataScienceCurriculum#part-04---amazing-tech--other-cool-stuff)
 	- [Part 05 - Finally, Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#part-05---finally-artificial-intelligence)
 - [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
