@@ -24,6 +24,7 @@
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
+	- [Part 00 - Once upon a time...]()
 	- [Part 01 - Introduction](https://github.com/marcoshsq/DataScienceCurriculum#part-01---introduction)
 	- [Part 02 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-02---databases)
 	- [Part 03 - NA]()
@@ -59,6 +60,20 @@ work in progress...
 ## Main Curriculum.
 
 Work in progress... 
+
+### Part 00 - Once upon a time...:
+
+***For those who prove themselves worthy, paradise awaits!***
+
+To start off on the right foot, I'll need a few things, first to understand what data is for, right?
+
+Therefore, the first course (or specialization in this case) will be Data Literacy offered by Johns Hopkins through Coursera.
+
+This specialization is intended for professionals seeking to develop a skill set for interpreting statistical results.  Through four courses and a capstone project, you will cover ``visualization``, ``Measurement Uncertainty``, ``Probability``, ``Statistical Hypothesis Testing``, ``Statistics``, ``Causal Inference``, ``Data Visualization (DataViz)``, ``Empirical Evidence``, ``Cross-Sectional Analysis``, ``Basic Descriptive Statistics``, ``Survey Design``, ``Statistical Analysis``.
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+[Data Literacy](https://www.coursera.org/specializations/data-literacy) | --- | ---
 
 ### Part 01 - Introduction:
 
