@@ -138,15 +138,24 @@ First I decided to learn a little about algorithms, for that I chose these three
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
-[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | ---
-[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | --- | ---
-[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | --- | ---
+[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | [Repository]() | ---
+[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | [Repository]() | ---
+[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | [Repository]() | ---
 
 #### Databases:
 
+``SQL and Python syntax``, ``database management``, ``database administration``, ``MySQL``, ``Tabular records``, ``Database (DBMS)``, ``Data Management``, ``Relational Database``, ``Database (DB) Design``, ``Linux``, ``Web Development``, ``Bash (Unix Shell)``.
+
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
-[]() | --- | ---
+[Meta Database Engineer](https://www.coursera.org/professional-certificates/meta-database-engineer) | [Repository](https://github.com/marcoshsq/MetaDatabaseEngineer) | ---
+
+``Pentaho``, ``Data Visualization (DataViz)``, ``Data Warehouse``, ``SQL``, ``Database (DB) Design``, ``Entity–Relationship (E-R) Model``, ``Database (DBMS)``, 
+``Extraction, Transformation And Loading (ETL)``, ``Data Integration``, ``Data Warehousing``, ``Materialized View``, ``Business Intelligence``.
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Data Warehousing & BI](https://www.coursera.org/specializations/data-warehousing) | [Repository](https://github.com/marcoshsq/DataWarehousing-BI) | ---
 
 
 <div align="right">
