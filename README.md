@@ -77,11 +77,15 @@ Courses | Repository if any | Certificate
 
 The other thing I need is a programming language, actually two, Python and R. So let's learn them!
 
+For that, I chose these three specializations, which total about 250 hours of content on Python and R.
+
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [Data Analysis with R](https://www.coursera.org/specializations/statistics) | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
+
+At the end of these courses I hope to have a knowledge of programming applied to Data Science.
 
 ### Part 01 - Introduction:
 
@@ -99,7 +103,7 @@ This second specialization offered by Johns Hopkins University is a more “punk
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
-[Data Science by JHU](https://www.coursera.org/specializations/jhu-data-science) | --- | ---
+[Data Science by JHU](https://www.coursera.org/specializations/jhu-data-science) | [Repository](https://github.com/marcoshsq/DataScience-JHU) | ---
 
 And to finish off the introduction, let's focus on the tools. The following two specializations have nine courses totaling about 230 total hours, focusing on Python for Data Science and SQL. 
 
@@ -109,8 +113,8 @@ While the Learn SQL Basics for Data Science specialization introduces concepts s
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | ---
-[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | --- | ---
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | [Repository](https://github.com/marcoshsq/PythonAppliedDataScience) | ---
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
 
 Wow, quite a lot, and this was just the introduction, by my count this beginning has about 700~800 hours of content. But that's about it, Data Science is a very demanding area, and I haven't even gotten into Mathematics yet.
 
