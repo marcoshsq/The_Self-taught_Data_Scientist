@@ -77,6 +77,8 @@ Section 01 focuses on programming and learning what advantages the use of data c
 
 For more details and information, visit each specific section.
 
+* All amounts of hours written here are estimates offered by the platform where the courses are available.
+
 ##
 
 ### Section 01 - Basics.
@@ -101,7 +103,7 @@ Courses | Repository if any | Certificate
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
 
-This zero section has about 16 courses, totaling approximately 300 hours. After finishing this part I hope to be sharp in programming, and understand why data is cool. But on top of that, now I can start for real.
+This first section has about 16 courses, totaling approximately 300 hours. After finishing this part I hope to be sharp in programming, and understand why data is cool. But on top of that, now I can start for real.
 
 ##
 
@@ -113,7 +115,7 @@ This zero section has about 16 courses, totaling approximately 300 hours. After 
 
 ### Section 02 - Data Science.
 
-This first section is an introduction to the area of data science and some tools used, my objective is to understand what data science is, where it is applied and what are their methodologies.
+Section two is an introduction to the area of data science and some tools used, my objective is to understand what data science is, where it is applied and what are their methodologies.
 
 This first specialization offered by IBM has ten courses, with around 200 hours to complete. In addition to offering an excellent high-level overview of the field of Data Science, it also introduced some tools like ``Github``, ``Python``, and some libraries (Pandas, Numpy, Matplotlib e etc.), ``Jupyter notebooks``, ``SQL``, and some more concepts like ``Machine Learning``, ``Deep Learning``.
 
@@ -140,9 +142,9 @@ Courses | Repository if any | Certificate
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | [Repository](https://github.com/marcoshsq/PythonAppliedDataScience) | ---
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
 
-Wow, quite a lot, and this was just the introduction, by my count this beginning has about 700~800 hours of content. But that's about it, Data Science is a very demanding area, and I haven't even gotten into Mathematics yet.
+Wow, quite a lot, and this was just the introduction, by my count this beginning has about 750~800 hours of content. But that's about it, Data Science is a very demanding area, and I decided to go to another college just for the math.
 
-But concluding the intro section, my goal was to learn the basics of the field, its applications, and tools, and I believe that these courses, 29 in total, helped me with that.
+But concluding the Section 02, my goal was to learn the basics of the field, its applications, and tools, and I believe that these courses, 29 in total, helped me with that.
 
 So, let's go to part two. (づ｡◕‿‿◕｡)づ
 
