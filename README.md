@@ -32,6 +32,9 @@
 	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
 - [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
+	- [Mathematics Books](https://github.com/marcoshsq/DataScienceCurriculum#mathematics-books)
+	- [Books, articles and related documentation](https://github.com/marcoshsq/DataScienceCurriculum#books-articles-and-related-documentation)
+	- [Complementary courses](https://github.com/marcoshsq/DataScienceCurriculum#complementary-courses)
 - [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
@@ -462,13 +465,13 @@ In addition to the main courses of this curriculum, other materials such as arti
 - [Modelos de Regrassão com Apoio Computacional](https://www.ime.usp.br/~giapaula/texto_2013.pdf) - Gilberto A. Paula
 - [All the Mathematics You Missed: But Need to Know for Graduate School](https://www.amazon.com.br/dp/0521792851/?coliid=IS46PVD7HGZK6&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Garrity, Thomas A.
 
-### Books, articles and related documentation..
+### Books, articles and related documentation.
 
 - [SQL for Smarties: Advanced SQL Programming](https://shre.ink/lD9) - Joe Celko
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap of DL Papers
 - [Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/?coliid=I1DADMS27UAR9G&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Stuart J. Russell
 
-### Complementary course.
+### Complementary courses.
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - MIT
