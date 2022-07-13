@@ -103,7 +103,7 @@ Courses | Repository if any | Certificate
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
 
-This first section has about 16 courses, totaling approximately 300 hours. After finishing this part I hope to be sharp in programming, and understand why data is cool. But on top of that, now I can start for real.
+This first section has about 16 courses, totaling approximately +400 hours. After finishing this part I hope to be sharp in programming, and understand why data is cool. But on top of that, now I can start for real.
 
 ##
 
@@ -146,7 +146,7 @@ Wow, quite a lot, and this was just the introduction, by my count this beginning
 
 But concluding the Section 02, my goal was to learn the basics of the field, its applications, and tools, and I believe that these courses, 29 in total, helped me with that.
 
-So, let's go to part two. (づ｡◕‿‿◕｡)づ
+So, let's go to section three. (づ｡◕‿‿◕｡)づ
 
 ##
 
@@ -160,7 +160,7 @@ So, let's go to part two. (づ｡◕‿‿◕｡)づ
 
 ### Section 03 - Databases.
 
-In this section, my goal was to delve into databases, but let's break it down.
+In this section, my goal was to dive deep into databases, but let's break it down.
 
 First I decided to learn a little about algorithms, for that I chose these three courses offered by Princeton University with about 140 hours of ``Data Structure`` and ``Algorithms`` content.
 
