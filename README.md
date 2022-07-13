@@ -24,11 +24,11 @@
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
-	- [Part 01 - Once upon a time...](https://github.com/marcoshsq/DataScienceCurriculum#part-01---once-upon-a-time)
-	- [Part 02 - First steps](https://github.com/marcoshsq/DataScienceCurriculum#part-02---first-steps)
-	- [Part 03 - Databases FTW](https://github.com/marcoshsq/DataScienceCurriculum#part-03---databases)
-	- [Part 04 - Amazing tech & other cool stuff](https://github.com/marcoshsq/DataScienceCurriculum#part-04---amazing-tech--other-cool-stuff)
-	- [Part 05 - Finally, Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#part-05---finally-artificial-intelligence)
+	- [Section 01 - Basics](https://github.com/marcoshsq/DataScienceCurriculum#part-01---once-upon-a-time)
+	- [Section 02 - Data Science](https://github.com/marcoshsq/DataScienceCurriculum#part-02---first-steps)
+	- [Section 03 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-03---databases)
+	- [Section 04 - Amazing tech & other cool stuff](https://github.com/marcoshsq/DataScienceCurriculum#part-04---amazing-tech--other-cool-stuff)
+	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#part-05---finally-artificial-intelligence)
 - [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 - [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
@@ -44,7 +44,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
-work in progress...
+An important note, data science is math, period. Therefore, when researching what would be the best approaches and content/courses to learn mathematics and statistics following the philosophy of this curriculum, I came to the conclusion that it would be better to study statistics at a traditional institution, so courses related to mathematics here are fixation and reinforcement courses, along with great books that have been recommended to me. And can be found at the end of this repository in a specific section.
 
 ##
 
@@ -56,11 +56,15 @@ work in progress...
 
 ---
 
+## Learning Goals.
+
+---
+
 ## Main Curriculum.
 
 Work in progress... 
 
-### Part 01 - Once upon a time...:
+### Section 01 - Basics.
 
 ***For those who prove themselves worthy, paradise awaits!***
 
@@ -94,7 +98,7 @@ This zero section has about 16 courses, totaling approximately 300 hours. After 
 	
 </div>
 
-### Part 02 - First steps:
+### Section 02 - Data Science.
 
 This first section is an introduction to the area of data science and some tools used, my objective is to understand what data science is, where it is applied and what are their methodologies.
 
@@ -137,7 +141,9 @@ So, let's go to part two. (づ｡◕‿‿◕｡)づ
 	
 </div>
 
-### Part 03 - Databases:
+##
+
+### Section 03 - Databases.
 
 In this section, my goal was to delve into databases, but let's break it down.
 
@@ -168,6 +174,7 @@ Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Data Warehousing & BI](https://www.coursera.org/specializations/data-warehousing) | [Repository](https://github.com/marcoshsq/DataWarehousing-BI) | ---
 
+##
 
 <div align="right">
 	
@@ -175,7 +182,9 @@ Courses | Repository if any | Certificate
 	
 </div>
 
-### Part 04 - Amazing tech & other cool stuff:
+### Section 04 - Amazing tech & other cool stuff.
+
+##
 
 <div align="right">
 	
@@ -183,7 +192,7 @@ Courses | Repository if any | Certificate
 	
 </div>
 
-### Part 05 - Finally, Artificial Intelligence:
+### Section 05 - Artificial Intelligence.
 
 <div align="right">
 	
