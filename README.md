@@ -71,7 +71,13 @@ An important note, data science is math, period. Therefore, when researching wha
 
 ## Main Curriculum.
 
-Work in progress... 
+This curriculum is divided into five sections: [Basics](https://github.com/marcoshsq/DataScienceCurriculum#section-01---basics), [Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-02---data-science), [Databases](https://github.com/marcoshsq/DataScienceCurriculum#section-03---databases), [Amazing tech & other cool stuff](https://github.com/marcoshsq/DataScienceCurriculum#section-04---amazing-tech--other-cool-stuff), and [Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
+
+Section 01 focuses on programming and learning what advantages the use of data can bring. Section 02 aims to develop a high-level overview of the field of data science itself, its applications, tools, and methodologies. Section 03 is about Databases and in Section 04 my goal is to supplement with some important concepts that I wanted to include. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
+
+For more details and information, visit each specific section.
+
+##
 
 ### Section 01 - Basics.
 
