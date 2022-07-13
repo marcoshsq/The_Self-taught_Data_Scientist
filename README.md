@@ -23,12 +23,13 @@
 ## Content summary.
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
+- [Learning Goals](https://github.com/marcoshsq/DataScienceCurriculum#learning-goals)
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
-	- [Section 01 - Basics](https://github.com/marcoshsq/DataScienceCurriculum#part-01---once-upon-a-time)
-	- [Section 02 - Data Science](https://github.com/marcoshsq/DataScienceCurriculum#part-02---first-steps)
-	- [Section 03 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-03---databases)
-	- [Section 04 - Amazing tech & other cool stuff](https://github.com/marcoshsq/DataScienceCurriculum#part-04---amazing-tech--other-cool-stuff)
-	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#part-05---finally-artificial-intelligence)
+	- [Section 01 - Basics](https://github.com/marcoshsq/DataScienceCurriculum#section-01---basics)
+	- [Section 02 - Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-02---data-science)
+	- [Section 03 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#section-03---databases)
+	- [Section 04 - Amazing tech & other cool stuff](https://github.com/marcoshsq/DataScienceCurriculum#section-04---amazing-tech--other-cool-stuff)
+	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
 - [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 - [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
@@ -65,8 +66,6 @@ An important note, data science is math, period. Therefore, when researching wha
 Work in progress... 
 
 ### Section 01 - Basics.
-
-***For those who prove themselves worthy, paradise awaits!***
 
 To start off on the right foot, I'll need a few things, first to understand what data is for, right?
 
@@ -327,3 +326,7 @@ Sources consulted for the construction of this curriculum.
 </p>
 
 ---
+
+<p align="center">
+	<i>For those who prove themselves worthy, paradise awaits!</i>
+</p>
