@@ -267,10 +267,12 @@ Espaço para organização pessoal u.u
 
 ### Section 04 - Amazing tech & other cool stuff.
 
+Work in progress... to add description
+
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | [Repository]() | ---
-[Agile Development](https://www.coursera.org/specializations/agile-developmentAgile Development) | [Repository]() | ---
+[Agile Development](https://www.coursera.org/specializations/agile-development ) | [Repository]() | ---
 
 
 Courses | Repository if any | Certificate
@@ -305,6 +307,50 @@ Espaço para organização pessoal u.u
 ##
 
 ### Section 05 - Artificial Intelligence.
+
+Work in progress... to add description
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | []() | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Machine Learning](https://www.coursera.org/specializations/machine-learning) | []() | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Deep Learning](https://www.coursera.org/specializations/deep-learning) | []() | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | []() | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | []() | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | []() | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[ML for Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlopsML for Production) | []() | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[GANS](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | []() | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1) | --- | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science)
+
+##
 
 <div align="right">
 	
