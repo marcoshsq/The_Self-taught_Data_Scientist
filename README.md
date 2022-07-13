@@ -460,10 +460,13 @@ In addition to the main courses of this curriculum, other materials such as arti
 - [Applied Nonparametric Statistical Methods](https://shre.ink/lDu) - Nigel C Smeeton
 - [Interpretability of Computational Intelligence-Based Regression Models](https://shre.ink/lD3) - János Abonyi
 - [Modelos de Regrassão com Apoio Computacional](https://www.ime.usp.br/~giapaula/texto_2013.pdf) - Gilberto A. Paula
+- [All the Mathematics You Missed: But Need to Know for Graduate School](https://www.amazon.com.br/dp/0521792851/?coliid=IS46PVD7HGZK6&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Garrity, Thomas A.
 
-### CS related books.
+### Books, articles and related documentation..
 
 - [SQL for Smarties: Advanced SQL Programming](https://shre.ink/lD9) - Joe Celko
+- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap of DL Papers
+- [Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/?coliid=I1DADMS27UAR9G&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Stuart J. Russell
 
 ### Complementary course.
 
