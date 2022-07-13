@@ -182,12 +182,13 @@ Courses | Repository if any | Certificate
 
 Now something more advanced.
 
-``Pentaho``, ``Data Visualization (DataViz)``, ``Data Warehouse``, ``SQL``, ``Database (DB) Design``, ``Entity–Relationship (E-R) Model``, ``Database (DBMS)``, 
-``Extraction, Transformation And Loading (ETL)``, ``Data Integration``, ``Data Warehousing``, ``Materialized View``, ``Business Intelligence``.
+This other specialization also offered by Colorado Boulder University, with more than 140 hours, is focused on professionals in the field, and focuses on more advanced tools and concepts such as: ``Pentaho``, ``Data Visualization (DataViz)``, ``Entity–Relationship (E-R) Model``, ``Extraction, Transformation And Loading (ETL)``, ``Data Integration``, ``Data Warehousing``, ``Materialized View``, ``Business Intelligence``.
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Data Warehousing & BI](https://www.coursera.org/specializations/data-warehousing) | [Repository](https://github.com/marcoshsq/DataWarehousing-BI) | ---
+
+Hope to be good at SQL after this. By my calculations this section has about 400 hours of content, look how cool. But the important thing is that we covered important concepts, and speaking of important concepts, let's move on to the next section that covers precisely important things that I didn't know where to put ヽ(o＾▽＾o)ノ
 
 ##
 
