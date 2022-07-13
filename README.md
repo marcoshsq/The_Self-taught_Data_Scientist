@@ -55,6 +55,16 @@ An important note, data science is math, period. Therefore, when researching wha
 	
 </div>
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ---
 
 ## Learning Goals.
@@ -72,6 +82,16 @@ So I recommend checking it out if you're interested.
 	
 </div>
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ---
 
 ## Main Curriculum.
@@ -83,6 +103,16 @@ Section 01 focuses on programming and learning what advantages the use of data c
 For more details and information, visit each specific section.
 
 * All amounts of hours written here are estimates offered by the platform where the courses are available.
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
 
 ##
 
@@ -117,6 +147,18 @@ This first section has about 16 courses, totaling approximately +400 hours. Afte
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+##
 
 ### Section 02 - Data Science.
 
@@ -161,6 +203,16 @@ So, let's go to section three. (づ｡◕‿‿◕｡)づ
 	
 </div>
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ##
 
 ### Section 03 - Databases.
@@ -203,6 +255,18 @@ Hope to be good at SQL after this. By my calculations this section has about 400
 	
 </div>
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+##
+
 ### Section 04 - Amazing tech & other cool stuff.
 
 ##
@@ -213,6 +277,18 @@ Hope to be good at SQL after this. By my calculations this section has about 400
 	
 </div>
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+##
+
 ### Section 05 - Artificial Intelligence.
 
 <div align="right">
@@ -222,6 +298,16 @@ Hope to be good at SQL after this. By my calculations this section has about 400
 </div>
 
 ---
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
 
 ## Mathematics:
 
@@ -235,6 +321,7 @@ Therefore, my math studies will be more focused on computational applications, a
 
 Courses | Certificate if any
 :-- | :--:
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
 [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | ---
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | ---
 [Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | ---
@@ -279,6 +366,16 @@ Courses | Certificate if any
 
 ---
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ## Extra Bibliography.
 
 In addition to the main courses of this curriculum, other materials such as articles and books were used, which are referenced in this section.
@@ -301,6 +398,7 @@ In addition to the main courses of this curriculum, other materials such as arti
 - [Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference](https://shre.ink/lDv) - Dani Gamerman
 - [Applied Nonparametric Statistical Methods](https://shre.ink/lDu) - Nigel C Smeeton
 - [Interpretability of Computational Intelligence-Based Regression Models](https://shre.ink/lD3) - János Abonyi
+- [Modelos de Regrassão com Apoio Computacional](https://www.ime.usp.br/~giapaula/texto_2013.pdf) - Gilberto A. Paula
 
 ### CS related books.
 
@@ -309,6 +407,7 @@ In addition to the main courses of this curriculum, other materials such as arti
 ### Complementary course.
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
+- [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - MIT
 
 <div align="right">
 	
@@ -319,6 +418,16 @@ In addition to the main courses of this curriculum, other materials such as arti
 ## Important Notes.
 
 work in progress...
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
 
 ## References.
 
