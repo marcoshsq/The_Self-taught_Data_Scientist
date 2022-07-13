@@ -170,12 +170,17 @@ Courses | Repository if any | Certificate
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1) | [Repository]() | ---
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | [Repository]() | ---
 
-``Database (DB) Design``, ``Data Warehousing``, ``NoSQL``, ``Database Administration,``, ``SQL``, ``Database (DBMS)``, ``Relational Models``, ``Normalization``, ``Entity–Relationship ``(E-R) Model``, ``Data Science``, ``Database Application``, ``SQL (Structured Query Language)``.
+Now to the database.
+
+In this first specialization, offered by the University of Colorado Boulder, with about 120 hours, you are taught about database design, database software fundamentals, and how to use Structured Query Language to work with databases.
+
+Among the skills learned are: ``Database (DB) Design``, ``Data Warehousing``, ``NoSQL``, ``Database Administration,``, ``SQL``, ``Database (DBMS)``, ``Relational Models``, ``Normalization``, ``Entity–Relationship``, ``(E-R) Model``, ``Database Application``.
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | [Repository](https://github.com/marcoshsq/DatabasesForDataScientists) | ---
 
+Now something more advanced.
 
 ``Pentaho``, ``Data Visualization (DataViz)``, ``Data Warehouse``, ``SQL``, ``Database (DB) Design``, ``Entity–Relationship (E-R) Model``, ``Database (DBMS)``, 
 ``Extraction, Transformation And Loading (ETL)``, ``Data Integration``, ``Data Warehousing``, ``Materialized View``, ``Business Intelligence``.
