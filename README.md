@@ -59,6 +59,11 @@ An important note, data science is math, period. Therefore, when researching wha
 
 ## Learning Goals.
 
+My main focus is to learn the contents following this [roadmap here](https://i.am.ai/roadmap/#data-science-roadmap), created by the AI expert guys. 
+
+They created a guide outlining all the skills and concepts needed to become an expert in Data Science and/or AI, in a cohesive and intuitive way.
+So I recommend checking it out if you're interested.
+
 ##
 
 <div align="right">
