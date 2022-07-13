@@ -59,6 +59,14 @@ An important note, data science is math, period. Therefore, when researching wha
 
 ## Learning Goals.
 
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
 ---
 
 ## Main Curriculum.
@@ -199,7 +207,7 @@ Courses | Repository if any | Certificate
 	
 </div>
 
-##
+---
 
 ## Mathematics:
 
@@ -318,12 +326,6 @@ Sources consulted for the construction of this curriculum.
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
-
----
-	
-<p align="center">
-	<i>"Greatness Awaits"</i>
-</p>
 
 ---
 
