@@ -102,8 +102,6 @@ Section 01 focuses on programming and learning what advantages the use of data c
 
 For more details and information, visit each specific section.
 
-* All amounts of hours written here are estimates offered by the platform where the courses are available.
-
 <!-- 
 
 
@@ -269,6 +267,23 @@ Espaço para organização pessoal u.u
 
 ### Section 04 - Amazing tech & other cool stuff.
 
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | [Repository]() | ---
+[Agile Development](https://www.coursera.org/specializations/agile-developmentAgile Development) | [Repository]() | ---
+
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Big Data](https://www.coursera.org/specializations/big-data) | [Repository](https://github.com/marcoshsq/BigData) | ---
+[Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | [Repository]() | ---
+
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Data Mining](https://www.coursera.org/specializations/data-mining) | [Repository](https://github.com/marcoshsq/DataMining) | ---
+[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | [Repository](https://github.com/marcoshsq/CloudComputing) | ---
+
 ##
 
 <div align="right">
@@ -417,7 +432,7 @@ In addition to the main courses of this curriculum, other materials such as arti
 
 ## Important Notes.
 
-work in progress...
+* All amounts of hours written here are estimates offered by the platform where the courses are available.
 
 <!-- 
 
