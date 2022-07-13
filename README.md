@@ -176,11 +176,6 @@ Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | [Repository](https://github.com/marcoshsq/DatabasesForDataScientists) | ---
 
-``SQL and Python syntax``, ``database management``, ``database administration``, ``MySQL``, ``Tabular records``, ``Database (DBMS)``, ``Data Management``, ``Relational Database``, ``Database (DB) Design``, ``Linux``, ``Web Development``, ``Bash (Unix Shell)``.
-
-Courses | Repository if any | Certificate
-:-- | :--: | :--:
-[Meta Database Engineer](https://www.coursera.org/professional-certificates/meta-database-engineer) | [Repository](https://github.com/marcoshsq/MetaDatabaseEngineer) | ---
 
 ``Pentaho``, ``Data Visualization (DataViz)``, ``Data Warehouse``, ``SQL``, ``Database (DB) Design``, ``Entity–Relationship (E-R) Model``, ``Database (DBMS)``, 
 ``Extraction, Transformation And Loading (ETL)``, ``Data Integration``, ``Data Warehousing``, ``Materialized View``, ``Business Intelligence``.
