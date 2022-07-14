@@ -186,7 +186,7 @@ Courses | Repositories if any | Certificates if any
 
 List of concepts and technologies presented during the course:
 
-
+``Conditionals``, ``Loops``, ``Arrays``, ``Input and Output``, ``Functions and Libraries``, ``Recursion``, ``Performance``, ``Abstract Data Types``, ``Creating Data Types``, ``Sorting and Searching``, ``Stacks and Queues``, ``Symbol Tables``, ``Turing Machines``, ``Intractability``, ``Von Neumann Machines``, ``Graphs``, ``Data Structure``, ``Sort Algorithms``, ``Data Compression``, etc. 
 
 ##
 
