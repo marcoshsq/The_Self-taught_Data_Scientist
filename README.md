@@ -147,15 +147,27 @@ And for that I chose the following courses.
 
 ##
 
-To start off on the right foot, I'll need a few things, first to understand what data is for, right?
+This first specialization is offered by IBM through Coursera and consists of 9 courses and a final project totaling about 180 hours (estimated by Coursera).
 
-Therefore, the first course (or specialization in this case) will be Data Literacy offered by Johns Hopkins through Coursera.
+This specialization aims to provide a high-level overview of the field of Data Science, teaching concepts ranging from Python, Pandas, Numpy, Matplotlib and Jupyter Notebooks, SQL through IBM db2, and theoretical concepts of data application, machine learning, etc.
 
-This specialization is intended for professionals seeking to develop a skill set for interpreting statistical results.  Through four courses and a capstone project, you will cover concepts such as ``visualization``, ``Measurement Uncertainty``, ``Probability``, ``Statistical Hypothesis Testing``, ``Statistics``, ``Causal Inference``, ``Data Visualization (DataViz)``, ``Empirical Evidence``, ``Cross-Sectional Analysis``, ``Basic Descriptive Statistics``, ``Survey Design``, ``Statistical Analysis``.
+During the specialization I carried out six projects which can be found in the link to the repository in the table below, with a link to the course (not sponsored) and a link to my certificate of completion.
 
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
-[Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy) | --- | ---
+[IBM - Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+
+This was a very long specialization which took me about 5 months to finish investing a lot of time plus the extra research I had to do as I felt that the past content versus what was required in the projects is a little discrepant, but that motivates extra research, aside from the technical issues with labs using IBM tools, but overall it was well worth it.
+
+The course promises to introduce beginners to the area, and show you what the opportunities are, where you should focus and what to learn. And I believe he does it very well, obviously I'm not an expert, far from it, but at least I know what I should learn and where to practice. No more questions on reddit about what to learn in data science.
+
+Just to finish this description, here is a list of the technologies and concepts presented during this specialization with a link to the badge I received from IBM upon completion (which took a lot of work to get and I want everyone to see u.u)
+
+``Artificial Intelligence``, ``Bokeh``, ``Classification``, ``Clustering``, ``Data Analysis``, ``Data Visualization``, ``Db2``, ``Folium`` , ``Foursquare``, ``IBM Cloud``, ``Jupyter``, ``Machine Learning``, ``Matplotlib``, ``NumPy``, ``Pandas``, ``Python`` , ``Recommender Systems``, ``Regression``, ``R``, ``Scikit-learn``, ``SciPy``, ``Seaborn``, ``SQL``, ``Watson Studio ``
+
+- [IBM Data Science Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d)
+
+##
 
 The other thing I need is a programming language, actually two, Python and R. So let's learn them!
 
@@ -202,13 +214,15 @@ Espaço para organização pessoal u.u
 
 ### Section 02 - Data Science.
 
+Course | Repository if any | Certificate
+:-- | :--: | :--: 
+[Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy) | --- | ---
+
 Section two is an introduction to the area of data science and some tools used, my objective is to understand what data science is, where it is applied and what are their methodologies.
 
 This first specialization offered by IBM has ten courses, with around 200 hours to complete. In addition to offering an excellent high-level overview of the field of Data Science, it also introduced some tools like ``Github``, ``Python``, and some libraries (Pandas, Numpy, Matplotlib e etc.), ``Jupyter notebooks``, ``SQL``, and some more concepts like ``Machine Learning``, ``Deep Learning``.
 
-Course | Repository if any | Certificate
-:-- | :--: | :--: 
-[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+
 
 This second specialization offered by Johns Hopkins University is a more “punk” version of the previous one, with a greater focus on math, especially statistics. This specialization is longer, with around 300 hours to complete, and among the skills taught are ``Data Manipulation``, ``R Programming``, ``Regression Analysis``, ``Cluster Analysis``, ``Data Cleansing``, ``Rstudio``, and etc.
 
