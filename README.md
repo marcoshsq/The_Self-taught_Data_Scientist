@@ -135,15 +135,21 @@ To start off on the right foot, I'll need a few things, first to understand what
 
 Therefore, the first course (or specialization in this case) will be Data Literacy offered by Johns Hopkins through Coursera.
 
-This specialization is intended for professionals seeking to develop a skill set for interpreting statistical results.  Through four courses and a capstone project, you will cover ``visualization``, ``Measurement Uncertainty``, ``Probability``, ``Statistical Hypothesis Testing``, ``Statistics``, ``Causal Inference``, ``Data Visualization (DataViz)``, ``Empirical Evidence``, ``Cross-Sectional Analysis``, ``Basic Descriptive Statistics``, ``Survey Design``, ``Statistical Analysis``.
+This specialization is intended for professionals seeking to develop a skill set for interpreting statistical results.  Through four courses and a capstone project, you will cover concepts such as ``visualization``, ``Measurement Uncertainty``, ``Probability``, ``Statistical Hypothesis Testing``, ``Statistics``, ``Causal Inference``, ``Data Visualization (DataViz)``, ``Empirical Evidence``, ``Cross-Sectional Analysis``, ``Basic Descriptive Statistics``, ``Survey Design``, ``Statistical Analysis``.
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | --- | ---
 
 The other thing I need is a programming language, actually two, Python and R. So let's learn them!
 
-For that, I chose these three specializations, which total about 250 hours of content on Python and R.
+But first it is important to learn the basics of programming, for that I chose this course offered by Princeton University, which uses Java to present the fundamentals of programming as ``Conditionals AND Loops``, ``Arrays``, ``Recursion``, ``Functions``, ``Data Types``, and etc.
+
+Course | Repository if any | Certificate
+:-- | :--: | :--: 
+[Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | [Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | ---
+
+Now we can focus on Python and R. For this, I chose these three specializations.
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
@@ -151,7 +157,7 @@ Courses | Repository if any | Certificate
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
 
-This first section has about 16 courses, totaling approximately +400 hours. After finishing this part I hope to be sharp in programming, and understand why data is cool. But on top of that, now I can start for real.
+This first section has about 17 courses, totaling approximately +400 hours. After finishing this part I hope to be sharp in programming, and understand why data is cool. But on top of that, now I can start for real.
 
 ##
 
