@@ -293,21 +293,27 @@ Espaço para organização pessoal u.u
 
 Work in progress... to add description
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | [Repository]() | ---
+
+Course | Repository if any | Certificate
+:-- | :--: | :--:
 [Agile Development](https://www.coursera.org/specializations/agile-development ) | [Repository]() | ---
 
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Big Data](https://www.coursera.org/specializations/big-data) | [Repository](https://github.com/marcoshsq/BigData) | ---
 [Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | [Repository]() | ---
 
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Data Mining](https://www.coursera.org/specializations/data-mining) | [Repository](https://github.com/marcoshsq/DataMining) | ---
+
+Course | Repository if any | Certificate
+:-- | :--: | :--:
 [Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | [Repository](https://github.com/marcoshsq/CloudComputing) | ---
 
 ##
@@ -334,43 +340,43 @@ Espaço para organização pessoal u.u
 
 Work in progress... to add description
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | []() | ---
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Machine Learning](https://www.coursera.org/specializations/machine-learning) | []() | ---
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | []() | ---
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | []() | ---
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | []() | ---
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | []() | ---
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | []() | ---
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [GANS](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | []() | ---
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1) | --- | ---
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science)
 
