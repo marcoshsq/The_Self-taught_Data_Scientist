@@ -351,7 +351,7 @@ Courses | Repository if any | Certificate
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
-[ML for Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlopsML) | []() | ---
+[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | []() | ---
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
