@@ -117,6 +117,8 @@ Each section contains a brief introduction describing what I want to learn and w
 
 For more details and information, visit each specific section.
 
+Okay, so without further ado, let's get to work!
+
 <!-- 
 
 
@@ -130,6 +132,20 @@ Espaço para organização pessoal u.u
 ##
 
 ### Section 01 - Basics.
+
+This first section has a very simple goal, to learn the basics of programming and statistical analysis, not necessarily in a deep way, but enough for me to know what I'm talking about, and more importantly, master these fundamentals to form a solid foundation.
+
+My learning goals here are:
+
+- Understand the basics of the data area, what are its methodologies and tools, and most importantly its applications and how this professional can generate value;
+- Learn database basics like SQL vs NoSQL, Joins, ETL Basics, Data Format and more;
+- Learn to code, variables, functions, data structure, composite structures, recursion, loops, and other important things.
+
+At the end of this section my goal is to know what Data Science is and what it's for, know how to code programs with at least 1000 lines in python, know how to use SQL to write queries and manage tables and create reports.
+
+And for that I chose the following courses.
+
+##
 
 To start off on the right foot, I'll need a few things, first to understand what data is for, right?
 
