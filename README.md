@@ -139,7 +139,7 @@ This specialization is intended for professionals seeking to develop a skill set
 
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
-[Data Literacy](https://www.coursera.org/specializations/data-literacy) | --- | ---
+[Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy) | --- | ---
 
 The other thing I need is a programming language, actually two, Python and R. So let's learn them!
 
@@ -149,13 +149,18 @@ Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | [Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | ---
 
-Now we can focus on Python and R. For this, I chose these three specializations.
+Now we can focus on Python and R. For this, I chose these two specializations.
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
-[Data Analysis with R](https://www.coursera.org/specializations/statistics) | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
-[Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
-[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
+[Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics) | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
+[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
+
+And to top it off, this last specialization is focused on applied statistics using Python.
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+[Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
 
 This first section has about 17 courses, totaling approximately +400 hours. After finishing this part I hope to be sharp in programming, and understand why data is cool. But on top of that, now I can start for real.
 
