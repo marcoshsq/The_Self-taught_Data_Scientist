@@ -158,7 +158,7 @@ Courses | Repository if any | Certificate
 
 And to top it off, this last specialization is focused on applied statistics using Python.
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
 
@@ -190,15 +190,13 @@ Section two is an introduction to the area of data science and some tools used, 
 
 This first specialization offered by IBM has ten courses, with around 200 hours to complete. In addition to offering an excellent high-level overview of the field of Data Science, it also introduced some tools like ``Github``, ``Python``, and some libraries (Pandas, Numpy, Matplotlib e etc.), ``Jupyter notebooks``, ``SQL``, and some more concepts like ``Machine Learning``, ``Deep Learning``.
 
-It was a great introductory course. And below is the link to my certificate of completion, and also the link to the repository with the projects developed.
-
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
 
 This second specialization offered by Johns Hopkins University is a more “punk” version of the previous one, with a greater focus on math, especially statistics. This specialization is longer, with around 300 hours to complete, and among the skills taught are ``Data Manipulation``, ``R Programming``, ``Regression Analysis``, ``Cluster Analysis``, ``Data Cleansing``, ``Rstudio``, and etc.
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Data Science by JHU](https://www.coursera.org/specializations/jhu-data-science) | [Repository](https://github.com/marcoshsq/DataScience-JHU) | ---
 
@@ -257,7 +255,7 @@ In this first specialization, offered by the University of Colorado Boulder, wit
 
 Among the skills learned are: ``Database (DB) Design``, ``Data Warehousing``, ``NoSQL``, ``Database Administration,``, ``SQL``, ``Database (DBMS)``, ``Relational Models``, ``Normalization``, ``Entity–Relationship``, ``(E-R) Model``, ``Database Application``.
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | [Repository](https://github.com/marcoshsq/DatabasesForDataScientists) | ---
 
@@ -265,7 +263,7 @@ Now something more advanced.
 
 This other specialization also offered by Colorado Boulder University, with more than 140 hours, is focused on professionals in the field, and focuses on more advanced tools and concepts such as: ``Pentaho``, ``Data Visualization (DataViz)``, ``Entity–Relationship (E-R) Model``, ``Extraction, Transformation And Loading (ETL)``, ``Data Integration``, ``Data Warehousing``, ``Materialized View``, ``Business Intelligence``.
 
-Courses | Repository if any | Certificate
+Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Business Intelligence and Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | [Repository](https://github.com/marcoshsq/DataWarehousing-BI) | ---
 
