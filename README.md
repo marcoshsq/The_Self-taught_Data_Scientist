@@ -50,6 +50,8 @@ To build this curriculum I've consulted different sources which can be found in 
 
 An important note, data science is math, period. Therefore, when researching what would be the best approaches and content/courses to learn mathematics and statistics following the philosophy of this curriculum, I came to the conclusion that it would be better to study statistics at a traditional institution, so courses related to mathematics here are fixation and reinforcement courses, along with great books that have been recommended to me. And can be found at the end of this repository in a specific section.
 
+By my estimates, adding up the estimated hours of courses, projects, books, articles and other supplementary materials (that is not accounted for here), I believe that this whole curriculum should be around 4000 hours, so with a weekly effort of 20 hours it's possible to finish it in four years... look how cool. (ﾉ◕ヮ◕)ﾉ ヽ(^◇^*)/
+
 ##
 
 <div align="right">
