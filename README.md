@@ -192,7 +192,11 @@ List of concepts and technologies presented during the course:
 
 Well, now my goal is to finish this section 01 with a total focus on programming in Python, and also learn the basics of the R language, even though programming languages are not like Pokemons, you don't have to catch them all, apart from that each one requires years of practice to develop mastery, I believe it is interesting to understand at least more than one language, and as here I only need two (as a beginner), it will not be such a sacrifice to learn R.
 
-Courses | Repository if any | Certificate
+For this I separated three specializations, the first two are offered by the University of Michigan and are focused on Python. The first one, Python 3 Programming, focuses on learning Python itself, it teaches the fundamentals of the language, starting at the beginning with variables, conditionals, and loops, and moving to intermediate and specific concepts such as keyword parameters, list comprehensions, lambda expressions, and class inheritance. It is a somewhat long specialization, divided into five courses, with approximately 120 hours of content, but which has a great alumni rating.
+
+The second specialization is also focused on Python, but applied to statistical analysis, after all, this is a Data Science curriculum. It is a specialization designed to teach beginner and intermediate concepts of statistical analysis using the Python programming language. Teaching where data comes from, what types of data can be collected, data design, data management, and how to effectively perform data exploration and visualization. It is a shorter specialization, containing only three courses of around 60 hours, but it also has a great review.
+
+Courses | Repositories if any | Certificates if any
 :-- | :--: | :--: 
 [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
 [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
