@@ -74,7 +74,15 @@ Espaço para organização pessoal u.u
 
 My main focus is to learn the contents following this [roadmap here](https://i.am.ai/roadmap/#data-science-roadmap), created by the AI expert guys. 
 
-They created a guide outlining all the skills and concepts needed to become an expert in Data Science and/or AI, in a cohesive and intuitive way.
+But here is an overview list of concepts and skills I want to learn by the end of this degree:
+
+- Databases, Programming, Exploratory Data Analysis, Data Munging, and Wrangling;
+- Statistics, Visualization and Business Intelligence;
+- Machine Learning, Methods, Use Cases and Tools;
+- Deep Learning, Neural Networks, Architectures, Training, Tools, and Model optimization.
+
+This is just an overview, if you want more details I recommend reading the main curriculum, and if you want a complete guide take a look at the roadmap. They created a guide describing all the skills and concepts needed to become an expert in Data Science and/or AI, in a cohesive and intuitive way.
+
 So I recommend checking it out if you're interested.
 
 ##
