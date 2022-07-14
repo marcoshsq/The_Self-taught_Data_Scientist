@@ -204,9 +204,11 @@ Courses | Repositories if any | Certificates if any
 [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
 [Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics) | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
 
+List of concepts and technologies presented during the course:
 
+##
 
-This first section has about 17 courses, totaling approximately +400 hours. After finishing this part I hope to be sharp in programming, and understand why data is cool. But on top of that, now I can start for real.
+In this first section I selected 25 courses, totaling something around 600~650 hours of courses. Well, it's a lot.
 
 ##
 
