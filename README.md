@@ -196,6 +196,8 @@ For this I separated three specializations, the first two are offered by the Uni
 
 The second specialization is also focused on Python, but applied to statistical analysis, after all, this is a Data Science curriculum. It is a specialization designed to teach beginner and intermediate concepts of statistical analysis using the Python programming language. Teaching where data comes from, what types of data can be collected, data design, data management, and how to effectively perform data exploration and visualization. It is a shorter specialization, containing only three courses of around 60 hours, but it also has a great review.
 
+Lastly, R. In this last specialization offered by Duke University, we are taught to analyze and visualize data in R and create reproducible data analysis reports, perform Bayesian statistical inference and modeling, visualize data with R packages for data analysis, and so on. Looks cool. There are three courses, with a total of approximately 40 hours.
+
 Courses | Repositories if any | Certificates if any
 :-- | :--: | :--: 
 [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
