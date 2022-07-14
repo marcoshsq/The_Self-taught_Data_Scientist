@@ -169,13 +169,18 @@ Just to finish this description, here is a list of the technologies and concepts
 
 ##
 
-The other thing I need is a programming language, actually two, Python and R. So let's learn them!
+Well, now that we know the basics, my goal is to dive into programming, in data science Python and R are used, but instead of learning these languages directly, I find it interesting to explore the fundamental concepts of programming before, I believe that not only it will be easier to learn Python and R, but I will also be a better programmer, not just someone who knows how to replicate code.
 
-But first it is important to learn the basics of programming, for that I chose this course offered by Princeton University, which uses Java to present the fundamentals of programming as ``Conditionals AND Loops``, ``Arrays``, ``Recursion``, ``Functions``, ``Data Types``, and etc.
+For this I chose these four courses offered by Princeton University, the first two cover the content of the book Computer Science: An Interdisciplinary Approach, while the other two (Algorithms, Part I and II) cover the fundamental concepts of... you'll never guess... Algorithms and Data structure.
+
+All courses are taught in Java, and total about 230 hours of content, it's quite a lot...
 
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | [Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | ---
+[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | [Repository]() | ---
+[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | [Repository]() | ---
+[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | [Repository]() | ---
 
 Now we can focus on Python and R. For this, I chose these two specializations.
 
@@ -275,9 +280,7 @@ First I decided to learn a little about algorithms, for that I chose these three
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
-[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | [Repository]() | ---
-[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | [Repository]() | ---
-[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | [Repository]() | ---
+
 
 Now to the database.
 
