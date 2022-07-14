@@ -109,7 +109,9 @@ Espaço para organização pessoal u.u
 
 This curriculum is divided into five sections: [Basics](https://github.com/marcoshsq/DataScienceCurriculum#section-01---basics), [Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-02---data-science), [Databases](https://github.com/marcoshsq/DataScienceCurriculum#section-03---databases), [Amazing tech & other cool stuff](https://github.com/marcoshsq/DataScienceCurriculum#section-04---amazing-tech--other-cool-stuff), and [Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
 
-Section 01 focuses on programming and learning what advantages the use of data can bring. Section 02 aims to develop a high-level overview of the field of data science itself, its applications, tools, and methodologies. Section 03 is about Databases and in Section 04 my goal is to supplement with some important concepts that I wanted to include. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
+Section 01 focuses on programming and learning what advantages the use of data can bring. Section 02 aims to develop a high-level overview of the field of data science itself, its applications, tools, and methodologies. Section 03 is all about Databases, and in Section 04 my goal is to supplement with some important concepts that I wanted to include and didn't know where to put. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
+
+Each section contains a brief introduction describing what I want to learn and which courses I have chosen to do so. After that we have a brief description of the course, with some of the skills taught. Then we have a small table with a link to the course, a link to some project or repository with my codes, and finally a link to a certificate if I received one.
 
 For more details and information, visit each specific section.
 
@@ -492,7 +494,8 @@ In addition to the main courses of this curriculum, other materials such as arti
 
 ## Important Notes.
 
-* All amounts of hours written here are estimates offered by the platform where the courses are available.
+* The duration of the courses that I put here are estimates made by the platforms where they are offered.
+* At the moment I am doing this graduation, so the verb tense of this ``readme`` is a little strange, sometimes in the past, sometimes in the future, as I do it I will reformat it to better report my experience.
 
 <!-- 
 
