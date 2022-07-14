@@ -161,9 +161,9 @@ This was a very long specialization which took me about 5 months to finish inves
 
 The course promises to introduce beginners to the area, and show you what the opportunities are, where you should focus and what to learn. And I believe he does it very well, obviously I'm not an expert, far from it, but at least I know what I should learn and where to practice. No more questions on reddit about what to learn in data science.
 
-Just to finish this description, here is a list of the technologies and concepts presented during this specialization with a link to the badge I received from IBM upon completion (which took a lot of work to get and I want everyone to see u.u)
+Just to finish this description, here is a list of the technologies and concepts presented during this specialization with a link to the badge I received from IBM upon completion (which took a lot of work to get and I want everyone to see u.u):
 
-``Artificial Intelligence``, ``Bokeh``, ``Classification``, ``Clustering``, ``Data Analysis``, ``Data Visualization``, ``Db2``, ``Folium`` , ``Foursquare``, ``IBM Cloud``, ``Jupyter``, ``Machine Learning``, ``Matplotlib``, ``NumPy``, ``Pandas``, ``Python`` , ``Recommender Systems``, ``Regression``, ``R``, ``Scikit-learn``, ``SciPy``, ``Seaborn``, ``SQL``, ``Watson Studio ``
+``Artificial Intelligence``, ``Bokeh``, ``Classification``, ``Clustering``, ``Data Analysis``, ``Data Visualization``, ``Db2``, ``Folium``, ``Foursquare``, ``IBM Cloud``, ``Jupyter``, ``Machine Learning``, ``Matplotlib``, ``NumPy``, ``Pandas``, ``Python``, ``Recommender Systems``, ``Regression``, ``R``, ``Scikit-learn``, ``SciPy``, ``Seaborn``, ``SQL``, ``Watson Studio``.
 
 - [IBM Data Science Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d)
 
@@ -175,12 +175,20 @@ For this I chose these four courses offered by Princeton University, the first t
 
 All courses are taught in Java, and total about 230 hours of content, it's quite a lot...
 
-Course | Repository if any | Certificate
+Links to courses, repositories and possible certificates are in the table below.
+
+Courses | Repositories if any | Certificates if any
 :-- | :--: | :--: 
 [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | [Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | ---
 [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | [Repository]() | ---
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1) | [Repository]() | ---
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | [Repository]() | ---
+
+List of concepts and technologies presented during the course:
+
+
+
+##
 
 Now we can focus on Python and R. For this, I chose these two specializations.
 
