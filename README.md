@@ -147,6 +147,8 @@ And for that I chose the following courses.
 
 ##
 
+#### Why this course:
+
 This first specialization is offered by IBM through Coursera and consists of 9 courses and a final project totaling about 180 hours (estimated by Coursera).
 
 This specialization aims to provide a high-level overview of the field of Data Science, teaching concepts ranging from Python, Pandas, Numpy, Matplotlib and Jupyter Notebooks, SQL through IBM db2, and theoretical concepts of data application, machine learning, etc.
@@ -156,6 +158,8 @@ During the specialization I carried out six projects which can be found in the l
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [IBM - Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+
+#### My opinion:
 
 This was a very long specialization which took me about 5 months to finish investing a lot of time plus the extra research I had to do as I felt that the past content versus what was required in the projects is a little discrepant, but that motivates extra research, aside from the technical issues with labs using IBM tools, but overall it was well worth it.
 
@@ -168,6 +172,8 @@ Just to finish this description, here is a list of the technologies and concepts
 - [IBM Data Science Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d)
 
 ##
+
+#### Why this course:
 
 Well, now that we know the basics, my goal is to dive into programming, in data science Python and R are used, but instead of learning these languages directly, I find it interesting to explore the fundamental concepts of programming before, I believe that not only it will be easier to learn Python and R, but I will also be a better programmer, not just someone who knows how to replicate code.
 
@@ -184,11 +190,15 @@ Courses | Repositories if any | Certificates if any
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1) | [Repository]() | ---
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | [Repository]() | ---
 
+#### My opinion: Work in progress...
+
 List of concepts and technologies presented during the course:
 
 ``Conditionals``, ``Loops``, ``Arrays``, ``Input and Output``, ``Functions and Libraries``, ``Recursion``, ``Performance``, ``Abstract Data Types``, ``Creating Data Types``, ``Sorting and Searching``, ``Stacks and Queues``, ``Symbol Tables``, ``Turing Machines``, ``Intractability``, ``Von Neumann Machines``, ``Graphs``, ``Data Structure``, ``Sort Algorithms``, ``Data Compression``, etc. 
 
 ##
+
+#### Why this course:
 
 Well, now my goal is to finish this section 01 with a total focus on programming in Python, and also learn the basics of the R language, even though programming languages are not like Pokemons, you don't have to catch them all, apart from that each one requires years of practice to develop mastery, I believe it is interesting to understand at least more than one language, and as here I only need two (as a beginner), it will not be such a sacrifice to learn R.
 
@@ -203,6 +213,8 @@ Courses | Repositories if any | Certificates if any
 [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
 [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
 [Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics) | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
+
+#### My opinion: Work in progress...
 
 List of concepts and technologies presented during the course:
 
@@ -247,23 +259,37 @@ Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy) | --- | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Data Science by JHU](https://www.coursera.org/specializations/jhu-data-science) | [Repository](https://github.com/marcoshsq/DataScience-JHU) | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | [Repository](https://github.com/marcoshsq/PythonAppliedDataScience) | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
+
+#### My opinion: Work in progress...
 
 ##
 
@@ -298,28 +324,43 @@ Working in progress...
 
 ##
 
+#### Why this course:
+
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | [Repository](https://github.com/marcoshsq/DatabasesForDataScientists) | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | [Repository](https://github.com/marcoshsq/Pg4E) | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | [Repository]() | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Business Intelligence and Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | [Repository](https://github.com/marcoshsq/DataWarehousing-BI) | ---
 
+#### My opinion: Work in progress...
 
 
 ##
@@ -351,27 +392,43 @@ Working in progress...
 
 ##
 
+#### Why this course:
+
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | [Repository]() | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Big Data](https://www.coursera.org/specializations/big-data) | [Repository](https://github.com/marcoshsq/BigData) | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Data Mining](https://www.coursera.org/specializations/data-mining) | [Repository](https://github.com/marcoshsq/DataMining) | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | [Repository](https://github.com/marcoshsq/CloudComputing) | ---
+
+#### My opinion: Work in progress...
 
 ##
 
@@ -402,27 +459,43 @@ Working in progress...
 
 ##
 
+#### Why this course:
+
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | []() | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Machine Learning](https://www.coursera.org/specializations/machine-learning) | []() | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | []() | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | []() | ---
+
+#### My opinion: Work in progress...
 
 ##
 
@@ -430,35 +503,57 @@ Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | []() | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | []() | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | []() | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [GANS](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | []() | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1) | --- | ---
 
+#### My opinion: Work in progress...
+
 ##
+
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science)
+[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | --- | ---
+
+#### My opinion: Work in progress...
 
 ##
 
