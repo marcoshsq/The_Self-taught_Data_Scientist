@@ -261,6 +261,12 @@ At the end of this section, my goal is to be ready for work, and to be able to s
 
 #### Why this course:
 
+The reason I chose this course is that I feel like a lot of these more technical skills are very "follow the script" and I wanted something a little more subjective, that teaches you how to interpret results and not just write that code, and well, that's exactly what this specialization promises.
+
+This specialization offered by Johns Hopkins attempts to develop a set of skills for the interpretation of statistical results. There are four courses and a project, with about 60 hours, where things like descriptive statistics, data visualization, measurement, regression modeling, probability and uncertainty and other concepts are covered.
+
+And I believe it's a great way to start this part 02.
+
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy) | --- | ---
@@ -354,7 +360,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | [Repository]() | ---
+[Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -402,7 +408,7 @@ Working in progress...
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | [Repository]() | ---
+[Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -469,7 +475,7 @@ Working in progress...
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | []() | ---
+[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -479,7 +485,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Machine Learning](https://www.coursera.org/specializations/machine-learning) | []() | ---
+[Machine Learning](https://www.coursera.org/specializations/machine-learning) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -489,7 +495,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Deep Learning](https://www.coursera.org/specializations/deep-learning) | []() | ---
+[Deep Learning](https://www.coursera.org/specializations/deep-learning) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -499,7 +505,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | []() | ---
+[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -507,17 +513,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | []() | ---
-
-#### My opinion: Work in progress...
-
-##
-
-#### Why this course:
-
-Course | Repository if any | Certificate
-:-- | :--: | :--:
-[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | []() | ---
+[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -527,7 +523,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | []() | ---
+[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -537,7 +533,17 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[GANS](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | []() | ---
+[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | --- | ---
+
+#### My opinion: Work in progress...
+
+##
+
+#### Why this course:
+
+Course | Repository if any | Certificate
+:-- | :--: | :--:
+[GANS](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | --- | ---
 
 #### My opinion: Work in progress...
 
