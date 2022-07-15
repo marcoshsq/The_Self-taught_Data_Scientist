@@ -329,10 +329,9 @@ Espaço para organização pessoal u.u
 
 ### Section 03 - Databases.
 
-Working in progress...
+There's no secret here, the goal is to learn the famous Structured Query Language, that's all. I've had contact with SQL before in this curriculum, but here's to jump in and dive deep.
 
-- add description;
-- add learning goals
+By the end of this section I hope to be more comfortable with SQL, I know that proficiency only comes with practice and I intend to do so, but at least a good theoretical foundation is my goal.
 
 ##
 
@@ -397,10 +396,14 @@ Espaço para organização pessoal u.u
 
 ### Section 04 - Amazing tech & other cool stuff.
 
-Working in progress...
+This section is funny, for the simple fact that here I put courses that cover important concepts, but I didn't know where to fit them in the curriculum. So we have this section that covers things like cloud and big data, my learning objectives here are:
 
-- add description;
-- add learning goals
+- Learn to use BI tools for data visualization.;
+- Deepen my knowledge of Big Data and NoSQL tools;
+- Learn the fundamental concepts of Data Mining;
+- And learn more about cloud computing, after all, everything is in the cloud!
+
+By the end of this section, I hope to be comfortable with some of the technologies presented here, to understand concepts such as virtualization and scalable programs, and to know how to deal with large data sets.
 
 ##
 
