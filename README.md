@@ -234,36 +234,38 @@ Espaço para organização pessoal u.u
 
 ### Section 02 - Data Science.
 
+Working in progress...
+
+- add description;
+- add learning goals
+
+##
+
+
+
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy) | --- | ---
 
-Section two is an introduction to the area of data science and some tools used, my objective is to understand what data science is, where it is applied and what are their methodologies.
-
-This first specialization offered by IBM has ten courses, with around 200 hours to complete. In addition to offering an excellent high-level overview of the field of Data Science, it also introduced some tools like ``Github``, ``Python``, and some libraries (Pandas, Numpy, Matplotlib e etc.), ``Jupyter notebooks``, ``SQL``, and some more concepts like ``Machine Learning``, ``Deep Learning``.
-
-
-
-This second specialization offered by Johns Hopkins University is a more “punk” version of the previous one, with a greater focus on math, especially statistics. This specialization is longer, with around 300 hours to complete, and among the skills taught are ``Data Manipulation``, ``R Programming``, ``Regression Analysis``, ``Cluster Analysis``, ``Data Cleansing``, ``Rstudio``, and etc.
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
 [Data Science by JHU](https://www.coursera.org/specializations/jhu-data-science) | [Repository](https://github.com/marcoshsq/DataScience-JHU) | ---
 
-And to finish off the introduction, let's focus on the tools. The following two specializations have nine courses totaling about 230 total hours, focusing on Python for Data Science and SQL. 
-
-The Applied Data Science with Python specialization is offered by the University of Michigan and teaches things like ``NLTK``, ``Python Text Mining``, ``Pandas``, ``Matplotlib``, ``Numpy``, ``Python Data Cleansing``, ``Data Virtualization``, ``Scikit-Learn``, and more.
-
-While the Learn SQL Basics for Data Science specialization introduces concepts such as ``Apache Spark``, ``Delta Lake``, ``SQL``, ``A/B Testing``, ``Query String``, ``Predictive Analytics`` and a few more things.
+##
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | [Repository](https://github.com/marcoshsq/PythonAppliedDataScience) | ---
+
+##
+
+Course | Repository if any | Certificate
+:-- | :--: | :--: 
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
 
-Wow, quite a lot, and this was just the introduction, by my count this beginning has about 750~800 hours of content. But that's about it, Data Science is a very demanding area, and I decided to go to another college just for the math.
-
-But concluding the Section 02, my goal was to learn the basics of the field, its applications, and tools, and I believe that these courses, 29 in total, helped me with that.
+##
 
 So, let's go to section three. (づ｡◕‿‿◕｡)づ
 
@@ -289,33 +291,30 @@ Espaço para organização pessoal u.u
 
 ### Section 03 - Databases.
 
-In this section, my goal was to dive deep into databases, but let's break it down.
+Working in progress...
 
-First I decided to learn a little about algorithms, for that I chose these three courses offered by Princeton University with about 140 hours of ``Data Structure`` and ``Algorithms`` content.
+- add description;
+- add learning goals
 
-Courses | Repository if any | Certificate
-:-- | :--: | :--:
-
-
-Now to the database.
-
-In this first specialization, offered by the University of Colorado Boulder, with about 120 hours, you are taught about database design, database software fundamentals, and how to use Structured Query Language to work with databases.
-
-Among the skills learned are: ``Database (DB) Design``, ``Data Warehousing``, ``NoSQL``, ``Database Administration,``, ``SQL``, ``Database (DBMS)``, ``Relational Models``, ``Normalization``, ``Entity–Relationship``, ``(E-R) Model``, ``Database Application``.
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | [Repository](https://github.com/marcoshsq/DatabasesForDataScientists) | ---
 
-Now something more advanced.
+##
 
-This other specialization also offered by Colorado Boulder University, with more than 140 hours, is focused on professionals in the field, and focuses on more advanced tools and concepts such as: ``Pentaho``, ``Data Visualization (DataViz)``, ``Entity–Relationship (E-R) Model``, ``Extraction, Transformation And Loading (ETL)``, ``Data Integration``, ``Data Warehousing``, ``Materialized View``, ``Business Intelligence``.
+Course | Repository if any | Certificate
+:-- | :--: | :--:
+[Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | [Repository]() | ---
+
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Business Intelligence and Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | [Repository](https://github.com/marcoshsq/DataWarehousing-BI) | ---
 
-Hope to be good at SQL after this. By my calculations this section has about 400 hours of content, look how cool. But the important thing is that we covered important concepts, and speaking of important concepts, let's move on to the next section that covers precisely important things that I didn't know where to put ヽ(o＾▽＾o)ノ
+
 
 ##
 
@@ -339,26 +338,36 @@ Espaço para organização pessoal u.u
 
 ### Section 04 - Amazing tech & other cool stuff.
 
-Work in progress... to add description
+Working in progress...
+
+- add description;
+- add learning goals
+
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | [Repository]() | ---
 
+##
+
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Agile Development](https://www.coursera.org/specializations/agile-development ) | [Repository]() | ---
 
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Big Data](https://www.coursera.org/specializations/big-data) | [Repository](https://github.com/marcoshsq/BigData) | ---
-[Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | [Repository]() | ---
 
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Data Mining](https://www.coursera.org/specializations/data-mining) | [Repository](https://github.com/marcoshsq/DataMining) | ---
+
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
@@ -386,43 +395,66 @@ Espaço para organização pessoal u.u
 
 ### Section 05 - Artificial Intelligence.
 
-Work in progress... to add description
+Working in progress...
+
+- add description;
+- add learning goals
+
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | []() | ---
 
+##
+
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Machine Learning](https://www.coursera.org/specializations/machine-learning) | []() | ---
+
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | []() | ---
 
+##
+
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | []() | ---
+
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | []() | ---
 
+##
+
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | []() | ---
+
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | []() | ---
 
+##
+
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [GANS](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | []() | ---
 
+##
+
 Course | Repository if any | Certificate
 :-- | :--: | :--:
 [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1) | --- | ---
+
+##
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
