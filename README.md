@@ -467,10 +467,17 @@ Espaço para organização pessoal u.u
 
 ### Section 05 - Artificial Intelligence.
 
-Working in progress...
+And finally we arrived! Artificial intelligence.
 
-- add description;
-- add learning goals
+I'm not going to lie, when I started this project I was just trying to learn some new skills to improve my resume and get a better job. But after starting to understand, seeing the finished projects and the possibilities of the area, I fell in love, and of all the possibilities, AI was the one that caught my attention the most. I liked it a lot, it has great career prospects, it has a lot of math and on top of that it's really cool!
+
+This is the longest section, it has more than 1000 hours of courses alone, I'm not considering the books and articles, as well as other related courses that I took from here, but I intend to do outside. And it's the ultimate goal. Upon finishing these specializations I want to:
+
+- Develop efficient Machine Learning and Deep Learning algorithms;
+- Being able to develop AI applications (Computer Vision, Natural Language Processing, Recommendation Systems, etc.);
+- Getting to win competitions on Kaggle (hahaha, who knows :)).
+
+Obviously I don't believe that I will become the master of AI with just a few online courses, there are a lot of courses, but there are people with PhD's in this area, so I think there's a lot to learn, that is, super exciting.
 
 ##
 
