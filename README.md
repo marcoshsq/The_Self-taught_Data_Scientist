@@ -306,6 +306,12 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
+[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | [Repository](https://github.com/marcoshsq/Pg4E) | ---
+
+##
+
+Course | Repository if any | Certificate
+:-- | :--: | :--:
 [Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | [Repository]() | ---
 
 ##
