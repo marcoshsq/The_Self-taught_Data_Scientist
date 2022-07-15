@@ -347,13 +347,7 @@ Working in progress...
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | [Repository]() | ---
-
-##
-
-Course | Repository if any | Certificate
-:-- | :--: | :--:
-[Agile Development](https://www.coursera.org/specializations/agile-development ) | [Repository]() | ---
+[Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | [Repository]() | ---
 
 ##
 
@@ -582,6 +576,8 @@ In addition to the main courses of this curriculum, other materials such as arti
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - MIT
+- [Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) - To understand this Domain Knowledge
+- [Agile Development](https://www.coursera.org/specializations/agile-development) - Agile u.u 
 
 <div align="right">
 	
