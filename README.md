@@ -246,14 +246,21 @@ Espaço para organização pessoal u.u
 
 ### Section 02 - Data Science.
 
-Working in progress...
+If the previous section was like putting your foot in the water to see if it's cold, this section two would be like putting your head in the water to confirm. Basically, this second part will be a deepening of the concepts seen previously. 
+
+My learning goals here are:
+
+- Increase my data-driven skills by increasing my ability to interpret statistical results and critically evaluate quantitative analyses;
+- Review the concepts of the data science area, its tools and methodologies in a more in-depth way;
+- Focus on Python for data analysis and Machine Learning, learning the libraries (Pandas, Numpy, Seaborn etc) and relevant methodologies;
+- Increase my knowledge of SQL and its capabilities.
 
 - add description;
 - add learning goals
 
 ##
 
-
+#### Why this course:
 
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
