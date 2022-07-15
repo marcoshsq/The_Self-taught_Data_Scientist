@@ -206,6 +206,8 @@ Courses | Repositories if any | Certificates if any
 
 List of concepts and technologies presented during the course:
 
+``Sequences``, ``Iteration``, ``Boolean``, ``Conditionals``, ``Sequence Mutation``, ``Accumulation Patterns``, ``Dictionaries``, ``Dictionary Accumulation``, ``Functions``, ``Tuples``, ``Sorting``, ``Nested Data``, ``Nested Iteration``, ``Map``, ``Filter``, ``List Comprehensions``, ``Internet APIs``, ``Inheritance Classes``, ``Unit Testing``, ``Exceptions``, ``pillow``, ``tesseract``, ``Opencv``, ``Data Visualization``, ``Statistical Model``, ``Statistical inference methods``, ``Statistics``, ``Data Analysis``, ``Confidence Interval``, ``Statistical Inference``, ``Statistical Hypothesis Testing``, ``Bayesian Statistics``, ``Statistical regression``, ``R Programming``, ``Rstudio``, ``Exploratory Data Analysis``, etc.
+
 ##
 
 In this first section I selected 25 courses, totaling something around 600~650 hours of courses. Well, it's a lot.
