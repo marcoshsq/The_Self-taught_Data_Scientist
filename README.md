@@ -479,6 +479,10 @@ This is the longest section, it has more than 1000 hours of courses alone, I'm n
 
 Obviously I don't believe that I will become the master of AI with just a few online courses, there are a lot of courses, but there are people with PhD's in this area, so I think there's a lot to learn, that is, super exciting.
 
+But every journey starts somewhere, and I believe that after studying not only these specializations but all the content available here, I'll be on a good path.
+
+After all, have greatness in small beginnings!
+
 ##
 
 #### Why this course:
