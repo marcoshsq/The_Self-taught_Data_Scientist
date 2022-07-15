@@ -255,8 +255,7 @@ My learning goals here are:
 - Focus on Python for data analysis and Machine Learning, learning the libraries (Pandas, Numpy, Seaborn etc) and relevant methodologies;
 - Increase my knowledge of SQL and its capabilities.
 
-- add description;
-- add learning goals
+At the end of this section, my goal is to be ready for work, and to be able to start developing relevant personal projects and maybe start looking for a job as a junior data analyst... what? dreaming is free!
 
 ##
 
