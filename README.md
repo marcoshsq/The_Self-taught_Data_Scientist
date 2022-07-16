@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/marcoshsq/DataScienceCurriculum">
-    <img src="https://github.com/marcoshsq/DataScienceCurriculum/blob/main/RepositoryImages/CoverWallpaper.jpg" alt="Developer Roadmap" width="" height="">
+    <img src="https://images.prismic.io/hiverywebsite/8225ab45-eb3f-4e22-a48f-1cbab9611f59_franki-chamaki-z4H9MYmWIMA-unsplash.jpg?auto=compress,format" alt="Developer Roadmap" width="" height="">
   </a>
 </p>
   <h2 align="center">Data Science Undergraduate Curriculum</h2>
@@ -163,7 +163,7 @@ Course | Repository if any | Certificate
 
 This was a very long specialization which took me about 5 months to finish investing a lot of time plus the extra research I had to do as I felt that the past content versus what was required in the projects is a little discrepant, but that motivates extra research, aside from the technical issues with labs using IBM tools, but overall it was well worth it.
 
-The course promises to introduce beginners to the area, and show you what the opportunities are, where you should focus and what to learn. And I believe he does it very well, obviously I'm not an expert, far from it, but at least I know what I should learn and where to practice. No more questions on reddit about what to learn in data science.
+The course promises to introduce beginners to the area, and show you what the opportunities are, where you should focus and what to learn. And I believe it does it very well, obviously I'm not an expert, far from it, but at least I know what I should learn and where to practice. No more questions on reddit about what to learn in data science.
 
 Just to finish this description, here is a list of the technologies and concepts presented during this specialization with a link to the badge I received from IBM upon completion (which took a lot of work to get and I want everyone to see u.u):
 
