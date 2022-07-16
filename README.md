@@ -751,5 +751,7 @@ Sources consulted for the construction of this curriculum.
 ---
 
 <p align="center">
-	<i>For those who prove themselves worthy, paradise awaits!</i>
+
+<img src="https://media.giphy.com/media/H62NM1ab7wzMXURdoi/giphy.gif" alt="Developer Roadmap" width="" height="">
+
 </p>
