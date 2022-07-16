@@ -752,6 +752,6 @@ Sources consulted for the construction of this curriculum.
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/H62NM1ab7wzMXURdoi/giphy.gif" alt="Developer Roadmap" width="" height="">
+<img src="https://media.giphy.com/media/l3mZn8P7Pcakfw0Bq/giphy.gif" alt="Developer Roadmap" width="" height="">
 
 </p>
