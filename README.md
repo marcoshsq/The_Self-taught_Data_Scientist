@@ -279,7 +279,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
-[Data Science by JHU](https://www.coursera.org/specializations/jhu-data-science) | [Repository](https://github.com/marcoshsq/DataScience-JHU) | ---
+[Data Science by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science) | [Repository](https://github.com/marcoshsq/DataScienceSpecialization-JHU) | ---
 
 #### My opinion: Work in progress...
 
