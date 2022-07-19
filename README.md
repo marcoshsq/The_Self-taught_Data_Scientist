@@ -642,12 +642,16 @@ Courses | Certificate if any
 
 Courses | Certificate if any
 :-- | :--:
+[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | ---
+[An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | ---
+[Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics) | ---
 [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | ---
 [Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | ---
 [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | ---
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | ---
 [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | ---
 [Social Science](https://www.coursera.org/specializations/social-science) | ---
+[Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | ---
 
 #### Game Theory:
 
@@ -712,6 +716,7 @@ In addition to the main courses of this curriculum, other materials such as arti
 ### Complementary courses.
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
+- [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110) - Harvard
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - MIT
 - [Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) - To understand Business
 - [Agile Development](https://www.coursera.org/specializations/agile-development) - Agile u.u
