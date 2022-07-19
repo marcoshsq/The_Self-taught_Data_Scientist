@@ -706,6 +706,7 @@ In addition to the main courses of this curriculum, other materials such as arti
 - [Interpretability of Computational Intelligence-Based Regression Models](https://shre.ink/lD3) - János Abonyi
 - [Modelos de Regrassão com Apoio Computacional](https://www.ime.usp.br/~giapaula/texto_2013.pdf) - Gilberto A. Paula
 - [All the Mathematics You Missed: But Need to Know for Graduate School](https://www.amazon.com.br/dp/0521792851/?coliid=IS46PVD7HGZK6&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Garrity, Thomas A.
+- [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 
 ### Books, articles and related documentation.
 
