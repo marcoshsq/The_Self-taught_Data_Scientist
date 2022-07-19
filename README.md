@@ -695,7 +695,8 @@ In addition to the main courses of this curriculum, other materials such as arti
 - [Calculus II](https://shre.ink/lD4) - James Stweart
 - [Cálculo Numérico: Aspectos Teóricos e Computacionais](https://shre.ink/lDN) - Marcia Gomes
 - [Elementary Linear Algebra](https://shre.ink/lDO) - Howard Anton
-- [Geometria Analítica: Um Tratamento Vetorial](https://shre.ink/lDw) - Ivan De Camargo 
+- [O Cálculo com Geometria Análitica](http://www.eletrica.ufpr.br/armando/index_arquivos/Louis%20Leithold%20-%20O%20C%C3%A1lculo%20com%20Geometria%20Anal%C3%ADtica,%20volume%201,%203%C2%AA%20Edi%C3%A7%C3%A3o%20%20%20(1994,%20Harbra).pdf) - Louis Leithold
+- [Geometria Analítica: Um Tratamento Vetorial](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx2ZXRvcmVzZ2FtYXJjb3N8Z3g6NjAzODc4NTdjZGEwY2ZiOA) - Ivan De Camargo 
 - [Introduction to the Theory of Statistics](https://shre.ink/lDZ) - Alexander Mood
 - [Matrix Algebra Useful for Statistics](https://shre.ink/lDG) - Andre I Khuri
 - [The Elements of Statistical Learning](https://shre.ink/lDR) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
