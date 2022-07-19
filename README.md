@@ -703,7 +703,7 @@ In addition to the main courses of this curriculum, other materials such as arti
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - MIT
-- [Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) - To understand this Domain Knowledge
+- [Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) - To understand Business
 - [Agile Development](https://www.coursera.org/specializations/agile-development) - Agile u.u 
 
 <div align="right">
