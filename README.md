@@ -279,7 +279,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--: 
-[Data Science by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science) | [Repository](https://github.com/marcoshsq/DataScienceSpecialization-JHU) | ---
+[Data Science by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -289,7 +289,7 @@ Course | Repository if any | Certificate
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | [Repository](https://github.com/marcoshsq/PythonAppliedDataScience) | ---
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -339,7 +339,7 @@ By the end of this section I hope to be more comfortable with SQL, I know that p
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | [Repository](https://github.com/marcoshsq/DatabasesForDataScientists) | ---
+[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -349,7 +349,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | [Repository](https://github.com/marcoshsq/Pg4E) | ---
+[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -369,7 +369,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Business Intelligence and Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | [Repository](https://github.com/marcoshsq/DataWarehousing-BI) | ---
+[Business Intelligence and Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -421,7 +421,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Big Data](https://www.coursera.org/specializations/big-data) | [Repository](https://github.com/marcoshsq/BigData) | ---
+[Big Data](https://www.coursera.org/specializations/big-data) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -431,7 +431,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Data Mining](https://www.coursera.org/specializations/data-mining) | [Repository](https://github.com/marcoshsq/DataMining) | ---
+[Data Mining](https://www.coursera.org/specializations/data-mining) | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -441,7 +441,7 @@ Course | Repository if any | Certificate
 
 Course | Repository if any | Certificate
 :-- | :--: | :--:
-[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | [Repository](https://github.com/marcoshsq/CloudComputing) | ---
+[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | --- | ---
 
 #### My opinion: Work in progress...
 
