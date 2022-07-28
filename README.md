@@ -726,10 +726,10 @@ In addition to the main courses of this curriculum, other materials such as arti
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110) - Harvard
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - MIT
-- [Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) - Business Concepts
-- [Agile Development](https://www.coursera.org/specializations/agile-development) - Agile
-- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) - AI terminology
-- [Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) - CV
+- [Business Concepts](https://www.coursera.org/specializations/wharton-business-foundations) - Penn
+- [Agile Software Development](https://www.coursera.org/specializations/agile-development) - University of Virginia
+- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) - DeepLearning.AI
+- [Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) - University of Toronto
 
 <div align="right">
 	
