@@ -85,6 +85,8 @@ But here is an overview list of concepts and skills I want to learn by the end o
 
 This is just an overview, if you want more details I recommend reading the main curriculum, and if you want a complete guide take a look at the roadmap. They created a guide describing all the skills and concepts needed to become an expert in Data Science and/or AI, in a cohesive and intuitive way.
 
+<!--
+
 And if you're still not convinced, here's a roadmap I made.
 
 <p align="center">
@@ -92,6 +94,8 @@ And if you're still not convinced, here's a roadmap I made.
     <img src="https://user-images.githubusercontent.com/64812097/180591121-c3512e8c-1c19-45c8-9ac7-9ce5d70305d9.png" alt="Developer Roadmap" width="" height="">
   </a>
 </p>
+
+-->
 
 ##
 
