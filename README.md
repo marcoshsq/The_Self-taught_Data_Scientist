@@ -745,6 +745,7 @@ In addition to the main courses of this curriculum, other materials such as arti
 
 * The duration of the courses that I put here are estimates made by the platforms where they are offered.
 * At the moment I am doing this graduation, so the verb tense of this ``readme`` is a little strange, sometimes in the past, sometimes in the future, as I do it I will reformat it to better report my experience.
+* As for the books, my university has partnerships with a few platforms, like O'Reilly, as well as a very large library that's where I got almost all of these books.
 
 <!-- 
 
