@@ -196,9 +196,9 @@ Links to courses, repositories and possible certificates are in the table below.
 Courses | Repositories if any | Certificates if any
 :-- | :--: | :--: 
 [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | [Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | ---
-[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | [Repository]() | ---
-[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | [Repository]() | ---
-[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | [Repository]() | ---
+[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | ---
+[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | --- | ---
+[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | --- | ---
 
 #### My opinion: Work in progress...
 
