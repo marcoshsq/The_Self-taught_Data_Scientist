@@ -193,12 +193,12 @@ All courses are taught in Java, and total about 230 hours of content, it's quite
 
 Links to courses, repositories and possible certificates are in the table below.
 
-Courses | Repositories if any | Certificates if any
-:-- | :--: | :--: 
-[Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | [Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | ---
-[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | ---
-[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | --- | ---
-[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | --- | ---
+Course | offered by | Duration | Repository if any | Certificate Link
+:-- | :--: | :--: | :--: | :--:
+[Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | Princeton University | ~88h | [Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | ---
+[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University | ~20h | --- | ---
+[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | Princeton University | ~54h | --- | ---
+[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | ~63h | --- | ---
 
 #### My opinion: Work in progress...
 
@@ -218,11 +218,11 @@ The second specialization is also focused on Python, but applied to statistical 
 
 Lastly, R. In this last specialization offered by Duke University, we are taught to analyze and visualize data in R and create reproducible data analysis reports, perform Bayesian statistical inference and modeling, visualize data with R packages for data analysis, and so on. Looks cool. There are three courses, with a total of approximately 40 hours.
 
-Courses | Repositories if any | Certificates if any
-:-- | :--: | :--: 
-[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | [Repository](https://github.com/marcoshsq/Python) | ---
-[Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
-[Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics) | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
+Course | offered by | Duration | Repository if any | Certificate Link
+:-- | :--: | :--: | :--: | :--:
+[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | University of Michigan |  | [Repository](https://github.com/marcoshsq/Python) | ---
+[Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan |  | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
+[Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics) |  |  | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
 
 #### My opinion: Work in progress...
 
