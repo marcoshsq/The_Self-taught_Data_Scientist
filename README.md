@@ -220,9 +220,9 @@ Lastly, R. In this last specialization offered by Duke University, we are taught
 
 Course | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | University of Michigan |  | [Repository](https://github.com/marcoshsq/Python) | ---
-[Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan |  | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
-[Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics) |  |  | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
+[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Repository](https://github.com/marcoshsq/Python) | ---
+[Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
+[Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics) | Duke University | ~40h | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
 
 #### My opinion: Work in progress...
 
