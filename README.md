@@ -165,9 +165,9 @@ This specialization aims to provide a high-level overview of the field of Data S
 
 During the specialization I carried out six projects which can be found in the link to the repository in the table below, with a link to the course (not sponsored) and a link to my certificate of completion.
 
-Course | Repository if any | Certificate
-:-- | :--: | :--: 
-[IBM - Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+Course | offered by | Duration | Repository if any | Certificate Link
+:-- | :--: | :--: | :--: | :--:
+[IBM - Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
 
 #### My opinion:
 
