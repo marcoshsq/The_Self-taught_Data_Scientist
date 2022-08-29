@@ -27,8 +27,8 @@
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
 	- [Section 01 - Fundamentals of Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-01---Fundamentals-of-Data-Science)
 	- [Section 02 - Mathematics]()
-	- [Section 03 - Computing and Programming](https://github.com/marcoshsq/DataScienceCurriculum#section-02---computing-and-programming)
-	- [Section 04 - Databases and Big Data](https://github.com/marcoshsq/DataScienceCurriculum#section-03---databases-and-big-data)
+	- [Section 03 - Computing and Programming](https://github.com/marcoshsq/DataScienceCurriculum#section-03---computing-and-programming)
+	- [Section 04 - Databases and Big Data](https://github.com/marcoshsq/DataScienceCurriculum#section-04---databases-and-big-data)
 	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
 - [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
@@ -143,41 +143,23 @@ Espaço para organização pessoal u.u
 
 ### Section 01 - Fundamentals of Data Science.
 
-This first section has a very simple goal, to learn the basics of programming and statistical analysis, not necessarily in a deep way, but enough for me to know what I'm talking about, and more importantly, master these fundamentals to form a solid foundation.
-
-My learning goals here are:
-
-- Understand the basics of the data area, what are its methodologies and tools, and most importantly its applications and how this professional can generate value;
-- Learn database basics like SQL vs NoSQL, Joins, ETL Basics, Data Format and more;
-- Learn to code, variables, functions, data structure, composite structures, recursion, loops, and other important things.
-
-At the end of this section my goal is to know what Data Science is and what it's for, know how to code programs with at least 1000 lines in python, know how to use SQL to write queries and manage tables and create reports.
-
-And for that I chose the following courses.
+To add description...
 
 ##
 
 #### Why this course:
 
-This first specialization is offered by IBM through Coursera and consists of 9 courses and a final project totaling about 180 hours (estimated by Coursera).
 
-This specialization aims to provide a high-level overview of the field of Data Science, teaching concepts ranging from Python, Pandas, Numpy, Matplotlib and Jupyter Notebooks, SQL through IBM db2, and theoretical concepts of data application, machine learning, etc.
 
-During the specialization I carried out six projects which can be found in the link to the repository in the table below, with a link to the course (not sponsored) and a link to my certificate of completion.
-
-Course | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
+[Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy) | --- | --- | --- | ---
 [IBM - Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+[Data Science by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science) | --- | --- | --- | ---
 
 #### My opinion:
 
-This was a very long specialization which took me about 5 months to finish investing a lot of time plus the extra research I had to do as I felt that the past content versus what was required in the projects is a little discrepant, but that motivates extra research, aside from the technical issues with labs using IBM tools, but overall it was well worth it.
-
-The course promises to introduce beginners to the area, and show you what the opportunities are, where you should focus and what to learn. And I believe it does it very well, obviously I'm not an expert, far from it, but at least I know what I should learn and where to practice. No more questions on reddit about what to learn in data science.
-
-Just to finish this description, here is a list of the technologies and concepts presented during this specialization with a link to the badge I received from IBM upon completion (which took a lot of work to get and I want everyone to see u.u):
-
-``Artificial Intelligence``, ``Bokeh``, ``Classification``, ``Clustering``, ``Data Analysis``, ``Data Visualization``, ``Db2``, ``Folium``, ``Foursquare``, ``IBM Cloud``, ``Jupyter``, ``Machine Learning``, ``Matplotlib``, ``NumPy``, ``Pandas``, ``Python``, ``Recommender Systems``, ``Regression``, ``R``, ``Scikit-learn``, ``SciPy``, ``Seaborn``, ``SQL``, ``Watson Studio``.
+To add description...
 
 - [IBM Data Science Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d)
 
@@ -185,13 +167,7 @@ Just to finish this description, here is a list of the technologies and concepts
 
 #### Why this course:
 
-Well, now that we know the basics, my goal is to dive into programming, in data science Python and R are used, but instead of learning these languages directly, I find it interesting to explore the fundamental concepts of programming before, I believe that not only it will be easier to learn Python and R, but I will also be a better programmer, not just someone who knows how to replicate code.
 
-For this I chose these four courses offered by Princeton University, the first two cover the content of the book Computer Science: An Interdisciplinary Approach, while the other two (Algorithms, Part I and II) cover the fundamental concepts of... you'll never guess... Algorithms and Data structure.
-
-All courses are taught in Java, and total about 230 hours of content, it's quite a lot...
-
-Links to courses, repositories and possible certificates are in the table below.
 
 Course | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
@@ -210,13 +186,7 @@ List of concepts and technologies presented during the course:
 
 #### Why this course:
 
-Well, now my goal is to finish this section 01 with a total focus on programming in Python, and also learn the basics of the R language, even though programming languages are not like Pokemons, you don't have to catch them all, apart from that each one requires years of practice to develop mastery, I believe it is interesting to understand at least more than one language, and as here I only need two (as a beginner), it will not be such a sacrifice to learn R.
 
-For this I separated three specializations, the first two are offered by the University of Michigan and are focused on Python. The first one, Python 3 Programming, focuses on learning Python itself, it teaches the fundamentals of the language, starting at the beginning with variables, conditionals, and loops, and moving to intermediate and specific concepts such as keyword parameters, list comprehensions, lambda expressions, and class inheritance. It is a somewhat long specialization, divided into five courses, with approximately 120 hours of content, but which has a great alumni rating.
-
-The second specialization is also focused on Python, but applied to statistical analysis, after all, this is a Data Science curriculum. It is a specialization designed to teach beginner and intermediate concepts of statistical analysis using the Python programming language. Teaching where data comes from, what types of data can be collected, data design, data management, and how to effectively perform data exploration and visualization. It is a shorter specialization, containing only three courses of around 60 hours, but it also has a great review.
-
-Lastly, R. In this last specialization offered by Duke University, we are taught to analyze and visualize data in R and create reproducible data analysis reports, perform Bayesian statistical inference and modeling, visualize data with R packages for data analysis, and so on. Looks cool. There are three courses, with a total of approximately 40 hours.
 
 Course | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
@@ -226,9 +196,7 @@ Course | offered by | Duration | Repository if any | Certificate Link
 
 #### My opinion: Work in progress...
 
-List of concepts and technologies presented during the course:
 
-``Sequences``, ``Iteration``, ``Boolean``, ``Conditionals``, ``Sequence Mutation``, ``Accumulation Patterns``, ``Dictionaries``, ``Dictionary Accumulation``, ``Functions``, ``Tuples``, ``Sorting``, ``Nested Data``, ``Nested Iteration``, ``Map``, ``Filter``, ``List Comprehensions``, ``Internet APIs``, ``Inheritance Classes``, ``Unit Testing``, ``Exceptions``, ``pillow``, ``tesseract``, ``Opencv``, ``Data Visualization``, ``Statistical Model``, ``Statistical inference methods``, ``Statistics``, ``Data Analysis``, ``Confidence Interval``, ``Statistical Inference``, ``Statistical Hypothesis Testing``, ``Bayesian Statistics``, ``Statistical regression``, ``R Programming``, ``Rstudio``, ``Exploratory Data Analysis``, etc.
 
 ##
 
@@ -252,34 +220,33 @@ Espaço para organização pessoal u.u
 
 -->
 
+
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+### Section 02 - Mathematics.
+
+To add description...
+
 ##
 
-### Section 02 - Computing and Programming.
+-->
 
-If the previous section was like putting your foot in the water to see if it's cold, this section two would be like putting your head in the water to confirm. Basically, this second part will be a deepening of the concepts seen previously. 
+##
 
-My learning goals here are:
+### Section 03 - Computing and Programming.
 
-- Increase my data-driven skills by increasing my ability to interpret statistical results and critically evaluate quantitative analyses;
-- Review the concepts of the data science area, its tools and methodologies in a more in-depth way;
-- Focus on Python for data analysis and Machine Learning, learning the libraries (Pandas, Numpy, Seaborn etc) and relevant methodologies;
-- Increase my knowledge of SQL and its capabilities.
-
-At the end of this section, my goal is to be ready for work, and to be able to start developing relevant personal projects and maybe start looking for a job as a junior data analyst... what? dreaming is free!
+To add description...
 
 ##
 
 #### Why this course:
 
-The reason I chose this course is that I feel like a lot of these more technical skills are very "follow the script" and I wanted something a little more subjective, that teaches you how to interpret results and not just write that code, and well, that's exactly what this specialization promises.
 
-This specialization offered by Johns Hopkins attempts to develop a set of skills for the interpretation of statistical results. There are four courses and a project, with about 60 hours, where things like descriptive statistics, data visualization, measurement, regression modeling, probability and uncertainty and other concepts are covered.
-
-And I believe it's a great way to start this part 02.
-
-Course | Repository if any | Certificate
-:-- | :--: | :--: 
-[Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy) | --- | ---
 
 #### My opinion: Work in progress...
 
