@@ -440,11 +440,10 @@ In addition to the main courses of this curriculum, other materials such as arti
 - [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) - DeepLearning.AI
 - [Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) - University of Toronto
 
-#### Soft Skills/Domain Knowledge Courses:
+#### Soft Skills Courses:
 
 Course/Specialization | offered by | Duration | Certificate Link
 :-- | :--: | :--: | :--: 
-[Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Penn | ~60h | ---
 [Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
 [Academic Skills for University Success](https://www.coursera.org/specializations/academic-skills) | University of Sydney | ~160 | ---
 [Strategic Leadership and Management](https://www.coursera.org/specializations/strategic-leadership) | University of Illinois at Urbana-Champaign | ~100h | ---
@@ -453,7 +452,15 @@ Course/Specialization | offered by | Duration | Certificate Link
 [Influencing: Storytelling, Change Management and Governance](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~72h | ---
 [Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication) | CU - Boulder | ~80h | ---
 
- 
+#### Domain Knowledge Courses:
+
+Course/Specialization | offered by | Duration | Certificate Link
+:-- | :--: | :--: | :--: 
+[Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Penn | ~60h | ---
+[Wharton Business Analytics](https://www.coursera.org/specializations/business-analytics) | Penn | ~72h | ---
+[/Google Digital Marketing E-commerce](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google | ~240h | ---
+[Marketing Analytics](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) | Meta | ~120h | ---
+[Supply Chain Analytics](https://www.coursera.org/specializations/supply-chain-analytics) | Rutgers | ~40h | ---
 
 ##
 
