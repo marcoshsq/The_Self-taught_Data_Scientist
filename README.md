@@ -25,10 +25,10 @@
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Learning Goals](https://github.com/marcoshsq/DataScienceCurriculum#learning-goals)
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
-	- [Section 01 - Basics](https://github.com/marcoshsq/DataScienceCurriculum#section-01---basics)
-	- [Section 02 - Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-02---data-science)
-	- [Section 03 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#section-03---databases)
-	- [Section 04 - Amazing tech & other cool stuff](https://github.com/marcoshsq/DataScienceCurriculum#section-04---amazing-tech--other-cool-stuff)
+	- [Section 01 - Fundamentals of Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-01---Fundamentals-of-Data-Science)
+	- [Section 02 - Mathematics]()
+	- [Section 03 - Computing and Programming](https://github.com/marcoshsq/DataScienceCurriculum#section-02---computing-and-programming)
+	- [Section 04 - Databases and Big Data](https://github.com/marcoshsq/DataScienceCurriculum#section-03---databases-and-big-data)
 	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
 - [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
@@ -141,7 +141,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 01 - Basics.
+### Section 01 - Fundamentals of Data Science.
 
 This first section has a very simple goal, to learn the basics of programming and statistical analysis, not necessarily in a deep way, but enough for me to know what I'm talking about, and more importantly, master these fundamentals to form a solid foundation.
 
@@ -254,7 +254,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 02 - Data Science.
+### Section 02 - Computing and Programming.
 
 If the previous section was like putting your foot in the water to see if it's cold, this section two would be like putting your head in the water to confirm. Basically, this second part will be a deepening of the concepts seen previously. 
 
@@ -337,7 +337,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 03 - Databases.
+### Section 03 - Databases and Big Data.
 
 There's no secret here, the goal is to learn the famous Structured Query Language, that's all. I've had contact with SQL before in this curriculum, but here's to jump in and dive deep.
 
