@@ -187,8 +187,8 @@ To add description...
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | --- | --- | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
-[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | --- | --- | --- | ---
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not applicable | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h | --- | ---
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | --- | --- | --- | ---
 [Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | --- | --- | --- | ---
 [Math for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | --- | --- | --- | ---
