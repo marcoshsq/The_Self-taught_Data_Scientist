@@ -443,9 +443,10 @@ In addition to the main courses of this curriculum, other materials such as arti
 #### Soft Skills/Domain Knowledge Courses:
 
 Course/Specialization | offered by | Duration | Certificate Link
-:-- | :--: | :--: | :--: | :--:
-[Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Penn | --- | ---
-[Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | --- | ---
+:-- | :--: | :--: | :--: 
+[Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Penn | ~60h | ---
+[Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
+
 
 
 ##
