@@ -45,7 +45,7 @@
 
 ## About.
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Johns Hopkins University that satisfy the same requirements as an undergraduate curriculum for Data Science, minus general education.
+This is a curated list of free courses from reputable universities (e.g. MIT, Stanford, Johns Hopkins University, etc.) that satisfy the same requirements as an undergraduate curriculum for Data Science, minus general education.
 
 To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
