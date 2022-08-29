@@ -25,8 +25,8 @@
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Learning Goals](https://github.com/marcoshsq/DataScienceCurriculum#learning-goals)
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
-	- [Section 01 - Fundamentals of Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-01---Fundamentals-of-Data-Science)
-	- [Section 02 - Mathematics and Statistics for Data Science]()
+	- [Section 01 - Fundamentals of Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-01---fundamentals-of-data-science)
+	- [Section 02 - Mathematics and Statistics for Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-02---mathematics-and-statistics-for-data-science)
 	- [Section 03 - Computing and Programming](https://github.com/marcoshsq/DataScienceCurriculum#section-03---computing-and-programming)
 	- [Section 04 - Databases and Big Data](https://github.com/marcoshsq/DataScienceCurriculum#section-04---databases-and-big-data)
 	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
@@ -311,7 +311,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 03 - Databases and Big Data.
+### Section 04 - Databases and Big Data.
 
 To add description...
 
