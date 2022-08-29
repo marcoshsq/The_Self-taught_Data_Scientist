@@ -30,12 +30,12 @@
 	- [Section 03 - Computing and Programming](https://github.com/marcoshsq/DataScienceCurriculum#section-03---computing-and-programming)
 	- [Section 04 - Databases and Big Data](https://github.com/marcoshsq/DataScienceCurriculum#section-04---databases-and-big-data)
 	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
+- [Complementary courses](https://github.com/marcoshsq/DataScienceCurriculum#complementary-courses)
+		- [Soft Skills Courses](https://github.com/marcoshsq/DataScienceCurriculum#soft-skills-courses)
+		- [Domain Knowledge Courses](https://github.com/marcoshsq/DataScienceCurriculum#domain-knowledge-courses)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 	- [Mathematics Books](https://github.com/marcoshsq/DataScienceCurriculum#mathematics-books)
 	- [Books, articles and related documentation](https://github.com/marcoshsq/DataScienceCurriculum#books-articles-and-related-documentation)
-	- [Complementary courses](https://github.com/marcoshsq/DataScienceCurriculum#complementary-courses)
-		- [Soft Skills Courses](https://github.com/marcoshsq/DataScienceCurriculum#soft-skills-courses)
-		- [Domain Knowledge Courses](https://github.com/marcoshsq/DataScienceCurriculum#domain-knowledge-courses)
 - [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
@@ -397,6 +397,62 @@ Espaço para organização pessoal u.u
 
 -->
 
+## Complementary courses.
+
+To add description...
+
+##
+
+#### Soft Skills Courses:
+
+Course/Specialization | offered by | Duration | Certificate Link
+:-- | :--: | :--: | :--: 
+[Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
+[Academic Skills for University Success](https://www.coursera.org/specializations/academic-skills) | University of Sydney | ~160 | ---
+[Strategic Leadership and Management](https://www.coursera.org/specializations/strategic-leadership) | University of Illinois at Urbana-Champaign | ~100h | ---
+[Wharton Entrepreneurship](https://www.coursera.org/specializations/wharton-entrepreneurship) | Penn | ~50h | ---
+[Professional Skills for the Workplace](https://www.coursera.org/specializations/professional-skills-for-the-workplace) | UC Davis | ~50h | ---
+[Influencing: Storytelling, Change Management and Governance](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~72h | ---
+[Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication) | CU - Boulder | ~80h | ---
+
+#### Domain Knowledge Courses:
+
+Course/Specialization | offered by | Duration | Certificate Link
+:-- | :--: | :--: | :--: 
+[Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton - Penn | ~60h | ---
+[Wharton Business Analytics](https://www.coursera.org/specializations/business-analytics) | Wharton - Penn | ~72h | ---
+[Fundamentals of Accounting](https://www.coursera.org/specializations/accounting-fundamentals) | University of Illinois | ~96h | ---
+[Accounting Analytics](https://www.coursera.org/specializations/accounting-data-analytics) | University of Illinois | ~140h | ---
+[Google Digital Marketing E-commerce](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google | ~240h | ---
+[Marketing Analytics](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) | Meta | ~120h | ---
+[Supply Chain Analytics](https://www.coursera.org/specializations/supply-chain-analytics) | Rutgers | ~40h | ---
+[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | DeepLearning.AI | --- | ---
+[Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | --- | ---
+
+##
+
+#### My opinion:
+
+To add description...
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ##
 
 ## Extra Bibliography.
@@ -431,40 +487,9 @@ In addition to the main courses of this curriculum, other materials such as arti
 - [SQL for Smarties: Advanced SQL Programming](https://shre.ink/lD9) - Joe Celko
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap of DL Papers
 - [Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/?coliid=I1DADMS27UAR9G&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Stuart J. Russell
-
-### Complementary courses.
-
-#### CS/Math Courses:
-
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110) - Harvard
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - MIT
-- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) - DeepLearning.AI
-- [Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) - University of Toronto
-
-#### Soft Skills Courses:
-
-Course/Specialization | offered by | Duration | Certificate Link
-:-- | :--: | :--: | :--: 
-[Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
-[Academic Skills for University Success](https://www.coursera.org/specializations/academic-skills) | University of Sydney | ~160 | ---
-[Strategic Leadership and Management](https://www.coursera.org/specializations/strategic-leadership) | University of Illinois at Urbana-Champaign | ~100h | ---
-[Wharton Entrepreneurship](https://www.coursera.org/specializations/wharton-entrepreneurship) | Penn | ~50h | ---
-[Professional Skills for the Workplace](https://www.coursera.org/specializations/professional-skills-for-the-workplace) | UC Davis | ~50h | ---
-[Influencing: Storytelling, Change Management and Governance](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~72h | ---
-[Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication) | CU - Boulder | ~80h | ---
-
-#### Domain Knowledge Courses:
-
-Course/Specialization | offered by | Duration | Certificate Link
-:-- | :--: | :--: | :--: 
-[Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton - Penn | ~60h | ---
-[Wharton Business Analytics](https://www.coursera.org/specializations/business-analytics) | Wharton - Penn | ~72h | ---
-[Fundamentals of Accounting](https://www.coursera.org/specializations/accounting-fundamentals) | University of Illinois | ~96h | ---
-[Accounting Analytics](https://www.coursera.org/specializations/accounting-data-analytics) | University of Illinois | ~140h | ---
-[Google Digital Marketing E-commerce](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google | ~240h | ---
-[Marketing Analytics](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) | Meta | ~120h | ---
-[Supply Chain Analytics](https://www.coursera.org/specializations/supply-chain-analytics) | Rutgers | ~40h | ---
 
 ##
 
