@@ -34,6 +34,8 @@
 	- [Mathematics Books](https://github.com/marcoshsq/DataScienceCurriculum#mathematics-books)
 	- [Books, articles and related documentation](https://github.com/marcoshsq/DataScienceCurriculum#books-articles-and-related-documentation)
 	- [Complementary courses](https://github.com/marcoshsq/DataScienceCurriculum#complementary-courses)
+		- [Soft Skills Courses](https://github.com/marcoshsq/DataScienceCurriculum#soft-skills-courses)
+		- [Domain Knowledge Courses](https://github.com/marcoshsq/DataScienceCurriculum#domain-knowledge-courses)
 - [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
@@ -456,10 +458,10 @@ Course/Specialization | offered by | Duration | Certificate Link
 
 Course/Specialization | offered by | Duration | Certificate Link
 :-- | :--: | :--: | :--: 
-[Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Penn | ~60h | ---
-[Wharton Business Analytics](https://www.coursera.org/specializations/business-analytics) | Penn | ~72h | ---
-[Fundamentals of Accounting](https://www.coursera.org/specializations/accounting-fundamentals) | University of Illinois at Urbana-Champaign | ~96h | ---
-[Accounting Analytics](https://www.coursera.org/specializations/accounting-data-analytics) | University of Illinois at Urbana-Champaign | ~140h | ---
+[Wharton Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton - Penn | ~60h | ---
+[Wharton Business Analytics](https://www.coursera.org/specializations/business-analytics) | Wharton - Penn | ~72h | ---
+[Fundamentals of Accounting](https://www.coursera.org/specializations/accounting-fundamentals) | University of Illinois | ~96h | ---
+[Accounting Analytics](https://www.coursera.org/specializations/accounting-data-analytics) | University of Illinois | ~140h | ---
 [Google Digital Marketing E-commerce](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google | ~240h | ---
 [Marketing Analytics](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) | Meta | ~120h | ---
 [Supply Chain Analytics](https://www.coursera.org/specializations/supply-chain-analytics) | Rutgers | ~40h | ---
