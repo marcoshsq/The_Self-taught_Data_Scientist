@@ -48,7 +48,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
-An important note, data science is math, period. Therefore, when researching what would be the best approaches and content/courses to learn mathematics and statistics following the philosophy of this curriculum, I came to the conclusion that it would be better to study statistics at a traditional institution, so courses related to mathematics here are fixation and reinforcement courses, along with great books that have been recommended to me. And can be found at the end of this repository in a specific section.
+An important note, data science is math, period. Therefore, when researching what would be the best approaches and content/courses to learn mathematics and statistics following the philosophy of this curriculum, I came to the conclusion that it would be better to study statistics at a traditional institution, so courses related to mathematics here are fixation and reinforcement courses, along with great books that have been recommended to me.
 
 By my estimates, adding up the estimated hours of courses, projects, books, articles and other supplementary materials (that is not accounted for here), I believe that this whole curriculum should be around 4000 hours, so with a weekly effort of 20 hours it's possible to finish it in four years... look how cool. (ﾉ◕ヮ◕)ﾉ ヽ(^◇^*)/
 
@@ -76,12 +76,12 @@ Espaço para organização pessoal u.u
 
 My main focus is to learn the contents following this [roadmap here](https://i.am.ai/roadmap/), created by the AI expert guys. 
 
-But here is an overview list of concepts and skills I want to learn by the end of this degree:
+But here is an overview list of concepts and skills I want to learn by the end of this "degree":
 
-- Databases, Programming, EDA, and ETL;
-- Statistics, Visualization and Business Intelligence;
-- Machine Learning, Methods, Use Cases and Tools;
-- Deep Learning, Neural Networks, and Model optimization.
+- Programming (Python, R and Java);
+- Databases, Business Intelligence and Data Analysis;
+- Data Visualization and Presentation Skills;
+- Inteligência Artificial (Machine Learning, Deep Learning, Neural Networks, CV and NLP).
 
 This is just an overview, if you want more details I recommend reading the main curriculum, and if you want a complete guide take a look at the roadmap. They created a guide describing all the skills and concepts needed to become an expert in Data Science and/or AI, in a cohesive and intuitive way.
 
@@ -119,11 +119,11 @@ Espaço para organização pessoal u.u
 
 ## Main Curriculum.
 
-This curriculum is divided into five sections: [Basics](https://github.com/marcoshsq/DataScienceCurriculum#section-01---basics), [Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-02---data-science), [Databases](https://github.com/marcoshsq/DataScienceCurriculum#section-03---databases), [Amazing tech & other cool stuff](https://github.com/marcoshsq/DataScienceCurriculum#section-04---amazing-tech--other-cool-stuff), and [Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
+This curriculum is divided into five sections: Fundamentals of Data Science, Mathematics, Computing and Programming, Databases and Big Data and Artificial Intelligence.
 
-Section 01 focuses on programming and learning what advantages the use of data can bring. Section 02 aims to develop a high-level overview of the field of data science itself, its applications, tools, and methodologies. Section 03 is all about Databases, and in Section 04 my goal is to supplement with some important concepts that I wanted to include and didn't know where to put. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
+Section 01 focuses on the basics of the Data field, and what advantages the use of data can bring. Section 02 is intended to be a boost to my math studies, but with a greater focus on computational math and modeling. Section 03 is about learning to code, in addition to other computer science related topics. Section 04 is all about Databases and Big Data, it´s tools and applications. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
 
-Each section contains a brief introduction describing what I want to learn and which courses I have chosen to do so. After that we have a brief description of the course, with some of the skills taught. Then we have a small table with a link to the course, a link to some project or repository with my codes, and finally a link to a certificate if I received one.
+Each section contains a brief introduction describing what I want to learn and which courses I have chosen to do so. After that we have a brief description of the courses, with some of the skills taught. Then we have a small table with a link to the courses, a link to some project or repository with my codes, and finally a link to a certificate if I received one.
 
 For more details and information, visit each specific section.
 
