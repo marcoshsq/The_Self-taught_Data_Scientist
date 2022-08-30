@@ -37,6 +37,7 @@
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 	- [Mathematics Books](https://github.com/marcoshsq/DataScienceCurriculum#mathematics-books)
 	- [Books, articles and related documentation](https://github.com/marcoshsq/DataScienceCurriculum#books-articles-and-related-documentation)
+- [List of Developed Projects]()
 - [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
@@ -548,6 +549,47 @@ In addition to the main courses of this curriculum, other materials such as arti
 </div>
 
 ##
+
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+
+## List of Developed Projects.
+
+Preject Name | Repository Link
+:--: | :--:
+--- | ---
+--- | ---
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+##
+
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 
 ## Important Notes.
 
