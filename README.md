@@ -37,7 +37,7 @@
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 	- [Mathematics Books](https://github.com/marcoshsq/DataScienceCurriculum#mathematics-books)
 	- [Books, articles and related documentation](https://github.com/marcoshsq/DataScienceCurriculum#books-articles-and-related-documentation)
-- [List of Developed Projects]()
+- [List of Developed Projects](https://github.com/marcoshsq/DataScienceCurriculum#list-of-developed-projects)
 - [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
@@ -234,10 +234,10 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | --- | --- | --- | ---
-[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | --- | --- | --- | ---
-[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | --- | --- | --- | ---
-[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | --- | --- | --- | ---
+[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | Johns Hopkins University | ~h | --- | ---
+[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Johns Hopkins University | ~h | --- | ---
+[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Johns Hopkins University | ~h | --- | ---
+[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~h | --- | ---
 
 #### Probability and Statistics:
 
