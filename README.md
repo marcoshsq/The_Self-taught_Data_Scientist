@@ -243,25 +243,25 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | --- | --- | --- | ---
-[An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | --- | --- | --- | ---
-[Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics) | --- | --- | --- | ---
-[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | --- | --- | --- | ---
-[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | --- | --- | --- | ---
+[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~15h | --- | ---
+[An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | University of Zurich | ~30h | --- | ---
+[Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics) | University London | ~18h | --- | ---
+[Statistical Methods Applied to Social Sciences](https://www.coursera.org/specializations/social-science) | University of Amsterdam | ~120h | --- | ---
+[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Santa Cruz - California University | ~96h | --- | ---
 [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | --- | --- | --- | ---
-[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | --- | --- | --- | ---
-[Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | --- | --- | --- | ---
-[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | --- | --- | --- | ---
-[Social Science](https://www.coursera.org/specializations/social-science) | --- | --- | --- | ---
+[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | CU-Boulder | ~120h | --- | ---
+[Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | CU-Boulder | ~35h | --- | ---
+[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Johns Hopkins University | ~40h | --- | ---
+[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford University | ~180h | --- | ---
 
 #### Game Theory:
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Game Theory](https://www.coursera.org/learn/game-theory-introduction) | The University of Tokyo | ~20h | --- | ---
-[Game Theory I](https://www.coursera.org/learn/game-theory-1) | Stanford | ~18h | --- | ---
-[Game Theory II](https://www.coursera.org/learn/game-theory-2) | Stanford | ~18h | --- | ---
-[Social Economic Networks](https://www.coursera.org/learn/social-economic-networks) | Stanford | ~30h | --- | ---
+[Game Theory I](https://www.coursera.org/learn/game-theory-1) | Stanford University | ~18h | --- | ---
+[Game Theory II](https://www.coursera.org/learn/game-theory-2) | Stanford University | ~18h | --- | ---
+[Social Economic Networks](https://www.coursera.org/learn/social-economic-networks) | Stanford University | ~30h | --- | ---
 
 ##
 
