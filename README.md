@@ -24,7 +24,7 @@
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Learning Goals](https://github.com/marcoshsq/DataScienceCurriculum#learning-goals)
-- [How this Repository is Structured]()
+- [How this Repository is Structured](https://github.com/marcoshsq/DataScienceCurriculum#how-this-repository-is-structured)
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
 	- [Section 01 - Fundamentals of Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-01---fundamentals-of-data-science)
 	- [Section 02 - Mathematics and Statistics for Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-02---mathematics-and-statistics-for-data-science)
@@ -225,9 +225,9 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not applicable | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
 [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h | --- | ---
-[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | --- | --- | --- | ---
-[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | --- | --- | --- | ---
-[Math for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | --- | --- | --- | ---
+[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | Hong Kong University of Science and Technology | ~120h | --- | ---
+[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Johns Hopkins University | ~40h | --- | ---
+[Math for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | ~70h | --- | ---
 
 #### Calculus:
 
