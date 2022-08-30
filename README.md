@@ -258,10 +258,10 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Game Theory](https://www.coursera.org/learn/game-theory-introduction) | --- | --- | --- | ---
-[Game Theory I](https://www.coursera.org/learn/game-theory-1) | --- | --- | --- | ---
-[Game Theory II](https://www.coursera.org/learn/game-theory-2) | --- | --- | --- | ---
-[Social Economic Networks](https://www.coursera.org/learn/social-economic-networks) | --- | --- | --- | ---
+[Introduction to Game Theory](https://www.coursera.org/learn/game-theory-introduction) | The University of Tokyo | ~20h | --- | ---
+[Game Theory I](https://www.coursera.org/learn/game-theory-1) | Stanford | ~18h | --- | ---
+[Game Theory II](https://www.coursera.org/learn/game-theory-2) | Stanford | ~18h | --- | ---
+[Social Economic Networks](https://www.coursera.org/learn/social-economic-networks) | Stanford | ~30h | --- | ---
 
 ##
 
