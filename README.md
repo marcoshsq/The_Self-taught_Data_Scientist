@@ -230,6 +230,8 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Johns Hopkins University | ~40h | --- | ---
 [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | ~70h | --- | ---
 
+##
+
 #### Calculus:
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
@@ -238,6 +240,8 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Johns Hopkins University | ~40h | --- | ---
 [Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Johns Hopkins University | ~40h | --- | ---
 [Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | --- | ---
+
+##
 
 #### Probability and Statistics:
 
@@ -253,6 +257,8 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | CU-Boulder | ~35h | --- | ---
 [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Johns Hopkins University | ~40h | --- | ---
 [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford University | ~180h | --- | ---
+
+##
 
 #### Game Theory:
 
@@ -304,13 +310,19 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1) | Princeton University | ~54h | --- | ---
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | ~63h | --- | ---
 
-#### Programming for Data Science:
+##
+
+#### Programming for Data Science in Python:
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Repository](https://github.com/marcoshsq/Python) | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | --- | --- | ---
+
+##
+
+#### Programming for Data Science in R:
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
@@ -319,12 +331,17 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | --- | --- | --- | ---
 [Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | --- | --- | --- | ---
 
+##
+
+#### Programming for Data Science in Java:
+
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | --- | --- | --- | ---
 [Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | --- | --- | --- | ---
 [Java Database Connectivity](https://www.coursera.org/specializations/java-database-connectivity) | --- | --- | --- | ---
 
+##
 
 #### Computer Science Applications:
 
@@ -463,6 +480,8 @@ Course/Specialization | offered by | Duration | Certificate Link
 [Professional Skills for the Workplace](https://www.coursera.org/specializations/professional-skills-for-the-workplace) | UC Davis | ~50h | ---
 [Influencing: Storytelling, Change Management and Governance](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~72h | ---
 [Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication) | CU - Boulder | ~80h | ---
+
+##
 
 #### Domain Knowledge Courses:
 
