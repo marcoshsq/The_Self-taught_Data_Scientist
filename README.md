@@ -184,7 +184,7 @@ To add description...
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | --- | ---
-[IBM - Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)/[Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d?source=linked_in_profile)
 [Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~310h | --- | ---
 
 ##
@@ -227,7 +227,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h | --- | ---
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | Hong Kong University of Science and Technology | ~120h | --- | ---
 [Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Johns Hopkins University | ~40h | --- | ---
-[Math for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | ~70h | --- | ---
+[Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | ~70h | --- | ---
 
 #### Calculus:
 
@@ -247,11 +247,11 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics) | --- | --- | --- | ---
 [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | --- | --- | --- | ---
 [Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | --- | --- | --- | ---
-[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | --- | --- | --- | ---
-[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | --- | --- | --- | ---
 [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | --- | --- | --- | ---
-[Social Science](https://www.coursera.org/specializations/social-science) | --- | --- | --- | ---
+[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | --- | --- | --- | ---
 [Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | --- | --- | --- | ---
+[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | --- | --- | --- | ---
+[Social Science](https://www.coursera.org/specializations/social-science) | --- | --- | --- | ---
 
 #### Game Theory:
 
@@ -307,16 +307,30 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Repository](https://github.com/marcoshsq/Python) | ---
-[Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
-[Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics) | Duke University | ~40h | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
+[Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Repository](https://github.com/marcoshsq/Python) | ---
+[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | --- | --- | ---
+
+Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+:-- | :--: | :--: | :--: | :--:
+[Data Analysis with R](https://www.coursera.org/specializations/statistics) | Duke University | ~40h | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
+[Mastering Software Development in R](https://www.coursera.org/specializations/r) | --- | --- | --- | ---
+[Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | --- | --- | --- | ---
+[Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | --- | --- | --- | ---
+
+Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+:-- | :--: | :--: | :--: | :--:
+[Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | --- | --- | --- | ---
+[Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | --- | --- | --- | ---
+[Java Database Connectivity](https://www.coursera.org/specializations/java-database-connectivity) | --- | --- | --- | ---
+
 
 #### Computer Science Applications:
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | --- | --- | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | --- | --- | ---
+[Meta Back-End Developer](https://www.coursera.org/professional-certificates/meta-back-end-developer) | --- | --- | --- | ---
 [Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | --- | --- | --- | ---
 [Data Mining](https://www.coursera.org/specializations/data-mining) | --- | --- | --- | ---
 [Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | --- | --- | --- | ---
