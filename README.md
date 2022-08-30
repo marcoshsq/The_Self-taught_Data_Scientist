@@ -24,6 +24,7 @@
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Learning Goals](https://github.com/marcoshsq/DataScienceCurriculum#learning-goals)
+- [How this Repository is Structured]()
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
 	- [Section 01 - Fundamentals of Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-01---fundamentals-of-data-science)
 	- [Section 02 - Mathematics and Statistics for Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-02---mathematics-and-statistics-for-data-science)
@@ -103,6 +104,39 @@ Espaço para organização pessoal u.u
 
 
 -->
+
+## How this Repository is Structured.
+
+This repository is divided into five main sections, which contain the courses divided by themes, each section starts with an introduction, describing what my objectives are with those courses and my learning goals.
+
+After that, we have a table with the courses, which are structured in an order of difficulty or themes, but the sections are not sequential, with the exception of the first, which is an introduction, and the last, which requires a deeper knowledge of statistics.
+
+Regarding the courses table, it has the following structure:
+
+Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+:-- | :-- | :-- | :-- | :--
+The name of the course with a link to it. | The name of the institution providing the course. | An estimate of the duration of the course. | Many of the courses have projects, here are the links to the repositories containing these projects. | A link to the course certificate, because yes.
+
+After these five main sections we have a complementary section, which follows the same structure, and we end with a bibliography with links to books I used for consultation.
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 
 ---
 
