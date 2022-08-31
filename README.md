@@ -596,7 +596,7 @@ Espaço para organização pessoal u.u
 
 Preject Name | Repository Link
 :--: | :--:
---- | ---
+IBM: Data Science Certificate Projects | [Repository](https://github.com/marcoshsq/IBMDataScience)
 --- | ---
 
 ##
