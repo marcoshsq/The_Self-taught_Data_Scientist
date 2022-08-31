@@ -187,6 +187,8 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | --- | ---
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)/[Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d?source=linked_in_profile)
 [Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~310h | --- | ---
+[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | CU-Boulder | ~80h | --- | ---
+[Data Privacy for Information Architecture](https://www.coursera.org/learn/ibm-data-privacy) | IBM | ~10h | --- | ---
 
 ##
 
