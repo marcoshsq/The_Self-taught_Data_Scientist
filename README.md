@@ -429,8 +429,9 @@ To add description...
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | --- | --- | --- | ---
-[Machine Learning](https://www.coursera.org/specializations/machine-learning) | --- | --- | --- | ---
+[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Penn | ~32h | --- | ---
+[Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h | --- | ---
+[Machine Learning](https://www.coursera.org/specializations/machine-learning) | University of Washington | ~84h | --- | ---
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | --- | --- | --- | ---
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | --- | --- | --- | ---
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | --- | --- | --- | ---
