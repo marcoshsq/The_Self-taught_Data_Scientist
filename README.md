@@ -492,8 +492,8 @@ Course/Specialization | offered by | Duration | Certificate Link
 
 Course/Specialization | offered by | Duration | Certificate Link
 :-- | :--: | :--: | :--: 
-[Wharton - Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton School - Penn | ~60h | ---
-[Wharton - Business Analytics](https://www.coursera.org/specializations/business-analytics) | Wharton School - Penn | ~72h | ---
+[Wharton - Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton School of the University of Pennsylvania | ~60h | ---
+[Wharton - Business Analytics](https://www.coursera.org/specializations/business-analytics) | Wharton School of the University of Pennsylvania | ~72h | ---
 [Fundamentals of Accounting](https://www.coursera.org/specializations/accounting-fundamentals) | University of Illinois | ~96h | ---
 [Accounting Analytics](https://www.coursera.org/specializations/accounting-data-analytics) | University of Illinois | ~140h | ---
 [Google Digital Marketing E-commerce](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google | ~240h | ---
