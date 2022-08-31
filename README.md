@@ -320,7 +320,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 :-- | :--: | :--: | :--: | :--:
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Repository](https://github.com/marcoshsq/Python) | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | --- | --- | ---
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | University of Michigan | ~140h | --- | ---
 
 ##
 
@@ -329,9 +329,9 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Data Analysis with R](https://www.coursera.org/specializations/statistics) | Duke University | ~40h | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
-[Mastering Software Development in R](https://www.coursera.org/specializations/r) | --- | --- | --- | ---
-[Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | --- | --- | --- | ---
-[Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | --- | --- | --- | ---
+[Mastering Software Development in R](https://www.coursera.org/specializations/r) | Johns Hopkins University | ~100h | --- | ---
+[Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | Johns Hopkins University | ~90h | --- | ---
+[Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~80h | --- | ---
 
 ##
 
