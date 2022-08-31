@@ -350,10 +350,10 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
-[Meta Back-End Developer](https://www.coursera.org/professional-certificates/meta-back-end-developer) | --- | --- | --- | ---
-[Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | --- | --- | --- | ---
-[Data Mining](https://www.coursera.org/specializations/data-mining) | --- | --- | --- | ---
-[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | --- | --- | --- | ---
+[Meta Back-End Developer](https://www.coursera.org/professional-certificates/meta-back-end-developer) | Meta | ~200h | --- | ---
+[Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | UCI | ~30h | --- | ---
+[Data Mining](https://www.coursera.org/specializations/data-mining) | Illinois | ~128h | --- | ---
+[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | Illinois | ~128h | --- | ---
 
 ##
 
