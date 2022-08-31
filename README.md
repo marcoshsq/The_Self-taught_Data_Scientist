@@ -432,14 +432,14 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Penn | ~32h | --- | ---
 [Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h | --- | ---
 [Machine Learning](https://www.coursera.org/specializations/machine-learning) | University of Washington | ~84h | --- | ---
-[Deep Learning](https://www.coursera.org/specializations/deep-learning) | --- | --- | --- | ---
-[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | --- | --- | --- | ---
-[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | --- | --- | --- | ---
-[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | --- | --- | --- | ---
-[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | --- | --- | --- | ---
-[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | --- | --- | --- | ---
-[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | --- | --- | --- | ---
-[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1) | --- | --- | --- | ---
+[Deep Learning](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | ~180h | --- | ---
+[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h | --- | ---
+[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | Columbia | ~60h | --- | ---
+[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | ~80h | --- | ---
+[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | ~100h | --- | ---
+[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | --- | --- | ---
+[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | --- | --- | ---
+[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1) | DeepLearning.AI | --- | --- | ---
 [Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | --- | --- | --- | ---
 
 ##
