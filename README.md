@@ -389,11 +389,11 @@ To add description...
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | --- | --- | --- | ---
-[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | --- | --- | --- | ---
-[Big Data](https://www.coursera.org/specializations/big-data) | --- | --- | --- | ---
-[Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | --- | --- | --- | ---
-[Business Intelligence and Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | --- | --- | --- | ---
+[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | CU-Boulder | ~96h | --- | ---
+[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | University of Michigan | ~64h | --- | ---
+[Big Data](https://www.coursera.org/specializations/big-data) | UC San Diego | ~96h | --- | ---
+[Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Cloudera | ~48h | --- | ---
+[Business Intelligence and Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h | --- | ---
 
 ##
 
