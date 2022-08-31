@@ -429,12 +429,14 @@ To add description...
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
+[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | DeepLearning.AI | ~12h | --- | ---
 [AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Penn | ~32h | --- | ---
 [Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h | --- | ---
 [Machine Learning](https://www.coursera.org/specializations/machine-learning) | University of Washington | ~84h | --- | ---
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | ~180h | --- | ---
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h | --- | ---
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | Columbia | ~60h | --- | ---
+[Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | ~140h | ---
 [TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | ~80h | --- | ---
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | ~100h | --- | ---
 [Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | ~120h | --- | ---
@@ -497,8 +499,6 @@ Course/Specialization | offered by | Duration | Certificate Link
 [Google Digital Marketing E-commerce](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google | ~240h | ---
 [Marketing Analytics](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) | Meta | ~120h | ---
 [Supply Chain Analytics](https://www.coursera.org/specializations/supply-chain-analytics) | Rutgers | ~40h | ---
-[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | DeepLearning.AI | --- | ---
-[Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | --- | ---
 
 ##
 
