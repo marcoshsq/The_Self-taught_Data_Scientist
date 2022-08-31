@@ -437,10 +437,10 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | Columbia | ~60h | --- | ---
 [TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | ~80h | --- | ---
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | ~100h | --- | ---
-[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | --- | --- | ---
-[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | --- | --- | ---
-[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1) | DeepLearning.AI | --- | --- | ---
-[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | --- | --- | --- | ---
+[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | ~120h | --- | ---
+[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | ~64h | --- | ---
+[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1) | DeepLearning.AI | ~140h | --- | ---
+[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | DeepLearning.AI | ~60h | --- | ---
 
 ##
 
