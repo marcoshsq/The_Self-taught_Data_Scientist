@@ -182,7 +182,15 @@ In this first section, my goal is to get my foot in the water. I see a lot of co
 
 So the courses chosen here are intended to teach that, I understand that I'm not going to be a super data scientist here, but we need to start somewhere.
 
-At the end of this section I intend to obtain knowledge, even if introductory, in concepts such as: ``Measurement Uncertainty``, ``Probability and Statistical Hypothesis Testing``, ``Causal Inference``, Data Visualization (DataViz), ``Empirical Evidence``, ``Basic Descriptive Statistics Analysis``, ``Introduction Deep Learning, Machine Learning, Big Data, Data Mining``, ``Data Science Methodology``, ``Git, Github and Version Control``, ``Python and R Programming``, ``Basic Data Cleansing and Manipulation``, ``Cluster Analysis``, ``Data Security``, ``Basic Data Analysis``, ``Data Ethics``, ``Data and Information Privacy``.
+At the end of this section, I intend to obtain knowledge, albeit introductory, in concepts such as:
+
+* ``Basic Descriptive Statistical Analysis``;
+* ``Introduction to Machine Learning, Big Data, Data Mining``;
+* ``Data Science Methodology``;
+* ``Git, Github and Version Control Basics``;
+* ``Fundamentals of Programming in Python and R``;
+* ``Basic Data Cleaning and Manipulation``;
+* ``Data Ethics, and Information Privacy``.
 
 For this I have separated these 30 courses, which total about 650 hours. After I finish, I'll post a review with my opinion below the table.
 
