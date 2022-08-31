@@ -339,9 +339,9 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | --- | --- | --- | ---
-[Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | --- | --- | --- | ---
-[Java Database Connectivity](https://www.coursera.org/specializations/java-database-connectivity) | --- | --- | --- | ---
+[Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | Learn Quest | ~60h | --- | ---
+[Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | San Diego University | ~120 | --- | ---
+[Java Database Connectivity](https://www.coursera.org/specializations/java-database-connectivity) | Learn Quest | ~50h | --- | ---
 
 ##
 
@@ -349,7 +349,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | --- | --- | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
 [Meta Back-End Developer](https://www.coursera.org/professional-certificates/meta-back-end-developer) | --- | --- | --- | ---
 [Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | --- | --- | --- | ---
 [Data Mining](https://www.coursera.org/specializations/data-mining) | --- | --- | --- | ---
