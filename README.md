@@ -201,7 +201,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | --- | ---
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)/[Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d?source=linked_in_profile)
 [Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~310h | --- | ---
-[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | CU-Boulder | ~80h | --- | ---
+[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | --- | ---
 [Data Privacy for Information Architecture](https://www.coursera.org/learn/ibm-data-privacy) | IBM | ~10h | --- | ---
 
 ##
@@ -268,8 +268,8 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics) | University London | ~18h | --- | ---
 [Statistical Methods Applied to Social Sciences](https://www.coursera.org/specializations/social-science) | University of Amsterdam | ~120h | --- | ---
 [Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Santa Cruz - California University | ~96h | --- | ---
-[Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | CU-Boulder | ~120h | --- | ---
-[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | CU-Boulder | ~120h | --- | ---
+[Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | University of Colorado | ~120h | --- | ---
+[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | University of Colorado | ~120h | --- | ---
 [Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | CU-Boulder | ~35h | --- | ---
 [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Johns Hopkins University | ~40h | --- | ---
 [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford University | ~180h | --- | ---
@@ -366,8 +366,8 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
 [Meta Back-End Developer](https://www.coursera.org/professional-certificates/meta-back-end-developer) | Meta | ~200h | --- | ---
 [Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | UCI | ~30h | --- | ---
-[Data Mining](https://www.coursera.org/specializations/data-mining) | Illinois | ~128h | --- | ---
-[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | Illinois | ~128h | --- | ---
+[Data Mining](https://www.coursera.org/specializations/data-mining) | University of Illinois at Urbana-Champaign | ~128h | --- | ---
+[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | University of Illinois at Urbana-Champaign | ~128h | --- | ---
 
 ##
 
@@ -403,7 +403,7 @@ To add description...
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | CU-Boulder | ~96h | --- | ---
+[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | University of Colorado | ~96h | --- | ---
 [PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | University of Michigan | ~64h | --- | ---
 [Big Data](https://www.coursera.org/specializations/big-data) | UC San Diego | ~96h | --- | ---
 [Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Cloudera | ~48h | --- | ---
@@ -444,7 +444,7 @@ To add description...
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | DeepLearning.AI | ~12h | --- | ---
-[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Penn | ~32h | --- | ---
+[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Wharton School of the University of Pennsylvania | ~32h | --- | ---
 [Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h | --- | ---
 [Machine Learning](https://www.coursera.org/specializations/machine-learning) | University of Washington | ~84h | --- | ---
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | ~180h | --- | ---
@@ -496,7 +496,7 @@ Course/Specialization | offered by | Duration | Certificate Link
 [Strategic Leadership and Management](https://www.coursera.org/specializations/strategic-leadership) | University of Illinois at Urbana-Champaign | ~100h | ---
 [Professional Skills for the Workplace](https://www.coursera.org/specializations/professional-skills-for-the-workplace) | UC Davis | ~50h | ---
 [Influencing: Storytelling, Change Management and Governance](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~72h | ---
-[Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication) | CU - Boulder | ~80h | ---
+[Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication) | University of Colorado | ~80h | ---
 
 ##
 
@@ -507,7 +507,7 @@ Course/Specialization | offered by | Duration | Certificate Link
 [Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
 [Wharton - Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton School of the University of Pennsylvania | ~60h | ---
 [Accounting Analytics](https://www.coursera.org/specializations/accounting-data-analytics) | University of Illinois | ~140h | ---
-[Google Digital Marketing E-commerce](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google | ~240h | ---
+[Digital Marketing & E-commerce](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google | ~240h | ---
 [Marketing Analytics](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) | Meta | ~120h | ---
 [Supply Chain Analytics](https://www.coursera.org/specializations/supply-chain-analytics) | Rutgers University | ~40h | ---
 
