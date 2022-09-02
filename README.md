@@ -494,12 +494,9 @@ Course/Specialization | offered by | Duration | Certificate Link
 :-- | :--: | :--: | :--: 
 [Academic Skills for University Success](https://www.coursera.org/specializations/academic-skills) | University of Sydney | ~160 | ---
 [Strategic Leadership and Management](https://www.coursera.org/specializations/strategic-leadership) | University of Illinois at Urbana-Champaign | ~100h | ---
-[Wharton Entrepreneurship](https://www.coursera.org/specializations/wharton-entrepreneurship) | Wharton School of the University of Pennsylvania | ~50h | ---
-[Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
 [Professional Skills for the Workplace](https://www.coursera.org/specializations/professional-skills-for-the-workplace) | UC Davis | ~50h | ---
 [Influencing: Storytelling, Change Management and Governance](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~72h | ---
 [Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication) | CU - Boulder | ~80h | ---
-[Solving Complex Problems](https://www.coursera.org/specializations/solving-complex-problems) | Macquarie University | ~48h | ---
 
 ##
 
@@ -507,6 +504,7 @@ Course/Specialization | offered by | Duration | Certificate Link
 
 Course/Specialization | offered by | Duration | Certificate Link
 :-- | :--: | :--: | :--: 
+[Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
 [Wharton - Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton School of the University of Pennsylvania | ~60h | ---
 [Wharton - Business Analytics](https://www.coursera.org/specializations/business-analytics) | Wharton School of the University of Pennsylvania | ~72h | ---
 [Fundamentals of Accounting](https://www.coursera.org/specializations/accounting-fundamentals) | University of Illinois | ~96h | ---
@@ -605,7 +603,6 @@ Espaço para organização pessoal u.u
 
 Preject Name | Repository Link
 :--: | :--:
-IBM: Data Science Certificate Projects | [Repository](https://github.com/marcoshsq/IBMDataScience)
 --- | ---
 
 ##
