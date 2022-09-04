@@ -467,8 +467,8 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | Columbia | ~60h | --- | ---
-[Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | ~140h | ---
+[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | University of Columbia | ~60h | --- | ---
+[Computer Vision: Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | ~140h | ---
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h | --- | ---
 
 ##
