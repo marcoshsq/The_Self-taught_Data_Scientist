@@ -441,22 +441,35 @@ To add description...
 
 ##
 
+#### Introductory Courses:
+
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | DeepLearning.AI | ~12h | --- | ---
 [AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Wharton School of the University of Pennsylvania | ~32h | --- | ---
+[Mind and Machine](https://www.coursera.org/specializations/mind-machine) | University of Colorado | ~32h | --- | ---
+
+#### Machine Learning:
+
+Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+:-- | :--: | :--: | :--: | :--:
 [Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h | --- | ---
 [Machine Learning](https://www.coursera.org/specializations/machine-learning) | University of Washington | ~84h | --- | ---
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | ~180h | --- | ---
-[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h | --- | ---
-[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | Columbia | ~60h | --- | ---
-[Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | ~140h | ---
 [TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | ~80h | --- | ---
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | ~100h | --- | ---
 [Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | ~120h | --- | ---
 [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | ~64h | --- | ---
-[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF1) | DeepLearning.AI | ~140h | --- | ---
+[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques) | DeepLearning.AI | ~140h | --- | ---
 [Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | DeepLearning.AI | ~60h | --- | ---
+
+#### Computer Vision & NLP:
+
+Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+:-- | :--: | :--: | :--: | :--:
+[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | Columbia | ~60h | --- | ---
+[Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | ~140h | ---
+[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h | --- | ---
 
 ##
 
