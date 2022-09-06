@@ -510,6 +510,7 @@ Course/Specialization | offered by | Duration | Certificate Link
 [Professional Skills for the Workplace](https://www.coursera.org/specializations/professional-skills-for-the-workplace) | UC Davis | ~50h | ---
 [Influencing: Storytelling, Change Management and Governance](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~72h | ---
 [Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication) | University of Colorado | ~80h | ---
+[Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
 
 ##
 
@@ -517,10 +518,9 @@ Course/Specialization | offered by | Duration | Certificate Link
 
 Course/Specialization | offered by | Duration | Certificate Link
 :-- | :--: | :--: | :--: 
-[Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
 [Wharton - Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton School of the University of Pennsylvania | ~60h | ---
-[Accounting Analytics](https://www.coursera.org/specializations/accounting-data-analytics) | University of Illinois | ~140h | ---
 [Digital Marketing & E-commerce](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google | ~240h | ---
+[Accounting Analytics](https://www.coursera.org/specializations/accounting-data-analytics) | University of Illinois | ~140h | ---
 [Marketing Analytics](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) | Meta | ~120h | ---
 [Supply Chain Analytics](https://www.coursera.org/specializations/supply-chain-analytics) | Rutgers University | ~40h | ---
 
