@@ -199,7 +199,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 :-- | :--: | :--: | :--: | :--:
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | --- | ---
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)/[Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d?source=linked_in_profile)
-[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~310h | --- | ---
+[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~310h | [Repository](https://github.com/marcoshsq/DataScience-JHU) | ---
 [Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | --- | ---
 [Data Privacy for Information Architecture](https://www.coursera.org/learn/ibm-data-privacy) | IBM | ~10h | --- | ---
 
@@ -332,7 +332,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Repository](https://github.com/marcoshsq/Python) | ---
-[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Repository](https://github.com/marcoshsq/PythonStatistics) | ---
+[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Repository](https://github.com/marcoshsq/Statistics_with_Python) | ---
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | University of Michigan | ~140h | --- | ---
 
 ##
@@ -341,7 +341,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 Course/Specialization | offered by | Duration | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Data Analysis with R](https://www.coursera.org/specializations/statistics) | Duke University | ~40h | [Repository](https://github.com/marcoshsq/R-DataAnalysis) | ---
+[Data Analysis with R](https://www.coursera.org/specializations/statistics) | Duke University | ~40h | [Repository](https://github.com/marcoshsq/DAWR) | ---
 [Mastering Software Development in R](https://www.coursera.org/specializations/r) | Johns Hopkins University | ~100h | --- | ---
 [Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | Johns Hopkins University | ~90h | --- | ---
 [Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~80h | --- | ---
