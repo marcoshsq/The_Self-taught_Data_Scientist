@@ -518,7 +518,6 @@ Course/Specialization | offered by | Duration | Certificate Link
 Course/Specialization | offered by | Duration | Certificate Link
 :-- | :--: | :--: | :--: 
 [Wharton - Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton School of the University of Pennsylvania | ~60h | ---
-[Digital Marketing & E-commerce](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google | ~240h | ---
 [Accounting Analytics](https://www.coursera.org/specializations/accounting-data-analytics) | University of Illinois | ~140h | ---
 [Marketing Analytics](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) | Meta | ~120h | ---
 [Supply Chain Analytics](https://www.coursera.org/specializations/supply-chain-analytics) | Rutgers University | ~40h | ---
