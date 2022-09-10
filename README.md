@@ -32,7 +32,7 @@
 	- [Section 04 - Databases and Big Data](https://github.com/marcoshsq/DataScienceCurriculum#section-04---databases-and-big-data)
 	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
 - [Complementary courses](https://github.com/marcoshsq/DataScienceCurriculum#complementary-courses)
-	- [Soft Skills](https://github.com/marcoshsq/DataScienceCurriculum#soft-skills-Domain-Knowledge-courses)
+	- [Soft Skills/Domain Knowledge](https://github.com/marcoshsq/DataScienceCurriculum#soft-skillsdomain-knowledge-courses)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 	- [Mathematics Books](https://github.com/marcoshsq/DataScienceCurriculum#mathematics-books)
 	- [Books, articles and related documentation](https://github.com/marcoshsq/DataScienceCurriculum#books-articles-and-related-documentation)
