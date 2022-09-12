@@ -112,7 +112,7 @@ After that, we have a table with the courses, which are structured in an order o
 
 Regarding the courses table, it has the following structure:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :-- | :-- | :-- | :--
 The name of the course with a link to it. | The name of the institution providing the course. | An estimate of the duration of the course. | Many of the courses have projects, here are the links to the repositories containing these projects. | A link to the course certificate, because yes.
 
@@ -194,7 +194,7 @@ For this I have separated these 30 courses, which total about 650 hours. After I
 
 ##
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | --- | ---
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)/[Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d?source=linked_in_profile)
@@ -236,7 +236,7 @@ To add description...
 
 #### General Courses:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not applicable | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
 [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h | --- | ---
@@ -248,7 +248,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 #### Calculus:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | Johns Hopkins University | ~40h | --- | ---
 [Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Johns Hopkins University | ~40h | --- | ---
@@ -259,7 +259,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 #### Probability and Statistics:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~15h | --- | ---
 [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | University of Zurich | ~30h | --- | ---
@@ -276,7 +276,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 #### Game Theory:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Game Theory](https://www.coursera.org/learn/game-theory-introduction) | The University of Tokyo | ~20h | --- | ---
 [Game Theory I](https://www.coursera.org/learn/game-theory-1) | Stanford University | ~18h | --- | ---
@@ -317,7 +317,7 @@ To add description...
 
 #### Core Programming:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | Princeton University | ~88h | [Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | ---
 [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University | ~20h | --- | ---
@@ -328,7 +328,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 #### Programming for Data Science in Python:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Repository](https://github.com/marcoshsq/Python) | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Repository](https://github.com/marcoshsq/Statistics_with_Python) | ---
@@ -338,7 +338,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 #### Programming for Data Science in R:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Data Analysis with R](https://www.coursera.org/specializations/statistics) | Duke University | ~40h | [Repository](https://github.com/marcoshsq/DAWR) | ---
 [Mastering Software Development in R](https://www.coursera.org/specializations/r) | Johns Hopkins University | ~100h | --- | ---
@@ -349,7 +349,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 #### Programming for Data Science in Java:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | Learn Quest | ~60h | --- | ---
 [Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | San Diego University | ~120 | --- | ---
@@ -359,7 +359,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 #### Computer Science Applications:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
 [Meta Back-End Developer](https://www.coursera.org/professional-certificates/meta-back-end-developer) | Meta | ~200h | --- | ---
@@ -399,7 +399,7 @@ To add description...
 
 ##
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | University of Colorado | ~96h | --- | ---
 [PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | University of Michigan | ~64h | --- | ---
@@ -441,7 +441,7 @@ To add description...
 
 #### Introductory Courses:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | DeepLearning.AI | ~12h | --- | ---
 [AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Wharton School of the University of Pennsylvania | ~32h | --- | ---
@@ -449,7 +449,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 #### Machine Learning:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h | --- | ---
 [Machine Learning](https://www.coursera.org/specializations/machine-learning) | University of Washington | ~84h | --- | ---
@@ -463,7 +463,7 @@ Course/Specialization | offered by | Duration | Repository if any | Certificate 
 
 #### Computer Vision & NLP:
 
-Course/Specialization | offered by | Duration | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | University of Columbia | ~60h | --- | ---
 [Computer Vision: Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | ~140h | ---
@@ -503,7 +503,7 @@ To add description...
 
 Course/Specialization | offered by | Effort | Certificate Link
 :-- | :--: | :--: | :--: 
-[Academic Skills for University Success](https://www.coursera.org/specializations/academic-skills) | University of Sydney | ~160 | ---
+[Academic Skills for University Success](https://www.coursera.org/specializations/academic-skills) | University of Sydney | ~160h | ---
 [Strategic Leadership and Management](https://www.coursera.org/specializations/strategic-leadership) | University of Illinois at Urbana-Champaign | ~100h | ---
 [Professional Skills for the Workplace](https://www.coursera.org/specializations/professional-skills-for-the-workplace) | UC Davis | ~50h | ---
 [Influencing: Storytelling, Change Management and Governance](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~72h | ---
