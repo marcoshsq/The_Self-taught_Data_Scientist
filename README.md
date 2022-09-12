@@ -447,6 +447,8 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 [AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Wharton School of the University of Pennsylvania | ~32h | --- | ---
 [Mind and Machine](https://www.coursera.org/specializations/mind-machine) | University of Colorado | ~32h | --- | ---
 
+##
+
 #### Machine Learning:
 
 Course/Specialization | offered by | Effort | Repository if any | Certificate Link
@@ -460,6 +462,8 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | ~64h | --- | ---
 [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques) | DeepLearning.AI | ~140h | --- | ---
 [Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | DeepLearning.AI | ~60h | --- | ---
+
+##
 
 #### Computer Vision & NLP:
 
