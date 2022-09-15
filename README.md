@@ -253,7 +253,6 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 [Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | Johns Hopkins University | ~40h | --- | ---
 [Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Johns Hopkins University | ~40h | --- | ---
 [Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Johns Hopkins University | ~40h | --- | ---
-[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | --- | ---
 
 ##
 
@@ -332,6 +331,8 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 :-- | :--: | :--: | :--: | :--:
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Repository](https://github.com/marcoshsq/Python) | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Repository](https://github.com/marcoshsq/Statistics_with_Python) | ---
+[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | --- | ---
+[Linear Algebra for Data Science Using Python](coursera.org/specializations/linear-algebra-data-science-python) | Howard University | ~32h | --- | ---
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | University of Michigan | ~140h | --- | ---
 
 ##
