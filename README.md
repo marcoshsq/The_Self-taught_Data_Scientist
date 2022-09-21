@@ -190,7 +190,7 @@ At the end of this section, I intend to obtain knowledge, albeit introductory, i
 * ``Basic Data Cleaning and Manipulation``;
 * ``Data Ethics, and Information Privacy``.
 
-For this I have separated these 30 courses, which total about 650 hours. After I finish, I'll post a review with my opinion below the table.
+For this I have separated these 19 courses, which total about 320 hours. After I finish, I'll post a review with my opinion below the table.
 
 ##
 
@@ -198,9 +198,7 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 :-- | :--: | :--: | :--: | :--:
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | --- | ---
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)/[Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d?source=linked_in_profile)
-[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~310h | [Repository](https://github.com/marcoshsq/DataScience-JHU) | ---
 [Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | --- | ---
-[Data Privacy for Information Architecture](https://www.coursera.org/learn/ibm-data-privacy) | IBM | ~10h | --- | ---
 
 ##
 
