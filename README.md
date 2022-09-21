@@ -361,8 +361,6 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | ---
-[Meta Back-End Developer](https://www.coursera.org/professional-certificates/meta-back-end-developer) | Meta | ~200h | --- | ---
-[Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | UCI | ~30h | --- | ---
 [Data Mining](https://www.coursera.org/specializations/data-mining) | University of Illinois at Urbana-Champaign | ~128h | --- | ---
 [Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | University of Illinois at Urbana-Champaign | ~128h | --- | ---
 
@@ -401,9 +399,7 @@ To add description...
 Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | University of Colorado | ~96h | --- | ---
-[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | University of Michigan | ~64h | --- | ---
 [Big Data](https://www.coursera.org/specializations/big-data) | UC San Diego | ~96h | --- | ---
-[Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Cloudera | ~48h | --- | ---
 [Business Intelligence and Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h | --- | ---
 
 ##
