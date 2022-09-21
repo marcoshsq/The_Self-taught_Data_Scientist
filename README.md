@@ -258,13 +258,10 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 
 Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~15h | --- | ---
-[An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | University of Zurich | ~30h | --- | ---
-[Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics) | University London | ~18h | --- | ---
-[Statistical Methods Applied to Social Sciences](https://www.coursera.org/specializations/social-science) | University of Amsterdam | ~120h | --- | ---
-[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Santa Cruz - California University | ~96h | --- | ---
 [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | University of Colorado | ~120h | --- | ---
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | University of Colorado | ~120h | --- | ---
+[Statistical Methods Applied to Social Sciences](https://www.coursera.org/specializations/social-science) | University of Amsterdam | ~120h | --- | ---
+[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Santa Cruz - California University | ~96h | --- | ---
 [Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | CU-Boulder | ~35h | --- | ---
 [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Johns Hopkins University | ~40h | --- | ---
 [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford University | ~180h | --- | ---
@@ -400,7 +397,7 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 :-- | :--: | :--: | :--: | :--:
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | University of Colorado | ~96h | --- | ---
 [Big Data](https://www.coursera.org/specializations/big-data) | UC San Diego | ~96h | --- | ---
-[Business Intelligence and Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h | --- | ---
+[Data Warehousing for Business Intelligence](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h | --- | ---
 
 ##
 
