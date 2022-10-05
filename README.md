@@ -49,8 +49,6 @@ This is a curated list of free courses from reputable universities (e.g. MIT, St
 
 To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
-An important note, mathematics is very important to data science. Therefore, when researching what would be the best approaches and content/courses to learn mathematics and statistics following the philosophy of this curriculum, I came to the conclusion that it would be better to study statistics at a traditional institution, so the courses related to these subjects here are mostly for fixation and reinforcement purposes, along with great books that have been recommended to me.
-
 In regards to the duration of this project, by my calculations, adding up the estimated hours of courses, projects, books, articles and other supplementary materials (that is not accounted for here), I believe that this whole curriculum should be around 4000 hours, so with a weekly effort of 20 hours it's possible to finish it in four years... look how cool, right?. (ﾉ◕ヮ◕)ﾉ ヽ(^◇^*)/
 
 ##
@@ -145,10 +143,6 @@ The main curriculum is divided into five sections: Fundamentals of Data Science,
 
 Section 01 focuses on the basics of the Data field, and what advantages the use of data can bring. Section 02 is intended to be a boost to my math studies, but with a greater focus on computational math and modeling. Section 03 is about learning to code, in addition to other computer science related topics. Section 04 is all about Databases and Big Data, it´s tools and applications. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
 
-Each section contains a brief introduction describing what I want to learn and which courses I have chosen to do so. After that we have a brief description of the courses, with some of the skills taught. Then we have a small table with a link to the courses, a link to some project or repository with my codes, and finally a link to a certificate if I received one.
-
-For more details and information, visit each specific section.
-
 After the main curriculum, I've added a section with books and other relevant bibliographies, and a section focused on soft skills and specific skills in some domains that I'm interested in.
 
 Okay, so without further ado, let's get to work!
@@ -176,22 +170,6 @@ Espaço para organização pessoal u.u
 
 ### Section 01 - Fundamentals of Data Science.
 
-In this first section, my goal is to get my foot in the water. I see a lot of confusion regarding areas related to data, data engineering, data science, data analytics, market analytics, business intelligence, etc. With that in mind, I thought it was important to separate a section to better understand how this field works, what are the projects, tools, applications, legislation, etc.
-
-So the courses chosen here are intended to teach that, I understand that I'm not going to be a super data scientist here, but we need to start somewhere.
-
-At the end of this section, I intend to obtain knowledge, albeit introductory, in concepts such as:
-
-* ``Basic Descriptive Statistical Analysis``;
-* ``Introduction to Machine Learning, Big Data, Data Mining``;
-* ``Data Science Methodology``;
-* ``Git, Github and Version Control Basics``;
-* ``Fundamentals of Programming in Python and R``;
-* ``Basic Data Cleaning and Manipulation``;
-* ``Data Ethics, and Information Privacy``.
-
-For this I have separated these 19 courses, which total about 320 hours. After I finish, I'll post a review with my opinion below the table.
-
 ##
 
 Course/Specialization | offered by | Effort | Repository if any | Certificate Link
@@ -199,12 +177,6 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | --- | ---
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)/[Credly Badge](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d?source=linked_in_profile)
 [Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | --- | ---
-
-##
-
-#### My opinion:
-
-Work in progress...
 
 ##
 
@@ -227,8 +199,6 @@ Espaço para organização pessoal u.u
 -->
 
 ### Section 02 - Mathematics and Statistics for Data Science.
-
-To add description...
 
 ##
 
@@ -279,12 +249,6 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 
 ##
 
-#### My opinion:
-
-To add description...
-
-##
-
 <div align="right">
 	
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
@@ -304,8 +268,6 @@ Espaço para organização pessoal u.u
 ##
 
 ### Section 03 - Computing and Programming.
-
-To add description...
 
 ##
 
@@ -363,12 +325,6 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 
 ##
 
-#### My opinion:
-
-To add description...
-
-##
-
 <div align="right">
 	
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
@@ -389,8 +345,6 @@ Espaço para organização pessoal u.u
 
 ### Section 04 - Databases and Big Data.
 
-To add description...
-
 ##
 
 Course/Specialization | offered by | Effort | Repository if any | Certificate Link
@@ -398,12 +352,6 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | University of Colorado | ~96h | --- | ---
 [Big Data](https://www.coursera.org/specializations/big-data) | UC San Diego | ~96h | --- | ---
 [Data Warehousing for Business Intelligence](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h | --- | ---
-
-##
-
-#### My opinion:
-
-To add description...
 
 ##
 
@@ -426,8 +374,6 @@ Espaço para organização pessoal u.u
 ##
 
 ### Section 05 - Artificial Intelligence.
-
-To add description...
 
 ##
 
@@ -467,12 +413,6 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 
 ##
 
-#### My opinion:
-
-To add description...
-
-##
-
 <div align="right">
 	
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
@@ -491,10 +431,6 @@ Espaço para organização pessoal u.u
 
 ## Complementary courses.
 
-To add description...
-
-##
-
 #### Soft Skills/Domain Knowledge Courses:
 
 Course/Specialization | offered by | Effort | Certificate Link
@@ -506,12 +442,6 @@ Course/Specialization | offered by | Effort | Certificate Link
 [Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication) | University of Colorado | ~80h | ---
 [Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
 [Wharton - Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton School of the University of Pennsylvania | ~60h | ---
-
-##
-
-#### My opinion:
-
-To add description...
 
 ##
 
