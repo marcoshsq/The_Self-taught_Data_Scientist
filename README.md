@@ -319,7 +319,7 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 
 Course/Specialization | offered by | Effort | Repository if any | Certificate Link
 :-- | :--: | :--: | :--: | :--:
-[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | [Certificate]()
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/T4CU2PVZ7QEF)
 [Data Mining](https://www.coursera.org/specializations/data-mining) | University of Illinois at Urbana-Champaign | ~128h | --- | ---
 [Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | University of Illinois at Urbana-Champaign | ~128h | --- | ---
 
