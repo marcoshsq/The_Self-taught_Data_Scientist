@@ -208,8 +208,6 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not applicable | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
 [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h | --- | ---
-[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | Hong Kong University of Science and Technology | ~120h | --- | ---
-[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Johns Hopkins University | ~40h | --- | ---
 [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | ~70h | --- | ---
 
 ##
