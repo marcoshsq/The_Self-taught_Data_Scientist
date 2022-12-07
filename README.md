@@ -31,8 +31,6 @@
 	- [Section 03 - Computing and Programming](https://github.com/marcoshsq/DataScienceCurriculum#section-03---computing-and-programming)
 	- [Section 04 - Databases and Big Data](https://github.com/marcoshsq/DataScienceCurriculum#section-04---databases-and-big-data)
 	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
-- [Complementary courses](https://github.com/marcoshsq/DataScienceCurriculum#complementary-courses)
-	- [Soft Skills/Domain Knowledge](https://github.com/marcoshsq/DataScienceCurriculum#soft-skillsdomain-knowledge-courses)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 	- [Mathematics Books](https://github.com/marcoshsq/DataScienceCurriculum#mathematics-books)
 	- [Books, articles and related documentation](https://github.com/marcoshsq/DataScienceCurriculum#books-articles-and-related-documentation)
@@ -138,10 +136,6 @@ Espaço para organização pessoal u.u
 The main curriculum is divided into five sections: Fundamentals of Data Science, Mathematics, Computing and Programming, Databases and Big Data and Artificial Intelligence.
 
 Section 01 focuses on the basics of the Data field, and what advantages the use of data can bring. Section 02 is intended to be a boost to my math studies, but with a greater focus on computational math and modeling. Section 03 is about learning to code, in addition to other computer science related topics. Section 04 is all about Databases and Big Data, it´s tools and applications. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
-
-After the main curriculum, I've added a section with books and other relevant bibliographies, and a section focused on soft skills and specific skills in some domains that I'm interested in.
-
-Okay, so without further ado, let's get to work!
 
 ##
 
@@ -404,38 +398,6 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate Li
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | University of Columbia | ~60h | --- | ---
 [Computer Vision: Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | ~140h | ---
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h | --- | ---
-
-##
-
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
-	
-</div>
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
-
-## Complementary courses.
-
-#### Soft Skills/Domain Knowledge Courses:
-
-Course/Specialization | offered by | Effort | Certificate Link
-:-- | :--: | :--: | :--: 
-[Academic Skills for University Success](https://www.coursera.org/specializations/academic-skills) | University of Sydney | ~160h | ---
-[Strategic Leadership and Management](https://www.coursera.org/specializations/strategic-leadership) | University of Illinois at Urbana-Champaign | ~100h | ---
-[Professional Skills for the Workplace](https://www.coursera.org/specializations/professional-skills-for-the-workplace) | UC Davis | ~50h | ---
-[Influencing: Storytelling, Change Management and Governance](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~72h | ---
-[Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication) | University of Colorado | ~80h | ---
-[Agile Software Development](https://www.coursera.org/specializations/agile-development) | University of Virginia | ~50h | ---
-[Wharton - Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Wharton School of the University of Pennsylvania | ~60h | ---
 
 ##
 
