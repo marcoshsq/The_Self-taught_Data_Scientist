@@ -49,8 +49,6 @@ This is a curated list of free courses from reputable universities (e.g. MIT, St
 
 To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
-In regards to the duration of this project, by my calculations, adding up the estimated hours of courses, projects, books, articles and other supplementary materials (that is not accounted for here), I believe that this whole curriculum should be around 4000 hours, so with a weekly effort of 20 hours it's possible to finish it in four years... look how cool, right?. (ﾉ◕ヮ◕)ﾉ ヽ(^◇^*)/
-
 ##
 
 <div align="right">
@@ -81,8 +79,6 @@ But here is an overview list of concepts and skills I want to learn by the end o
 - Databases, Business Intelligence and Data warehousing;
 - Data Visualization and Presentation Skills;
 - Artificial Intelligence (Machine Learning, Deep Learning, Neural Networks, CV and NLP).
-
-This is just an overview, if you want more details I recommend reading the main curriculum, and if you want a complete guide take a look at the roadmap. They created a guide describing all the skills and concepts needed to become an expert in Data Science and/or AI, in a cohesive and intuitive way.
 
 ##
 
