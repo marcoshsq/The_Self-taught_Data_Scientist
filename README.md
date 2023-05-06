@@ -305,7 +305,7 @@ Course/Specialization | offered by | Effort | Repository if any
 
 #### Computer Science Applications:
 
-Course/Specialization | offered by | Effort | Repository if any | Certificate Link
+Course/Specialization | offered by | Effort | Repository if any
 :-- | :--: | :--: | :--: | 
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience)
 [Data Mining](https://www.coursera.org/specializations/data-mining) | University of Illinois at Urbana-Champaign | ~128h | ---
