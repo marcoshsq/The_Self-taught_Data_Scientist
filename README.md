@@ -162,11 +162,11 @@ Espaço para organização pessoal u.u
 
 ##
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | ---
-[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects)
-[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | --- |
+Course/Specialization | offered by | Effort | Repository if any | Certificate if any
+:-- | :--: | :--: | :--: | :--:
+[Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | --- | ---
+[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate Link](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d)
+[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | --- | ---
 
 ##
 
@@ -194,11 +194,11 @@ Espaço para organização pessoal u.u
 
 #### General Courses:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not applicable
-[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h | --- | 
-[Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | ~70h | --- | 
+Course/Specialization | offered by | Effort | Repository if any | Certificate if any
+:-- | :--: | :--: | :--: | :--:
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not applicable | [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/MFYQ2NNLB76F)
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h | --- | ---
+[Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | ~70h | --- | ---
 
 ##
 
