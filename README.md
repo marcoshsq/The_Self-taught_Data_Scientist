@@ -198,7 +198,7 @@ Course/Specialization | offered by | Effort | Repository if any | Certificate if
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not applicable | [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/MFYQ2NNLB76F)
 [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h | --- | ---
-[Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | ~70h | --- | ---
+[Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~52h | --- | ---
 
 ##
 
