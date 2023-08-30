@@ -104,9 +104,9 @@ After that, we have a table with the courses, which are structured in an order o
 
 Regarding the courses table, it has the following structure:
 
-Course/Specialization | offered by | Effort | Repository if any 
+Course/Specialization | offered by | Effort | Repository if any | Certificate if any
 :-- | :-- | :-- | :-- 
-The name of the course with a link to it. | The name of the institution providing the course. | An estimate of the duration of the course. | Many of the courses have projects, here are the links to the repositories containing these projects.
+The name of the course with a link to it. | The name of the institution providing the course. | An estimate of the duration of the course. | Many of the courses have projects, here are the links to the repositories containing these projects. | If the course has a certificate of completion, I will put the link to it as a way of confirming completion.
 
 After these five main sections we have a complementary section, which follows the same structure, and we end with a bibliography with links to books I used for consultation.
 
@@ -305,9 +305,9 @@ Course/Specialization | offered by | Effort | Repository if any
 
 #### Computer Science Applications:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience)
+Course/Specialization | offered by | Effort | Repository if any | Certificate if any
+:-- | :--: | :--: | :--: | :--:
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | [Certificate Link](https://www.coursera.org/account/accomplishments/specialization/certificate/T4CU2PVZ7QEF)
 [Data Mining](https://www.coursera.org/specializations/data-mining) | University of Illinois at Urbana-Champaign | ~128h | ---
 [Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | University of Illinois at Urbana-Champaign | ~128h | ---
 
