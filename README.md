@@ -216,6 +216,7 @@ Course/Specialization | offered by | Effort | Repository if any
 
 Course/Specialization | offered by | Effort | Repository if any
 :-- | :--: | :--: | :--: | 
+[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | ---
 [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | University of Colorado | ~120h | ---
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | University of Colorado | ~120h | ---
 [Statistical Methods Applied to Social Sciences](https://www.coursera.org/specializations/social-science) | University of Amsterdam | ~120h | ---
