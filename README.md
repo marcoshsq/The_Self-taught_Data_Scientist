@@ -304,7 +304,7 @@ Espaço para organização pessoal u.u
 ##
 
 Course/Specialization | offered by | Effort 
-:-- | :--: | :--: | :--: | 
+:-- | :--: | :--: 
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | University of Colorado | ~96h 
 [Big Data](https://www.coursera.org/specializations/big-data) | UC San Diego | ~96h 
 [Data Warehousing for Business Intelligence](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h 
