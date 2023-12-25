@@ -24,7 +24,6 @@
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Learning Goals](https://github.com/marcoshsq/DataScienceCurriculum#learning-goals)
-- [How this Repository is Structured](https://github.com/marcoshsq/DataScienceCurriculum#how-this-repository-is-structured)
 - [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
 	- [Section 01 - Fundamentals of Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-01---fundamentals-of-data-science)
 	- [Section 02 - Mathematics and Statistics for Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-02---mathematics-and-statistics-for-data-science)
@@ -96,38 +95,6 @@ Espaço para organização pessoal u.u
 
 -->
 
-## How this Repository is Structured.
-
-This repository is divided into five main sections, which contain the courses divided by themes, each section starts with an introduction, describing what my objectives are with those courses and my learning goals.
-
-After that, we have a table with the courses, which are structured in an order of difficulty or themes, but the sections are not sequential, with the exception of the first, which is an introduction, and the last, which requires a deeper knowledge of statistics.
-
-Regarding the courses table, it has the following structure:
-
-Course/Specialization | offered by | Effort | Repository if any | Certificate if any
-:-- | :-- | :-- | :-- 
-The name of the course with a link to it. | The name of the institution providing the course. | An estimate of the duration of the course. | Many of the courses have projects, here are the links to the repositories containing these projects. | If the course has a certificate of completion, I will put the link to it as a way of confirming completion.
-
-After these five main sections we have a complementary section, which follows the same structure, and we end with a bibliography with links to books I used for consultation.
-
-##
-
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
-	
-</div>
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
-
 
 ---
 
@@ -162,11 +129,11 @@ Espaço para organização pessoal u.u
 
 ##
 
-Course/Specialization | offered by | Effort | Repository if any | Certificate if any
-:-- | :--: | :--: | :--: | :--:
-[Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | --- | ---
-[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate Link](https://www.credly.com/badges/efbdce4a-3e7d-4de2-930c-944fe740191d)
-[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | --- | ---
+Course/Specialization | offered by | Effort |
+:-- | :--: | :--: 
+[Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h 
+[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h
+[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h 
 
 ##
 
@@ -194,47 +161,47 @@ Espaço para organização pessoal u.u
 
 #### General Courses:
 
-Course/Specialization | offered by | Effort | Repository if any | Certificate if any
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not applicable | [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/MFYQ2NNLB76F)
-[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h | --- | ---
-[Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~52h | --- | ---
+Course/Specialization | offered by | Effort 
+:-- | :--: | :--: 
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h 
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h 
+[Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~52h 
 
 ##
 
 #### Calculus:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | Johns Hopkins University | ~40h | ---
-[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Johns Hopkins University | ~40h | ---
-[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Johns Hopkins University | ~40h | --- |
+Course/Specialization | offered by | Effort 
+:-- | :--: | :--: 
+[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | Johns Hopkins University | ~40h 
+[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Johns Hopkins University | ~40h 
+[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Johns Hopkins University | ~40h
 
 ##
 
 #### Probability and Statistics:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | ---
-[Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | University of Colorado | ~120h | ---
-[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | University of Colorado | ~120h | ---
-[Statistical Methods Applied to Social Sciences](https://www.coursera.org/specializations/social-science) | University of Amsterdam | ~120h | ---
-[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Santa Cruz - California University | ~96h | ---
-[Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | CU-Boulder | ~35h | --- | ---
-[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Johns Hopkins University | ~40h | ---
-[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford University | ~180h | ---
+Course/Specialization | offered by | Effort 
+:-- | :--: | :--: 
+[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h 
+[Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | University of Colorado | ~120h 
+[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | University of Colorado | ~120h 
+[Statistical Methods Applied to Social Sciences](https://www.coursera.org/specializations/social-science) | University of Amsterdam | ~120h 
+[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Santa Cruz - California University | ~96h 
+[Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | CU-Boulder | ~35h 
+[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Johns Hopkins University | ~40h
+[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford University | ~180h 
 
 ##
 
 #### Game Theory:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Introduction to Game Theory](https://www.coursera.org/learn/game-theory-introduction) | The University of Tokyo | ~20h | ---
-[Game Theory I](https://www.coursera.org/learn/game-theory-1) | Stanford University | ~18h | ---
-[Game Theory II](https://www.coursera.org/learn/game-theory-2) | Stanford University | ~18h | ---
-[Social Economic Networks](https://www.coursera.org/learn/social-economic-networks) | Stanford University | ~30h | ---
+Course/Specialization | offered by | Effort 
+:-- | :--: | :--: 
+[Introduction to Game Theory](https://www.coursera.org/learn/game-theory-introduction) | The University of Tokyo | ~20h 
+[Game Theory I](https://www.coursera.org/learn/game-theory-1) | Stanford University | ~18h
+[Game Theory II](https://www.coursera.org/learn/game-theory-2) | Stanford University | ~18h 
+[Social Economic Networks](https://www.coursera.org/learn/social-economic-networks) | Stanford University | ~30h 
 
 ##
 
@@ -262,55 +229,55 @@ Espaço para organização pessoal u.u
 
 #### Core Programming:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | Princeton University | ~88h | [Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | ---
-[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University | ~20h | ---
-[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | Princeton University | ~54h | ---
-[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | ~63h | ---
+Course/Specialization | offered by | Effort 
+:-- | :--: | :--: 
+[Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | Princeton University | ~88h 
+[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University | ~20h 
+[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | Princeton University | ~54h
+[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | ~63h 
 
 ##
 
 #### Programming for Data Science in Python:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Repository](https://github.com/marcoshsq/Python)
-[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Repository](https://github.com/marcoshsq/Statistics_with_Python)
-[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | ---
-[Linear Algebra for Data Science Using Python](coursera.org/specializations/linear-algebra-data-science-python) | Howard University | ~32h | ---
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | University of Michigan | ~140h | ---
+Course/Specialization | offered by | Effort
+:-- | :--: | :--: 
+[Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h 
+[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h 
+[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h 
+[Linear Algebra for Data Science Using Python](coursera.org/specializations/linear-algebra-data-science-python) | Howard University | ~32h 
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | University of Michigan | ~140h 
 
 ##
 
 #### Programming for Data Science in R:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Data Analysis with R](https://www.coursera.org/specializations/statistics) | Duke University | ~40h | [Repository](https://github.com/marcoshsq/DAWR)
-[Mastering Software Development in R](https://www.coursera.org/specializations/r) | Johns Hopkins University | ~100h | ---
-[Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | Johns Hopkins University | ~90h | ---
-[Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~80h | ---
+Course/Specialization | offered by | Effort 
+:-- | :--: | :--: 
+[Data Analysis with R](https://www.coursera.org/specializations/statistics) | Duke University | ~40h 
+[Mastering Software Development in R](https://www.coursera.org/specializations/r) | Johns Hopkins University | ~100h 
+[Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | Johns Hopkins University | ~90h
+[Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~80h 
 
 ##
 
 #### Programming for Data Science in Java:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | Learn Quest | ~60h | ---
-[Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | San Diego University | ~120 | ---
-[Java Database Connectivity](https://www.coursera.org/specializations/java-database-connectivity) | Learn Quest | ~50h | ---
+Course/Specialization | offered by | Effort 
+:-- | :--: | :--: 
+[Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | Learn Quest | ~60h 
+[Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | San Diego University | ~120 
+[Java Database Connectivity](https://www.coursera.org/specializations/java-database-connectivity) | Learn Quest | ~50h 
 
 ##
 
 #### Computer Science Applications:
 
-Course/Specialization | offered by | Effort | Repository if any | Certificate if any
-:-- | :--: | :--: | :--: | :--:
-[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h | [Repository](https://github.com/marcoshsq/SQLBasicsForDataScience) | [Certificate Link](https://www.coursera.org/account/accomplishments/specialization/certificate/T4CU2PVZ7QEF)
-[Data Mining](https://www.coursera.org/specializations/data-mining) | University of Illinois at Urbana-Champaign | ~128h | ---
-[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | University of Illinois at Urbana-Champaign | ~128h | ---
+Course/Specialization | offered by | Effort 
+:-- | :--: | :--: 
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h 
+[Data Mining](https://www.coursera.org/specializations/data-mining) | University of Illinois at Urbana-Champaign | ~128h 
+[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | University of Illinois at Urbana-Champaign | ~128h 
 
 ##
 
@@ -336,11 +303,11 @@ Espaço para organização pessoal u.u
 
 ##
 
-Course/Specialization | offered by | Effort | Repository if any
+Course/Specialization | offered by | Effort 
 :-- | :--: | :--: | :--: | 
-[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | University of Colorado | ~96h | ---
-[Big Data](https://www.coursera.org/specializations/big-data) | UC San Diego | ~96h | ---
-[Data Warehousing for Business Intelligence](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h | ---
+[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | University of Colorado | ~96h 
+[Big Data](https://www.coursera.org/specializations/big-data) | UC San Diego | ~96h 
+[Data Warehousing for Business Intelligence](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h 
 
 ##
 
@@ -368,37 +335,37 @@ Espaço para organização pessoal u.u
 
 #### Introductory Courses:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | DeepLearning.AI | ~12h | ---
-[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Wharton School of the University of Pennsylvania | ~32h | ---
-[Mind and Machine](https://www.coursera.org/specializations/mind-machine) | University of Colorado | ~32h | ---
+Course/Specialization | offered by | Effort 
+:-- | :--: | :--: 
+[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | DeepLearning.AI | ~12h 
+[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Wharton School of the University of Pennsylvania | ~32h
+[Mind and Machine](https://www.coursera.org/specializations/mind-machine) | University of Colorado | ~32h
 
 ##
 
 #### Machine Learning:
 
-Course/Specialization | offered by | Effort | Repository if any 
-:-- | :--: | :--: | :--: | 
-[Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h | --- 
-[Machine Learning](https://www.coursera.org/specializations/machine-learning) | University of Washington | ~84h | --- 
-[Deep Learning](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | ~180h | ---
-[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | ~80h | ---
-[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | ~100h | ---
-[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | ~120h | ---
-[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | ~64h | ---
-[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques) | DeepLearning.AI | ~140h | ---
-[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | DeepLearning.AI | ~60h | ---
+Course/Specialization | offered by | Effort
+:-- | :--: | :--: 
+[Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h 
+[Machine Learning](https://www.coursera.org/specializations/machine-learning) | University of Washington | ~84h 
+[Deep Learning](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | ~180h
+[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | ~80h 
+[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | ~100h 
+[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | ~120h 
+[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | ~64h 
+[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques) | DeepLearning.AI | ~140h 
+[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | DeepLearning.AI | ~60h 
 
 ##
 
 #### Computer Vision & NLP:
 
-Course/Specialization | offered by | Effort | Repository if any
-:-- | :--: | :--: | :--: | 
-[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | University of Columbia | ~60h | --- 
+Course/Specialization | offered by | Effort 
+:-- | :--: | :--: 
+[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | University of Columbia | ~60h 
 [Computer Vision: Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | ~140h 
-[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h | ---
+[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h 
 
 ##
 
