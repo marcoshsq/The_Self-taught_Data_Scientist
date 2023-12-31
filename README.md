@@ -186,7 +186,6 @@ Course/Specialization | offered by | Effort
 [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h 
 [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | University of Colorado | ~120h 
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | University of Colorado | ~120h 
-[Statistical Methods Applied to Social Sciences](https://www.coursera.org/specializations/social-science) | University of Amsterdam | ~120h 
 [Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Santa Cruz - California University | ~96h 
 [Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | CU-Boulder | ~35h 
 [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Johns Hopkins University | ~40h
