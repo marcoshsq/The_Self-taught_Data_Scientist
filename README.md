@@ -220,9 +220,9 @@ Espaço para organização pessoal u.u
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
 :-- | :--: | :--: | :--: | :--: | 
 [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | Princeton University | ~88h | [Course Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | -- | 
-[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University | ~20h | -- | -- | 
-[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | Princeton University | ~54h | -- | -- |
-[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | ~63h | -- | -- | 
+[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University | ~20h | *[Course Repository]() | -- | 
+[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | Princeton University | ~54h | *[Course Repository]() | -- |
+[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | ~63h | *[Course Repository]() | -- | 
 
 ##
 
@@ -233,7 +233,7 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Course Repository](https://github.com/marcoshsq/Python3Programming) | -- | 
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Course Repository](https://github.com/marcoshsq/Statistics_with_Python) | -- | 
 [Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | [Course Repository](https://github.com/marcoshsq/PythonAppliedCalculus) | -- | 
-[Linear Algebra for Data Science Using Python](coursera.org/specializations/linear-algebra-data-science-python) | Howard University | ~32h | [Course Repository]() | -- | 
+[Linear Algebra for Data Science Using Python](coursera.org/specializations/linear-algebra-data-science-python) | Howard University | ~32h | *[Course Repository]() | -- | 
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | University of Michigan | ~140h | [Course Repository](https://github.com/marcoshsq/PythonAppliedDataScience) | -- | 
 
 ##
@@ -243,9 +243,9 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
 :-- | :--: | :--: | :--: | :--: |
 [Data Analysis with R](https://www.coursera.org/specializations/statistics) | Duke University | ~40h | [Course Repository](https://github.com/marcoshsq/Duke_Data_Analysis_with_R) | -- | 
-[Mastering Software Development in R](https://www.coursera.org/specializations/r) | Johns Hopkins University | ~100h | [Course Repository]() | -- | 
-[Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | Johns Hopkins University | ~90h | [Course Repository]() | -- |
-[Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~80h | [Course Repository]() | -- | 
+[Mastering Software Development in R](https://www.coursera.org/specializations/r) | Johns Hopkins University | ~100h | *[Course Repository]() | -- | 
+[Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | Johns Hopkins University | ~90h | *[Course Repository]() | -- |
+[Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~80h | *[Course Repository]() | -- | 
 
 ##
 
@@ -253,9 +253,9 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
 :-- | :--: | :--: | :--: | :--: | 
-[Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | Learn Quest | ~60h | [Course Repository]() | -- | 
-[Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | San Diego University | ~120 | [Course Repository]() | -- | 
-[Java Database Connectivity](https://www.coursera.org/specializations/java-database-connectivity) | Learn Quest | ~50h | [Course Repository]() | -- | 
+[Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | Learn Quest | ~60h | *[Course Repository]() | -- | 
+[Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | San Diego University | ~120 | *[Course Repository]() | -- | 
+[Java Database Connectivity](https://www.coursera.org/specializations/java-database-connectivity) | Learn Quest | ~50h | *[Course Repository]() | -- | 
 
 ##
 
@@ -326,13 +326,13 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
 :-- | :--: | :--: | :--: | :--: |
-[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h | [Course Repository](https://github.com/marcoshsq/AndrewNg-MachineLearning) | -- | 
-[Deep Learning](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | ~180h | -- | -- |
-[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | ~80h | -- | -- | 
-[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | ~100h | -- | -- | 
-[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | ~120h | -- | -- | 
-[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | ~64h | -- | -- | 
-[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques) | DeepLearning.AI | ~140h | -- | -- | 
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h | *[Course Repository](https://github.com/marcoshsq/AndrewNg-MachineLearning) | -- | 
+[Deep Learning](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | ~180h | *[Course Repository]() | -- |
+[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | ~80h | *[Course Repository]() | -- | 
+[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | ~100h | *[Course Repository]() | -- | 
+[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | ~120h | *[Course Repository]() | -- | 
+[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | ~64h | *[Course Repository]() | -- | 
+[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques) | DeepLearning.AI | ~140h | *[Course Repository]() | -- | 
 
 ##
 
@@ -340,8 +340,8 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
 :-- | :--: | :--: | :--: | :--: |
-[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | University of Columbia | ~60h | -- | -- | 
-[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h | -- | -- | 
+[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | University of Columbia | ~60h | *[Course Repository]() | -- | 
+[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h | *[Course Repository]() | -- | 
 
 ##
 
