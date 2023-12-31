@@ -30,6 +30,7 @@
 	- [Section 03 - Computing and Programming](https://github.com/marcoshsq/DataScienceCurriculum#section-03---computing-and-programming)
 	- [Section 04 - Databases and Big Data](https://github.com/marcoshsq/DataScienceCurriculum#section-04---databases-and-big-data)
 	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
+ 	- [Extra Section - Applications](https://github.com/marcoshsq/DataScienceCurriculum/tree/main#extra---data-science-applications)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 	- [Mathematics Books](https://github.com/marcoshsq/DataScienceCurriculum#mathematics-books)
 	- [Books, articles and related documentation](https://github.com/marcoshsq/DataScienceCurriculum#books-articles-and-related-documentation)
