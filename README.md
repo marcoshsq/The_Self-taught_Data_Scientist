@@ -104,6 +104,8 @@ The main curriculum is divided into five sections: Fundamentals of Data Science,
 
 Section 01 focuses on the basics of the Data field, and what advantages the use of data can bring. Section 02 is intended to be a boost to my math studies, but with a greater focus on computational math and modeling. Section 03 is about learning to code, in addition to other computer science related topics. Section 04 is all about Databases and Big Data, it´s tools and applications. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
 
+For completeness, I added an extra section for domain knowledge. My goal is to bring some courses that focus on applying the skills that have been developed throughout this curriculum.
+
 ##
 
 <div align="right">
@@ -133,6 +135,7 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 :-- | :--: | :--: | :--: | :--: |
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | -- | -- |
 [Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | -- | -- |
+[Total Data Quality](https://www.coursera.org/specializations/total-data-quality) | University of Michigan | ~30h | -- | -- |
 [Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~300h | [Course Repository](https://github.com/marcoshsq/DataScience-JHU) | -- |
 
 ##
@@ -350,6 +353,41 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+##
+
+### Extra - Data Science Applications
+
+##
+
+Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
+:-- | :--: | :--: | :--: | :--: |
+[Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Penn | ~40h | -- | -- |
+[Analysing: Numeric and digital literacies](https://www.coursera.org/specializations/analysing-numeric-digital-literacies) | Macquarie University | ~60h | -- | -- |
+[Storytelling](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~76h | -- | -- |
+[Survey Data Collection and Analytics](https://www.coursera.org/specializations/data-collection) | University of Michigan | ~120H | -- | -- |
+[Business Strategy](https://www.coursera.org/specializations/business-strategy?#courses) | University of Virginia | ~50h | -- | -- |
+[Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst) | Tableau LPI | ~180h | -- | -- |
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+##
 
 <!-- 
 
