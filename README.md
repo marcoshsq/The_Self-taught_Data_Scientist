@@ -132,8 +132,8 @@ Espaço para organização pessoal u.u
 Course/Specialization | offered by | Effort |
 :-- | :--: | :--: 
 [Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h 
-[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~180h
-[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h 
+[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h
+[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~300h
 
 ##
 
@@ -190,17 +190,6 @@ Course/Specialization | offered by | Effort
 [Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | CU-Boulder | ~35h 
 [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Johns Hopkins University | ~40h
 [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford University | ~180h 
-
-##
-
-#### Game Theory:
-
-Course/Specialization | offered by | Effort 
-:-- | :--: | :--: 
-[Introduction to Game Theory](https://www.coursera.org/learn/game-theory-introduction) | The University of Tokyo | ~20h 
-[Game Theory I](https://www.coursera.org/learn/game-theory-1) | Stanford University | ~18h
-[Game Theory II](https://www.coursera.org/learn/game-theory-2) | Stanford University | ~18h 
-[Social Economic Networks](https://www.coursera.org/learn/social-economic-networks) | Stanford University | ~30h 
 
 ##
 
@@ -270,16 +259,6 @@ Course/Specialization | offered by | Effort
 
 ##
 
-#### Computer Science Applications:
-
-Course/Specialization | offered by | Effort 
-:-- | :--: | :--: 
-[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h 
-[Data Mining](https://www.coursera.org/specializations/data-mining) | University of Illinois at Urbana-Champaign | ~128h 
-[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | University of Illinois at Urbana-Champaign | ~128h 
-
-##
-
 <div align="right">
 	
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
@@ -305,6 +284,8 @@ Espaço para organização pessoal u.u
 Course/Specialization | offered by | Effort 
 :-- | :--: | :--: 
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | University of Colorado | ~96h 
+[Data Mining](https://www.coursera.org/specializations/data-mining) | University of Illinois at Urbana-Champaign | ~128h 
+[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | University of Illinois at Urbana-Champaign | ~128h 
 [Big Data](https://www.coursera.org/specializations/big-data) | UC San Diego | ~96h 
 [Data Warehousing for Business Intelligence](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h 
 
@@ -338,7 +319,6 @@ Course/Specialization | offered by | Effort
 :-- | :--: | :--: 
 [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | DeepLearning.AI | ~12h 
 [AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Wharton School of the University of Pennsylvania | ~32h
-[Mind and Machine](https://www.coursera.org/specializations/mind-machine) | University of Colorado | ~32h
 
 ##
 
@@ -346,15 +326,13 @@ Course/Specialization | offered by | Effort
 
 Course/Specialization | offered by | Effort
 :-- | :--: | :--: 
-[Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h 
-[Machine Learning](https://www.coursera.org/specializations/machine-learning) | University of Washington | ~84h 
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h 
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | ~180h
 [TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | ~80h 
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | ~100h 
 [Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | ~120h 
 [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | ~64h 
 [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques) | DeepLearning.AI | ~140h 
-[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | DeepLearning.AI | ~60h 
 
 ##
 
@@ -363,7 +341,6 @@ Course/Specialization | offered by | Effort
 Course/Specialization | offered by | Effort 
 :-- | :--: | :--: 
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | University of Columbia | ~60h 
-[Computer Vision: Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto | ~140h 
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h 
 
 ##
@@ -447,8 +424,8 @@ Espaço para organização pessoal u.u
 ## Important Notes.
 
 * The duration of the courses that I put here are estimates made by the platforms where they are offered.
-* At the moment I am doing this graduation, so the verb tense of this ``readme`` is a little strange, sometimes in the past, sometimes in the future, as I do it I will reformat it to better report my experience.
-* As for the books, my university has partnerships with a few platforms, like O'Reilly, as well as a very large library that's where I got almost all of these books.
+* At the moment I am doing this graduation, so the verb tense of this ``readme`` is a little strange, sometimes in the past, sometimes in the future, as I do it I'll reformat it to better report my experience.
+* As for the books, my university has partnerships with a few platforms, like O'Reilly, as well as a very large library, that's where I got almost all of them.
 
 <!-- 
 
