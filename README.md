@@ -257,6 +257,7 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
 :-- | :--: | :--: | :--: | :--: | 
+[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | Duke University | ~80h | --- | --- | 
 [Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | Learn Quest | ~60h | *[Course Repository]() | -- | 
 [Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | San Diego University | ~120 | *[Course Repository]() | -- | 
 [Java Database Connectivity](https://www.coursera.org/specializations/java-database-connectivity) | Learn Quest | ~50h | *[Course Repository]() | -- | 
