@@ -168,7 +168,7 @@ Espaço para organização pessoal u.u
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
 :-- | :--: | :--: | :--: | :--: |
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not Applicable | [Certificate of Completion](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5) |
-[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | ~42h | -- | -- |
+[Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) | UC San Diego | ~120h | -- | -- |
 [Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~52h | -- | -- |
 
 ##
