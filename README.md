@@ -132,12 +132,12 @@ Espaço para organização pessoal u.u
 
 ##
 
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
-:-- | :--: | :--: | :--: | :--: |
-[Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | -- | -- |
-[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | -- | -- |
-[Total Data Quality](https://www.coursera.org/specializations/total-data-quality) | University of Michigan | ~30h | -- | -- |
-[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~300h | [Course Repository](https://github.com/marcoshsq/DataScience-JHU) | -- |
+Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable | Status |
+:-- | :--: | :--: | :--: | :--: | :--: |
+[Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | -- | -- | -- |
+[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | -- | -- | -- |
+[Total Data Quality](https://www.coursera.org/specializations/total-data-quality) | University of Michigan | ~30h | -- | -- | -- |
+[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~300h | [Course Repository](https://github.com/marcoshsq/DataScience-JHU) | -- | -- |
 
 ##
 
@@ -167,9 +167,9 @@ Espaço para organização pessoal u.u
 
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
 :-- | :--: | :--: | :--: | :--: |
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not Applicable | [Certificate of Completion](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5) |
-[Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) | UC San Diego | ~120h | -- | -- |
-[Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~52h | -- | -- |
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not Applicable | [Certificate of Completion] -- |(https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5) | ✓ |
+[Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) | UC San Diego | ~120h | -- | -- | -- |
+[Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~52h | -- | -- | -- |
 
 ##
 
