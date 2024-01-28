@@ -187,7 +187,7 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable | Status |
 :-- | :--: | :--: | :--: | :--: | :--: |
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | Not Applicable | [Certificate of Completion](https://coursera.org/share/e7b74495200c30efc3f31c9ba34a0d2a) | ✓ |
+[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | Not Applicable | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/TUP8FUJ52PP5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) | ✓ |
 [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | University of Colorado | ~120h | -- | -- | 
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | University of Colorado | ~120h | -- | -- | 
 [Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Santa Cruz - California University | ~96h | -- | -- | 
