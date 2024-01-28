@@ -175,8 +175,8 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 
 #### Calculus:
 
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
-:-- | :--: | :--: | :--: | :--: |
+Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable | Status |
+:-- | :--: | :--: | :--: | :--: | :--: |
 [Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | Johns Hopkins University | ~40h | -- | -- | 
 [Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Johns Hopkins University | ~40h | -- | -- | 
 [Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Johns Hopkins University | ~40h | -- | -- |
@@ -185,9 +185,9 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 
 #### Probability and Statistics:
 
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
-:-- | :--: | :--: | :--: | :--: |
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | -- | -- | 
+Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable | Status |
+:-- | :--: | :--: | :--: | :--: | :--: |
+[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | Not Applicable | [Certificate of Completion](https://coursera.org/share/e7b74495200c30efc3f31c9ba34a0d2a) | ✓ |
 [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | University of Colorado | ~120h | -- | -- | 
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | University of Colorado | ~120h | -- | -- | 
 [Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Santa Cruz - California University | ~96h | -- | -- | 
