@@ -469,9 +469,7 @@ Espaço para organização pessoal u.u
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
 :-- | :--: | :--: | :--: | :--: |
 [Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Penn | ~40h | -- | -- |
-[Analysing: Numeric and digital literacies](https://www.coursera.org/specializations/analysing-numeric-digital-literacies) | Macquarie University | ~60h | -- | -- |
 [Storytelling](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~76h | -- | -- |
-[Survey Data Collection and Analytics](https://www.coursera.org/specializations/data-collection) | University of Michigan | ~120H | -- | -- |
 [Business Strategy](https://www.coursera.org/specializations/business-strategy?#courses) | University of Virginia | ~50h | -- | -- |
 [Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst) | Tableau LPI | ~180h | -- | -- |
 
