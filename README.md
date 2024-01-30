@@ -43,7 +43,7 @@
 
 ## About.
 
-This is a curated list of free courses from reputable universities (e.g. MIT, Stanford, Johns Hopkins University, etc.) that satisfy the same requirements as an undergraduate curriculum for Data Science, minus general education.
+Welcome to the Data Science Undergraduate Curriculum, a list of free courses from renowned universities like MIT, Stanford, Johns Hopkins University, and more. This curriculum is designed to meet the requirements of a Data Science degree program, excluding general education courses.
 
 To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
@@ -73,10 +73,28 @@ My main focus is to learn the contents following this [roadmap here](https://i.a
 
 But here is an overview list of concepts and skills I want to learn by the end of this "degree":
 
-- Programming (Python, R, and Java);
-- Databases, Business Intelligence and Data warehousing;
-- Data Visualization and Presentation Skills;
-- Artificial Intelligence (Machine Learning, Deep Learning, Neural Networks, CV and NLP).
+1. Programming Proficiency:
+
+	- Python: Mastery of Python, the powerhouse in the world of Data Science, for efficient data manipulation, analysis, and model implementation.
+	- R: Proficiency in R for statistical analysis, data visualization, and exploration.
+	- Java: Understanding Java to broaden my programming horizons and cater to diverse technological landscapes.
+
+2. Databases, Business Intelligence, and Data Warehousing:
+
+	- In-depth knowledge of database management systems, emphasizing both relational and non-relational databases.
+	- Proficiency in Business Intelligence (BI) tools for effective data analysis and decision-making.
+	- Understanding the intricacies of Data Warehousing to ensure efficient storage and retrieval of large datasets.
+
+3. Data Visualization and Presentation Skills:
+
+	- Mastery of data visualization tools such as Tableau and Matplotlib for conveying insights effectively.
+	- Developing the art of storytelling through data, ensuring that complex findings are communicated in a comprehensible manner.
+
+4. Artificial Intelligence:
+
+	- Machine Learning: Comprehensive understanding and application of machine learning algorithms for predictive modeling and pattern recognition.
+	- Deep Learning: Delving into the depths of neural networks, exploring architectures and frameworks like TensorFlow and PyTorch.
+	- Computer Vision (CV) and Natural Language Processing (NLP): Application of AI in image recognition, language understanding, and text analysis.
 
 ##
 
@@ -101,11 +119,66 @@ Espaço para organização pessoal u.u
 
 ## Main Curriculum.
 
-The main curriculum is divided into five sections: Fundamentals of Data Science, Mathematics, Computing and Programming, Databases and Big Data and Artificial Intelligence.
+Welcome to a structured exploration of Data Science, divided into five main sections that cover the essential pillars of the field.
 
-Section 01 focuses on the basics of the Data field, and what advantages the use of data can bring. Section 02 is intended to be a boost to my math studies, but with a greater focus on computational math and modeling. Section 03 is about learning to code, in addition to other computer science related topics. Section 04 is all about Databases and Big Data, it´s tools and applications. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
+## 1. Fundamentals of Data Science
 
-For completeness, I added an extra section for domain knowledge. My goal is to bring some courses that focus on applying the skills that have been developed throughout this curriculum.
+**Overview:**
+Present the fundamental concepts in the area of data science.
+
+**Key Topics:**
+- Data literacy.
+- Data science applications.
+- Importance of data in decision making.
+
+## 2. Basic Mathematics for Data Science
+
+**Overview:**
+Increase mathematical proficiency with a focus on computational mathematics and modeling, calculus, statistics, and algebra.
+
+**Key Topics:**
+- Computational and Discrete Mathematics.
+- Modeling Techniques.
+- Statistics.
+
+## 3. Programming Skills
+
+**Overview:**
+Develop programming skills.
+
+**Key Topics:**
+- Fundamental Concepts in Java.
+- Python Programming.
+- R programming.
+
+## 4. Applications in Data Science
+
+**Overview:**
+Learn the tools, technologies, and techniques that are used in data science and analysis.
+
+**Key Topics:**
+- Database Management Systems.
+- Data mining techniques.
+- Big Data concepts and cloud applications.
+
+## 5. Artificial Intelligence
+
+**Overview:**
+Diving into Artificial Intelligence, with a special focus on machine learning.
+
+**Key Topics:**
+- Fundamentals of machine learning.
+- Deep learning architectures (TensorFlow, PyTorch).
+- Applications in Computer Vision and NLP.
+
+### Extra Section: Complementary Courses
+
+**Overview:**
+Additional courses complementing the core curriculum to enhance general knowledge.
+
+**Curriculum Design Philosophy:**
+Integration of knowledge across sections for holistic understanding.
+Emphasis on practical projects and real-world applications.
 
 ##
 
