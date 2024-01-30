@@ -73,7 +73,7 @@ My main focus is to learn the contents following this [roadmap here](https://i.a
 
 But here is an overview list of concepts and skills I want to learn by the end of this "degree":
 
-- Programming (Python, R and Java);
+- Programming (Python, R, and Java);
 - Databases, Business Intelligence and Data warehousing;
 - Data Visualization and Presentation Skills;
 - Artificial Intelligence (Machine Learning, Deep Learning, Neural Networks, CV and NLP).
@@ -250,17 +250,6 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 [Mastering Software Development in R](https://www.coursera.org/specializations/r) | Johns Hopkins University | ~100h | *[Course Repository]() | -- | 
 [Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | Johns Hopkins University | ~90h | *[Course Repository]() | -- |
 [Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~80h | *[Course Repository]() | -- | 
-
-##
-
-#### Programming for Data Science in Java:
-
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
-:-- | :--: | :--: | :--: | :--: | 
-[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | Duke University | ~80h | --- | --- | 
-[Java Enterprise Edition](https://www.coursera.org/specializations/java-ee) | Learn Quest | ~60h | *[Course Repository]() | -- | 
-[Java Object Oriented Programming](https://www.coursera.org/specializations/object-oriented-programming) | San Diego University | ~120 | *[Course Repository]() | -- | 
-[Java Database Connectivity](https://www.coursera.org/specializations/java-database-connectivity) | Learn Quest | ~50h | *[Course Repository]() | -- | 
 
 ##
 
