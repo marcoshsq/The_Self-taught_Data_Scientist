@@ -255,14 +255,14 @@ Espaço para organização pessoal u.u
 
 This section aims to strengthen mathematical proficiency with a focus on computational concepts and statistics, covering essential courses in Mathematics, Calculus, Linear Algebra, and Statistics. The goal is to provide a solid foundation for understanding and applying these principles in data science.
 
-**General Courses**
-Overview: Desenvolver uma base matemática para computação e ciência de dados.
+1. **General Courses**
+   - *Overview:* Desenvolver uma base matemática para computação e ciência de dados.
 
-**Calculus**
-Overview: Learn concepts of integral and differential calculus with a focus on data modeling.
+2. **Calculus**
+   - *Overview:* Learn concepts of integral and differential calculus with a focus on data modeling.
 
-**Probability and Statistics**
-Overview: Develop expertise in statistics, from basic concepts to more advanced techniques, to learn how to manipulate, interpret, and extract insights from data.
+3. **Probability and Statistics**
+   - *Overview:* Develop expertise in statistics, from basic concepts to more advanced techniques, to learn how to manipulate, interpret, and extract insights from data.
 
 
 
