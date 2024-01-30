@@ -121,7 +121,7 @@ Espaço para organização pessoal u.u
 
 Welcome to a structured exploration of Data Science, divided into five main sections that cover the essential pillars of the field.
 
-## 1. Fundamentals of Data Science
+### 1. Fundamentals of Data Science
 
 **Overview:**
 Present the fundamental concepts in the area of data science.
@@ -131,7 +131,7 @@ Present the fundamental concepts in the area of data science.
 - Data science applications.
 - Importance of data in decision making.
 
-## 2. Basic Mathematics for Data Science
+### 2. Basic Mathematics for Data Science
 
 **Overview:**
 Increase mathematical proficiency with a focus on computational mathematics and modeling, calculus, statistics, and algebra.
@@ -141,7 +141,7 @@ Increase mathematical proficiency with a focus on computational mathematics and 
 - Modeling Techniques.
 - Statistics.
 
-## 3. Programming Skills
+### 3. Programming Skills
 
 **Overview:**
 Develop programming skills.
@@ -151,7 +151,7 @@ Develop programming skills.
 - Python Programming.
 - R programming.
 
-## 4. Applications in Data Science
+### 4. Applications in Data Science
 
 **Overview:**
 Learn the tools, technologies, and techniques that are used in data science and analysis.
@@ -161,7 +161,7 @@ Learn the tools, technologies, and techniques that are used in data science and 
 - Data mining techniques.
 - Big Data concepts and cloud applications.
 
-## 5. Artificial Intelligence
+### 5. Artificial Intelligence
 
 **Overview:**
 Diving into Artificial Intelligence, with a special focus on machine learning.
@@ -203,6 +203,25 @@ Espaço para organização pessoal u.u
 
 ### Section 01 - Fundamentals of Data Science.
 
+In this section, we establish the foundational knowledge necessary for a comprehensive understanding of data science principles. The selected courses provide a thorough introduction to key concepts, emphasizing the crucial role of data in decision-making processes.
+
+#### Learning Goals:
+
+1. **Data Literacy**
+   - *Overview:* Develop a foundational understanding of data, focusing on literacy in interpreting and communicating with data.
+
+2. **Vital Skills for Data Science**
+   - *Overview:* Acquire essential skills necessary for success in the field of data science, with a strong emphasis on practical applications.
+
+3. **Total Data Quality**
+   - *Overview:* Explore the critical aspect of data quality and its profound impact on effective decision-making and analysis.
+
+4. **Data Science**
+   - *Overview:* Dive deeper into the core concepts of data science, gaining practical experience in data analysis and interpretation.
+
+These courses collectively build a robust foundation in data science, laying the groundwork for more advanced topics covered in the subsequent sections.
+
+
 ##
 
 Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable | Status |
@@ -233,6 +252,19 @@ Espaço para organização pessoal u.u
 -->
 
 ### Section 02 - Mathematics and Statistics for Data Science.
+
+This section aims to strengthen mathematical proficiency with a focus on computational concepts and statistics, covering essential courses in Mathematics, Calculus, Linear Algebra, and Statistics. The goal is to provide a solid foundation for understanding and applying these principles in data science.
+
+**General Courses**
+Overview: Desenvolver uma base matemática para computação e ciência de dados.
+
+**Calculus**
+Overview: Learn concepts of integral and differential calculus with a focus on data modeling.
+
+**Probability and Statistics**
+Overview: Develop expertise in statistics, from basic concepts to more advanced techniques, to learn how to manipulate, interpret, and extract insights from data.
+
+
 
 ##
 
