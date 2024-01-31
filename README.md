@@ -45,6 +45,10 @@
 
 Welcome to the Data Science Undergraduate Curriculum, a list of free courses from renowned universities like MIT, Stanford, Johns Hopkins University, and more. This curriculum is designed to meet the requirements of a Data Science degree program, excluding general education courses.
 
+My intention for creating this project is that I want to learn data science and I saw that there is a lot of free and good content on the internet, so I did the research and organized it in the most coherent way I found.
+
+Initially, I created this curriculum for myself, but if you want to use it too, just clone it and take the courses that are linked.
+
 To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
 ##
@@ -75,9 +79,9 @@ But here is an overview list of concepts and skills I want to learn by the end o
 
 1. Programming Proficiency:
 
-	- Python: Mastery of Python, the powerhouse in the world of Data Science, for efficient data manipulation, analysis, and model implementation.
+	- Python: Python is the main language for manipulating, and implementing efficient data models, in addition to being the main tool for artificial intelligence, so it is the most explored language in this curriculum.
 	- R: Proficiency in R for statistical analysis, data visualization, and exploration.
-	- Java: Understanding Java to broaden my programming horizons and cater to diverse technological landscapes.
+	- Java: The introductory computer science courses I include here are taught in Java. So we will learn this language too.
 
 2. Databases, Business Intelligence, and Data Warehousing:
 
@@ -256,7 +260,7 @@ Espaço para organização pessoal u.u
 This section aims to strengthen mathematical proficiency with a focus on computational concepts and statistics, covering essential courses in Mathematics, Calculus, Linear Algebra, and Statistics. The goal is to provide a solid foundation for understanding and applying these principles in data science.
 
 1. **General Courses**
-   - *Overview:* Desenvolver uma base matemática para computação e ciência de dados.
+   - *Overview:* Develop a mathematical foundation for computing and data science.
 
 2. **Calculus**
    - *Overview:* Learn concepts of integral and differential calculus with a focus on data modeling.
@@ -322,6 +326,18 @@ Espaço para organização pessoal u.u
 
 ### Section 03 - Computing and Programming.
 
+This section is about programming and development, the chosen courses initially aim to introduce the basic concepts of CC (Programming Logic, Algorithms, and Data Structure), after, which we have two sections focused on Python and R.
+
+1. **Core Programming**
+   - *Overview:* Develop an understanding of computing by learning applied programming logic, data structures, and algorithms.
+
+2. **Programming for Data Science in Python**
+   - *Overview:* Python is the main language used in data science, so this entire section is focused on learning Python, from the basics of the language to its more advanced applications, with a focus on data.
+
+3. **Programming for Data Science in R**
+   - *Overview:* R is the main language for statistical analysis, it is open source and has a huge community, and it is the second most used language to work with data, so we'll learn it too.
+
+
 ##
 
 #### Core Programming:
@@ -377,6 +393,10 @@ Espaço para organização pessoal u.u
 ##
 
 ### Section 04 - Databases and Big Data.
+
+Now that we have the code, the math, and the music. In this section the objective is to delve deeper into Databases, learning SQL and Data Warehousing, after that, we have three other courses focused on Big Data, Cloud Computing, and Data Mining.
+
+For this section, I'll not write an overview of the courses, as I believe they are already self-explanatory.
 
 ##
 
