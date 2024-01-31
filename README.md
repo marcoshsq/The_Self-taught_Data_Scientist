@@ -30,7 +30,6 @@
 	- [Section 03 - Computing and Programming](https://github.com/marcoshsq/DataScienceCurriculum#section-03---computing-and-programming)
 	- [Section 04 - Databases and Big Data](https://github.com/marcoshsq/DataScienceCurriculum#section-04---databases-and-big-data)
 	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
- 	- [Extra Section - Applications](https://github.com/marcoshsq/DataScienceCurriculum/tree/main#extra---data-science-applications)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 	- [Mathematics Books](https://github.com/marcoshsq/DataScienceCurriculum#mathematics-books)
 	- [Books, articles and related documentation](https://github.com/marcoshsq/DataScienceCurriculum#books-articles-and-related-documentation)
@@ -174,15 +173,6 @@ Diving into Artificial Intelligence, with a special focus on machine learning.
 - Fundamentals of machine learning.
 - Deep learning architectures (TensorFlow, PyTorch).
 - Applications in Computer Vision and NLP.
-
-### Extra Section: Complementary Courses
-
-**Overview:**
-Additional courses complementing the core curriculum to enhance general knowledge.
-
-**Curriculum Design Philosophy:**
-Integration of knowledge across sections for holistic understanding.
-Emphasis on practical projects and real-world applications.
 
 ##
 
@@ -430,6 +420,10 @@ Espaço para organização pessoal u.u
 
 ### Section 05 - Artificial Intelligence.
 
+Finishing the curriculum, we have artificial intelligence. The objective here is simple. Learn what AI is and what it is for. 
+
+After this brief introduction, we have a series of courses on machine learning. And we finish with a specialization in Natural Language Processing and Computer Vision.
+
 ##
 
 #### Introductory Courses:
@@ -469,39 +463,6 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
-
-##
-
-### Extra - Data Science Applications
-
-##
-
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
-:-- | :--: | :--: | :--: | :--: |
-[Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations) | Penn | ~40h | -- | -- |
-[Storytelling](https://www.coursera.org/specializations/influencing-storytelling-change-management) | Macquarie University | ~76h | -- | -- |
-[Business Strategy](https://www.coursera.org/specializations/business-strategy?#courses) | University of Virginia | ~50h | -- | -- |
-[Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst) | Tableau LPI | ~180h | -- | -- |
-
-##
-
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
-	
-</div>
-
-##
 
 <!-- 
 
