@@ -3,15 +3,14 @@
 <!--Cabeçalho da página. -->
 
 <p align="center">
-  <a href="https://github.com/marcoshsq/DataScienceCurriculum">
+  <a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
     <img src="https://images.prismic.io/hiverywebsite/8225ab45-eb3f-4e22-a48f-1cbab9611f59_franki-chamaki-z4H9MYmWIMA-unsplash.jpg?auto=compress,format" alt="Developer Roadmap" width="" height="">
   </a>
 </p>
-  <h2 align="center">Data Science Undergraduate Curriculum</h2>
+  <h2 align="center">Currículo Autodidata em Ciência de Dados</h2>
  <div align="center"> 
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://medium.com/@marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
   <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 </div>
 <br>
