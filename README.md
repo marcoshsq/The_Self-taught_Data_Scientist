@@ -19,35 +19,44 @@
  
 ---
 
-## Content summary.
+## Sumário de Conteúdo
 
-- [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
-- [Learning Goals](https://github.com/marcoshsq/DataScienceCurriculum#learning-goals)
-- [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
-	- [Section 01 - Fundamentals of Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-01---fundamentals-of-data-science)
-	- [Section 02 - Mathematics and Statistics for Data Science](https://github.com/marcoshsq/DataScienceCurriculum#section-02---mathematics-and-statistics-for-data-science)
-	- [Section 03 - Computing and Programming](https://github.com/marcoshsq/DataScienceCurriculum#section-03---computing-and-programming)
-	- [Section 04 - Databases and Big Data](https://github.com/marcoshsq/DataScienceCurriculum#section-04---databases-and-big-data)
-	- [Section 05 - Artificial Intelligence](https://github.com/marcoshsq/DataScienceCurriculum#section-05---artificial-intelligence)
-- [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
-	- [Mathematics Books](https://github.com/marcoshsq/DataScienceCurriculum#mathematics-books)
-	- [Books, articles and related documentation](https://github.com/marcoshsq/DataScienceCurriculum#books-articles-and-related-documentation)
-- [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
-- [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
+- [Sobre]()
+- [Metas de Aprendizado]()
+- [Currículo]()
+	- [Seção 01 - Fundamentos]()
+	- [Seção 02 - Matemática e Estatística Aplicada em Dados e Computação]()
+	- [Seção 03-A - Linguagem Python para Análise de Dados]()
+ 	- [Seção 03-B - Linguagem R para Análise e Modelagem Estatística]()
+  	- [Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM]()
+  	- [Seção 04-A - Mineração de Dados]()
+  	- [Seção 04-B - Visualização de Dados]()
+	- [Seção 05 - Bancos de dados, SQL e Big Data]()
+	- [Seção 06 - Computação na Nuvem]()
+ 	- [Seção 07 - Aprendizado de Maquina]()
+  	- [Seção 08 - Aprendizado Profundo]()
+  	- [Seção 09 - Processamento de Linguagem Natural]()
+  	- [Seção 10 - Soft Skills]()
+- [Bibliografía Extra]()
+	- [Matemática]()
+	- [Livros, artigos e documentação relacionada]()
+- [Notas e Esclarecimentos]()
+- [Referências]()
 
 ---
 
 <!--Seção sobre.-->
 
-## About.
+## Sobre
 
-Welcome to the Data Science Undergraduate Curriculum, a list of free courses from renowned universities like MIT, Stanford, Johns Hopkins University, and more. This curriculum is designed to meet the requirements of a Data Science degree program, excluding general education courses.
+Bem-vindo a esse Currículo de Formação Autodidata em Dados, uma lista de cursos gratuitos de universidades renomadas como Stanford, Johns Hopkins e Colorado e outras. 
 
-My intention for creating this project is that I want to learn data science and I saw that there is a lot of free and good content on the internet, so I did the research and organized it in the most coherent way I found.
+Minha intenção ao criar esse projeto era aprender ciência de dados de 
+ forma gratuita, principalmente quando vi que existe muito conteúdo gratuito e bom na internet, por isso fiz minha pesquisa e organizei da forma mais coerente que encontrei.
 
-Initially, I created this curriculum for myself, but if you want to use it too, just clone it and take the courses that are linked.
+Inicialmente eu criei esse guia para mim, mas se quiser usar também é só clonar e fazer os cursos que estão aqui presentes, caso faça sentido pra você ;)
 
-To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
+Para construir este currículo consultei diferentes fontes que podem ser encontradas na seção ``Referências`` no final deste ``README``.
 
 ##
 
