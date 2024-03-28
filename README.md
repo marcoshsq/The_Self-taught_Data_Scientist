@@ -26,6 +26,7 @@
 - [Currículo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo)
 	- [Seção 01 - Fundamentos](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-01---fundamentos)
 	- [Seção 02 - Matemática e Estatística Aplicada em Dados e Computação]()
+ 	- [Seção 03 - Porgramação para Ciência de Dados]()
 	- [Seção 03-A - Linguagem Python para Análise de Dados]()
  	- [Seção 03-B - Linguagem R para Análise e Modelagem Estatística]()
   	- [Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM]()
@@ -247,7 +248,35 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 03 - Computing and Programming.
+### Seção 03 - Porgramação para Ciência de Dados
+
+Essa seção é focada em linguagens de programação usadas na área de dados, para isso eu selecionei 3, Python, R e Rust. As três linguagens são amplamente usadas, são padrões na indústria, possuem um monte de bibliotecas para dados, mas mais importante, quando eu pesquiso "Ciência de Dados" no LinkedIn, Python é a principal linguagem cobrada, todo curso de Estatística é dado em R, e Rust parece ser super legal de aprender... logo, essas são as linguagens que vamos aprender.
+
+#### Seção 03-A - Linguagem Python para Análise de Dados
+
+Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: | :--: |
+[Noções básicas de Python](https://www.coursera.org/learn/python-basics?specialization=python-3-programming) | University of Michigan | ~34h | -- | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/ZQVLDDT4KPKU) | ✓ |
+[Funções, arquivos e dicionários em Python](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming) | University of Michigan | ~31h | -- | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/2GXC4TU2AX49) | ✓ |
+[Coleta e processamento de dados com Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) | University of Michigan | ~16h | -- | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/NTDVMCYZXTC3) | ✓ |
+[Classes e Herança Python](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) | University of Michigan | ~17h | -- | -- | -- |
+[Compreendendo e visualizando dados com Python](https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python) | University of Michigan | ~19h | -- | -- | -- |
+[Análise Estatística Inferencial com Python](https://www.coursera.org/learn/inferential-statistical-analysis-python?specialization=statistics-with-python) | University of Michigan | ~21h | -- | -- | -- |
+[Ajustando modelos estatísticos a dados com Python](https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python) | University of Michigan | ~14h | -- | -- | -- |
+[Introdução à Álgebra Linear e Python](https://www.coursera.org/learn/linear-algebra-python-intro?specialization=linear-algebra-data-science-python) | Howard University | ~12h | -- | -- | -- |
+[Conceitos fundamentais de álgebra linear com Python](https://www.coursera.org/learn/linear-algebra-concepts-python?specialization=linear-algebra-data-science-python) | Howard University | ~10h | -- | -- | -- |
+[Construindo Modelos de Regressão com Álgebra Linear](https://www.coursera.org/learn/regression-models-linear-algebra?specialization=linear-algebra-data-science-python) | Howard University | ~06h | -- | -- | -- |
+[]() | Howard University | ~13h | -- | -- | -- |
+[Cálculo Aplicado com Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | -- | -- | -- |
+[Introdução à ciência de dados em Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | ~34h | -- | -- | -- |
+[Plotagem, gráficos e representação de dados aplicados em Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | ~24h | -- | -- | -- |
+[Aprendizado de máquina aplicado em Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | University of Michigan | ~31h | -- | -- | -- |
+[Mineração de texto aplicada em Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | University of Michigan | ~25h | -- | -- | -- |
+[Análise Aplicada de Redes Sociais em Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | University of Michigan | ~26h | -- | -- | -- |
+
+
+#### Seção 03-B - Linguagem R para Análise e Modelagem Estatística
+#### Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM
 
 This section is about programming and development, the chosen courses initially aim to introduce the basic concepts of CC (Programming Logic, Algorithms, and Data Structure), after, which we have two sections focused on Python and R.
 
