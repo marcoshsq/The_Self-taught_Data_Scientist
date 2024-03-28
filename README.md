@@ -279,13 +279,17 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Programação R](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science) | Johns Hopkins University | ~57h | -- | -- |
-[]() | Johns Hopkins University | ~57h | -- | -- |
-[]() | Johns Hopkins University | ~57h | -- | -- |
-[]() | Johns Hopkins University | ~57h | -- | -- |
-[]() | Johns Hopkins University | ~57h | -- | -- |
-[]() | Johns Hopkins University | ~57h | -- | -- |
-[]() | Johns Hopkins University | ~57h | -- | -- |
-[]() | Johns Hopkins University | ~57h | -- | -- |
+[Programação R Avançada](https://www.coursera.org/learn/advanced-r?specialization=r) | Johns Hopkins University | ~18h | -- | -- |
+[Construindo Pacotes R](https://www.coursera.org/learn/r-packages?specialization=r) | Johns Hopkins University | ~20h | -- | -- |
+[Introdução ao Tidyverse](https://www.coursera.org/learn/tidyverse?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~07h | -- | -- |
+[Importando dados no Tidyverse](https://www.coursera.org/learn/tidyverse-importing-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~15h | -- | -- |
+[Organização de dados no Tidyverse](https://www.coursera.org/learn/tidyverse-data-wrangling?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~14h | -- | -- |
+[Visualizando dados no Tidyverse](https://www.coursera.org/learn/tidyverse-visualize-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~16h | -- | -- |
+[Modelando dados no Tidyverse](https://www.coursera.org/learn/tidyverse-modelling-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~21h | -- | -- |
+[Introdução à visualização de dados em R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~11h | -- | -- |
+[Visualização de dados em R com ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~12h | -- | -- |
+[Visualização de dados avançada com R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~10h | -- | -- |
+[Publicação de visualizações em R com Shiny e flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~11h | -- | -- |
 
 #### Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM
 
