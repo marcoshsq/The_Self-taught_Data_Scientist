@@ -339,11 +339,9 @@ Espaço para organização pessoal u.u
 
 ### Seção 04 - Mineração de Dados
 
-
+Nessa seção eu quero aprender técnicas de mineração de dados tanto para dados estruturados, quanto para dados não estruturados que existem na forma de texto em linguagem natural. Os tópicos específicos dos cursos incluem descoberta de padrões, clustering, recuperação de texto, mineração e análise de texto e visualização de dados.
 
 ##
-
-### Seção 04 - Mineração de Dados
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -373,20 +371,22 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 05 - Artificial Intelligence.
+### Seção 05 - Bancos de dados, SQL e Big Data
 
-Finishing the curriculum, we have artificial intelligence. The objective here is simple. Learn what AI is and what it is for. 
 
-After this brief introduction, we have a series of courses on machine learning. And we finish with a specialization in Natural Language Processing and Computer Vision.
 
 ##
 
-#### Introductory Courses:
-
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
-[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | DeepLearning.AI | ~12h | -- | -- | 
-[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Wharton School of the University of Pennsylvania | ~32h | -- | -- |
+[Design de banco de dados relacional](https://www.coursera.org/learn/relational-database-design?specialization=databases-for-data-scientists) | University of Colorado  | ~34h | -- | -- |
+[A linguagem de consulta estruturada (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql?specialization=databases-for-data-scientists) | University of Colorado  | ~26h | -- | -- |
+[Tópicos Avançados e Tendências Futuras em Tecnologias de Banco de Dados](https://www.coursera.org/learn/advanced-topics-future-trends-database-technologies?specialization=databases-for-data-scientists) | University of Colorado  | ~16h | -- | -- |
+[Introdução ao Big Data](https://www.coursera.org/learn/big-data-introduction?specialization=big-data) | University of California | ~17h | -- | -- |
+[Modelagem de Big Data e Sistemas de Gestão](https://www.coursera.org/learn/big-data-management?specialization=big-data) | University of California | ~13h | -- | -- |
+[Integração e processamento de Big Data](https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data) | University of California | ~17h | -- | -- |
+[Aprendizado de máquina com Big Data](https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data) | University of California | ~23h | -- | -- |
+[Análise gráfica para Big Data](https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data) | University of California | ~13h | -- | -- |
 
 ##
 
@@ -430,6 +430,162 @@ Espaço para organização pessoal u.u
 -->
 
 ##
+
+### Seção 06 - Computação na Nuvem
+
+
+
+##
+
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Conceitos de computação em nuvem, parte 1](https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing) | University of Illinois | ~23h | -- | -- |
+[Conceitos de computação em nuvem: parte 2](https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing) | University of Illinois | ~19h | -- | -- |
+[Sistemas e infraestrutura em nuvem](https://www.coursera.org/learn/cloud-applications-part1?specialization=cloud-computing) | University of Illinois | ~15h | -- | -- |
+[Big Data e aplicações na nuvem](https://www.coursera.org/learn/cloud-applications-part2?specialization=cloud-computing) | University of Illinois | ~19h | -- | -- |
+[Rede em nuvem](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois | ~22h | -- | -- |
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+### Seção 07 - Aprendizado de Maquina
+
+
+
+##
+
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[]() | University of Illinois | ~35h | -- | -- |
+
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+### Seção 04 - Mineração de Dados
+
+Nessa seção eu quero aprender técnicas de mineração de dados tanto para dados estruturados, quanto para dados não estruturados que existem na forma de texto em linguagem natural. Os tópicos específicos dos cursos incluem descoberta de padrões, clustering, recuperação de texto, mineração e análise de texto e visualização de dados.
+
+##
+
+### Seção 04 - Mineração de Dados
+
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Visualização de dados](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
+[Recuperação de texto e motores de busca](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
+[Mineração e análise de texto](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
+[Descoberta de padrões em mineração de dados]() | University of Illinois | ~35h | -- | -- |
+[Análise de Cluster em Mineração de Dados]() | University of Illinois | ~35h | -- | -- |
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+### Seção 04 - Mineração de Dados
+
+Nessa seção eu quero aprender técnicas de mineração de dados tanto para dados estruturados, quanto para dados não estruturados que existem na forma de texto em linguagem natural. Os tópicos específicos dos cursos incluem descoberta de padrões, clustering, recuperação de texto, mineração e análise de texto e visualização de dados.
+
+##
+
+### Seção 04 
+
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[]() | University of Illinois | ~35h | -- | -- |
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+### Seção 04 - Mineração de Dados
+
+Nessa seção eu quero aprender técnicas de mineração de dados tanto para dados estruturados, quanto para dados não estruturados que existem na forma de texto em linguagem natural. Os tópicos específicos dos cursos incluem descoberta de padrões, clustering, recuperação de texto, mineração e análise de texto e visualização de dados.
+
+##
+
+### Seção 04 
+
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[]() | University of Illinois | ~35h | -- | -- |
+
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
 
 ## Extra Bibliography.
 
