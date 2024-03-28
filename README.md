@@ -161,17 +161,17 @@ Essa seção possui em média 128h de conteúdo, sem considerar o tempo para res
 
 ##
 
-Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
-:-- | :--: | :--: | :--: | :--: | :--: |
-[Dados – O Que São, O Que Podemos Fazer Com Eles](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- | -- |
-[Medição – Transformando Conceitos em Dados](https://www.coursera.org/learn/measurement-turning-concepts-data?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- | -- |
-[Quantificando Relações com Modelos de Regressão](https://www.coursera.org/learn/quantifying-relationships-regression-models?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- | -- |
-[Quais são as chances? Probabilidade e Incerteza na Estatística](https://www.coursera.org/learn/chances-probability-uncertainty-statistics?specialization=data-literacy) | Johns Hopkins University | ~10h | -- | -- | -- |
-[Ciência de Dados como Campo](https://www.coursera.org/learn/data-science-as-a-field?specialization=vital-skills-for-data-science) | University of Colorado | ~10h | -- | -- | -- |
-[A Caixa de Ferramentas do Cientista de Dados](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | -- | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
-[Questões Éticas em Ciência de Dados](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~23h | -- | -- | -- |
-[Cibersegurança para Ciência de Dados](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~19h | -- | -- | -- |
-[Fundamentos da Visualização de Dados](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) | University of Colorado | ~14h | -- | -- | -- |
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Dados – O Que São, O Que Podemos Fazer Com Eles](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
+[Medição – Transformando Conceitos em Dados](https://www.coursera.org/learn/measurement-turning-concepts-data?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
+[Quantificando Relações com Modelos de Regressão](https://www.coursera.org/learn/quantifying-relationships-regression-models?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
+[Quais são as chances? Probabilidade e Incerteza na Estatística](https://www.coursera.org/learn/chances-probability-uncertainty-statistics?specialization=data-literacy) | Johns Hopkins University | ~10h | -- | -- |
+[Ciência de Dados como Campo](https://www.coursera.org/learn/data-science-as-a-field?specialization=vital-skills-for-data-science) | University of Colorado | ~10h | -- | -- |
+[A Caixa de Ferramentas do Cientista de Dados](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
+[Questões Éticas em Ciência de Dados](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~23h | -- | -- |
+[Cibersegurança para Ciência de Dados](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~19h | -- | -- |
+[Fundamentos da Visualização de Dados](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) | University of Colorado | ~14h | -- | -- |
 
 ##
 
