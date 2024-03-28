@@ -30,8 +30,7 @@
 	- [Seção 03-A - Linguagem Python para Análise de Dados](https://github.com/marcoshsq/Curriculo_Autodidata_Dados/tree/main#se%C3%A7%C3%A3o-03-a---linguagem-python-para-an%C3%A1lise-de-dados)
  	- [Seção 03-B - Linguagem R para Análise e Modelagem Estatística]()
   	- [Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM]()
-  	- [Seção 04-A - Mineração de Dados]()
-  	- [Seção 04-B - Visualização de Dados]()
+  	- [Seção 04 - Mineração de Dados]()
 	- [Seção 05 - Bancos de dados, SQL e Big Data]()
 	- [Seção 06 - Computação na Nuvem]()
  	- [Seção 07 - Aprendizado de Maquina]()
@@ -252,9 +251,9 @@ Espaço para organização pessoal u.u
 
 Essa seção é focada em linguagens de programação usadas na área de dados, para isso eu selecionei 3, Python, R e Rust. As três linguagens são amplamente usadas, são padrões na indústria, possuem um monte de bibliotecas para dados, mas mais importante, quando eu pesquiso "Ciência de Dados" no LinkedIn, Python é a principal linguagem cobrada, todo curso de Estatística é dado em R, e Rust parece ser super legal de aprender... logo, essas são as linguagens que vamos aprender.
 
-#### Seção 03-A - Linguagem Python para Análise de Dados
-
 ##
+
+#### Seção 03-A - Linguagem Python para Análise de Dados
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -338,21 +337,21 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 04 - Databases and Big Data.
+### Seção 04 - Mineração de Dados
 
-Now that we have the code, the math, and the music. In this section the objective is to delve deeper into Databases, learning SQL and Data Warehousing, after that, we have three other courses focused on Big Data, Cloud Computing, and Data Mining.
 
-For this section, I'll not write an overview of the courses, as I believe they are already self-explanatory.
 
 ##
 
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
-:-- | :--: | :--: | :--: | :--: | 
-[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | University of Colorado | ~96h | [Course Repository](https://github.com/marcoshsq/DatabasesForDataScientists) | -- | 
-[Data Mining](https://www.coursera.org/specializations/data-mining) | University of Illinois at Urbana-Champaign | ~128h | [Course Repository](https://github.com/marcoshsq/DataMining) | -- | 
-[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | University of Illinois at Urbana-Champaign | ~128h | [Course Repository](https://github.com/marcoshsq/CloudComputing) | -- | 
-[Big Data](https://www.coursera.org/specializations/big-data) | UC San Diego | ~96h | [Course Repository](https://github.com/marcoshsq/BigData) | -- | 
-[Data Warehousing for Business Intelligence](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h | [Course Repository](https://github.com/marcoshsq/DW4BI) | -- | 
+### Seção 04 - Mineração de Dados
+
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Visualização de dados](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
+[Recuperação de texto e motores de busca](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
+[Mineração e análise de texto](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
+[Descoberta de padrões em mineração de dados]() | University of Illinois | ~35h | -- | -- |
+[Análise de Cluster em Mineração de Dados]() | University of Illinois | ~35h | -- | -- |
 
 ##
 
