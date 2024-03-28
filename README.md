@@ -266,7 +266,6 @@ Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se a
 [Introdução à Álgebra Linear e Python](https://www.coursera.org/learn/linear-algebra-python-intro?specialization=linear-algebra-data-science-python) | Howard University | ~12h | -- | -- | -- |
 [Conceitos fundamentais de álgebra linear com Python](https://www.coursera.org/learn/linear-algebra-concepts-python?specialization=linear-algebra-data-science-python) | Howard University | ~10h | -- | -- | -- |
 [Construindo Modelos de Regressão com Álgebra Linear](https://www.coursera.org/learn/regression-models-linear-algebra?specialization=linear-algebra-data-science-python) | Howard University | ~06h | -- | -- | -- |
-[]() | Howard University | ~13h | -- | -- | -- |
 [Cálculo Aplicado com Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | -- | -- | -- |
 [Introdução à ciência de dados em Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | ~34h | -- | -- | -- |
 [Plotagem, gráficos e representação de dados aplicados em Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | ~24h | -- | -- | -- |
