@@ -158,18 +158,6 @@ Nesta seção, o objetivo é aprender o básico sobre dados, mas, mais important
 
 Essa seção possui em média 128h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
 
-#### Cursos Escolhidos:
-
-1. Dados – O Que São, O Que Podemos Fazer Com Eles
-2. Medição – Transformando Conceitos em Dados
-3. Quantificando Relações com Modelos de Regressão
-3. Quais são as chances? Probabilidade e Incerteza na Estatística
-4. Ciência de Dados como Campo
-5. A Caixa de Ferramentas do Cientista de Dados
-6. Questões Éticas em Ciência de Dados
-7. Cibersegurança para Ciência de Dados
-8. Fundamentos da Visualização de Dados
-
 ##
 
 Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
@@ -208,52 +196,11 @@ Espaço para organização pessoal u.u
 
 Matemática é a área mais importante para ciência de dados, logo, acredito que a melhor forma de aprender seja por livros ou mesmo fazendo uma graduação em estatística, ou matemática aplicada, como já sou graduado em estatística, coloquei apenas alguns cursos específicos, mas nada muito profundo, recomendo fortemente as referências bibliográficas para um estudo mais aprofundado em matemática e estatística.
 
-Essa seção possui em média 760h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
-
-#### Cursos Escolhidos:
-
-Cursos Básicos:
-
-1. Pensamento Matemático em Ciência da Computação
-2. Combinatória e Probabilidade
-3. Introdução à Teoria dos Grafos
-4. Teoria dos Números e Criptografia
-5. Problema de Entrega
-6. Álgebra Linear para Aprendizado de Máquina e Ciência de Dados
-7. Cálculo para aprendizado de máquina e ciência de dados
-8. Probabilidade e estatística para aprendizado de máquina e ciência de dados
-
-Aqui está a lista dos títulos dos cursos que você forneceu, ordenados conforme solicitado:
-
-Cursos Intermediários:
-
-1. Teoria da Probabilidade: Fundação para Ciência de Dados
-2. Inferência Estatística para Estimativa em Ciência de Dados
-3. Inferência estatística e testes de hipóteses em aplicações de ciência de dados
-4. Regressão e Classificação
-5. Reamostragem, Seleção e Splines
-6. Árvores, SVM e Aprendizagem Não-Supervisionada
-7. Análise de regressão moderna em R
-8. ANOVA e Projeto Experimental
-9. Modelos Lineares Generalizados e Regressão Não Paramétrica
-10. Estatística Bayesiana: do conceito à análise de dados
-11. Estatística Bayesiana: Técnicas e Modelos
-12. Estatística Bayesiana: Modelos de Mistura
-13. Estatística Bayesiana: Análise de Séries Temporais
-
-Cursos Avançados:
-
-1. Bioestatística 1
-2. Bioestatística 2
-3. Modelos Lineares 1: Mínimos Quadrados
-4. Modelos Lineares 2: Modelos Estatísticos
-5. Modelos Gráficos Probabilísticos 1: Representação
-6. Modelos Gráficos Probabilísticos 2: Inferência
-7. Modelos Gráficos Probabilísticos 3: Aprendizagem
+Essa seção possui em média 400h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
 
 ##
 
-#### Cursos Básicos:
+#### Matemática 01:
 
 Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: | :--: |
@@ -268,27 +215,7 @@ Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se a
 
 ##
 
-#### Cursos Intermediários:
-
-Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
-:-- | :--: | :--: | :--: | :--: | :--: |
-[Teoria da Probabilidade: Fundação para Ciência de Dados](https://www.coursera.org/learn/probability-theory-foundation-for-data-science?specialization=statistical-inference-for-data-science-applications) | University of Colorado | ~42h | -- | -- |
-[Inferência Estatística para Estimativa em Ciência de Dados](https://www.coursera.org/learn/statistical-inference-for-estimation-in-data-science?specialization=statistical-inference-for-data-science-applications) | University of Colorado | ~29h | -- | -- |
-[Inferência estatística e testes de hipóteses em aplicações de ciência de dados](https://www.coursera.org/learn/statistical-inference-and-hypothesis-testing-in-data-science-applications?specialization=statistical-inference-for-data-science-applications) | University of Colorado | ~38h | -- | -- |
-[Regressão e Classificação](https://www.coursera.org/learn/regression-and-classification?specialization=statistical-learning-for-data-science) | University of Colorado | ~34h | -- | -- |
-[Reamostragem, Seleção e Splines](https://www.coursera.org/learn/resampling-selection-and-splines?specialization=statistical-learning-for-data-science) | University of Colorado | ~15h | -- | -- |
-[Árvores, SVM e Aprendizagem Não-Supervisionada](https://www.coursera.org/learn/trees-svm-and-unsupervised-learning?specialization=statistical-learning-for-data-science) | University of Colorado | ~12h | -- | -- |
-[Análise de regressão moderna em R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) | University of Colorado | ~45h | -- | -- |
-[ANOVA e Projeto Experimental](https://www.coursera.org/learn/anova-and-experimental-design?specialization=statistical-modeling-for-data-science-applications) | University of Colorado | ~40h | -- | -- |
-[Modelos Lineares Generalizados e Regressão Não Paramétrica](https://www.coursera.org/learn/generalized-linear-models-and-nonparametric-regression?specialization=statistical-modeling-for-data-science-applications) | University of Colorado | ~42h | -- | -- |
-[Estatística Bayesiana: do conceito à análise de dados](https://www.coursera.org/learn/bayesian-statistics?specialization=bayesian-statistics) | UC Santa Cruz | ~11h | -- | -- |
-[Estatística Bayesiana: Técnicas e Modelos](https://www.coursera.org/learn/mcmc-bayesian-statistics?specialization=bayesian-statistics) | UC Santa Cruz | ~29h | -- | -- |
-[Estatística Bayesiana: Modelos de Mistura](https://www.coursera.org/learn/mixture-models?specialization=bayesian-statistics) | UC Santa Cruz | ~21h | -- | -- |
-[Estatística Bayesiana: Análise de Séries Temporais](https://www.coursera.org/learn/bayesian-statistics-time-series-analysis?specialization=bayesian-statistics) | UC Santa Cruz | ~22h | -- | -- |
-
-##
-
-#### Cursos Avançados:
+#### Matemática 02:
 
 Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: | :--: |
