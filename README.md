@@ -254,6 +254,8 @@ Essa seção é focada em linguagens de programação usadas na área de dados, 
 
 #### Seção 03-A - Linguagem Python para Análise de Dados
 
+##
+
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Noções básicas de Python](https://www.coursera.org/learn/python-basics?specialization=python-3-programming) | University of Michigan | ~34h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/ZQVLDDT4KPKU) | ✓ |
@@ -273,6 +275,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 [Mineração de texto aplicada em Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | University of Michigan | ~25h | -- | -- |
 [Análise Aplicada de Redes Sociais em Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | University of Michigan | ~26h | -- | -- |
 
+##
 
 #### Seção 03-B - Linguagem R para Análise e Modelagem Estatística
 
@@ -291,49 +294,29 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 [Visualização de dados avançada com R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~10h | -- | -- |
 [Publicação de visualizações em R com Shiny e flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~11h | -- | -- |
 
+##
+
 #### Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
-[]() | University of Michigan | ~34h | -- | -- |
-
-
-
-##
-
-#### Core Programming:
-
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
-:-- | :--: | :--: | :--: | :--: | 
-[Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | Princeton University | ~88h | [Course Repository](https://github.com/marcoshsq/CS-ProgrammingWithPurpose) | -- | 
-[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University | ~20h | *[Course Repository]() | -- | 
-[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | Princeton University | ~54h | *[Course Repository]() | -- |
-[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | ~63h | *[Course Repository]() | -- | 
-
-https://www.coursera.org/specializations/boulder-data-structures-algorithms
+[Fundamentos da Rust](https://www.coursera.org/learn/rust-fundamentals?specialization=rust-programming) | Duke University | ~40h | -- | -- |
+[Engenharia de dados com Rust](https://www.coursera.org/learn/data-engineering-rust?specialization=rust-programming) | Duke University | ~63h | -- | -- |
+[Rust para DevOps](https://www.coursera.org/learn/rust-for-devops?specialization=rust-programming) | Duke University | ~18h | -- | -- |
+[Python e Rust com ferramentas de linha de comando do Linux](https://www.coursera.org/learn/python-rust-linux?specialization=rust-programming) | Duke University | ~20h | -- | -- |
+[Rust para LLMOps](https://www.coursera.org/learn/rust-llmops?specialization=rust-programming) | Duke University | ~16h | -- | -- |
 
 ##
 
-#### Programming for Data Science in Python:
+#### Seção Bônus - Estruturas de dados e Algoritmos
 
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | ~140h | [Course Repository](https://github.com/marcoshsq/Python3Programming) | -- | 
-[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | University of Michigan | ~40h | [Course Repository](https://github.com/marcoshsq/Statistics_with_Python) | -- | 
-[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | [Course Repository](https://github.com/marcoshsq/PythonAppliedCalculus) | -- | 
-[Linear Algebra for Data Science Using Python](coursera.org/specializations/linear-algebra-data-science-python) | Howard University | ~32h | *[Course Repository]() | -- | 
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | University of Michigan | ~140h | [Course Repository](https://github.com/marcoshsq/PythonAppliedDataScience) | -- | 
-
-##
-
-#### Programming for Data Science in R:
-
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
-:-- | :--: | :--: | :--: | :--: |
-[Data Analysis with R](https://www.coursera.org/specializations/statistics) | Duke University | ~40h | [Course Repository](https://github.com/marcoshsq/Duke_Data_Analysis_with_R) | -- | 
-[Mastering Software Development in R](https://www.coursera.org/specializations/r) | Johns Hopkins University | ~100h | *[Course Repository]() | -- | 
-[Tidyverse Skills for Data Science in R](https://www.coursera.org/specializations/tidyverse-data-science-r) | Johns Hopkins University | ~90h | *[Course Repository]() | -- |
-[Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~80h | *[Course Repository]() | -- | 
+[Algoritmos para pesquisa, classificação e indexação](https://www.coursera.org/learn/algorithms-searching-sorting-indexing?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~35h | -- | -- |
+[Árvores e gráficos: noções básicas](https://www.coursera.org/learn/trees-graphs-basics?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~34h | -- | -- |
+[Programação dinâmica, algoritmos gananciosos](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~37h | -- | -- |
+[Algoritmos de Aproximação e Programação Linear](https://www.coursera.org/learn/linear-programming-and-approximation-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~48h | -- | -- |
+[Estruturas de dados avançadas, algoritmos RSA e quânticos](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~37h | -- | -- |
 
 ##
 
