@@ -62,7 +62,7 @@ Para construir este currículo consultei diferentes fontes que podem ser encontr
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -78,34 +78,33 @@ Espaço para organização pessoal u.u
 
 ---
 
-## Learning Goals.
+## Metas de Aprendizado
 
-My main focus is to learn the contents following this [roadmap here](https://i.am.ai/roadmap/), created by the AI expert guys. 
+Meu foco principal é aprender o conteúdo seguindo este [roteiro aqui](https://i.am.ai/roadmap/), criado pelo pessoal da AI Expert.
 
-But here is an overview list of concepts and skills I want to learn by the end of this "degree":
+Mas aqui está uma lista geral de conceitos e habilidades que quero aprender ao final deste "curso":
 
-1. Programming Proficiency:
+1. Proficiência em Programação:
 
-	- Python: Python is the main language for manipulating, and implementing efficient data models, in addition to being the main tool for artificial intelligence, so it is the most explored language in this curriculum.
-	- R: Proficiency in R for statistical analysis, data visualization, and exploration.
-	- Java: The introductory computer science courses I include here are taught in Java. So we will learn this language too.
+	- Python é a principal linguagem para manipulação e implementação de modelos de dados, além de ser a principal ferramenta de inteligência artificial, sendo assim, é a linguagem mais explorada neste currículo.
 
-2. Databases, Business Intelligence, and Data Warehousing:
+	- Proficiência em R para análise estatística, visualização e exploração de dados estatísticos.
 
-	- In-depth knowledge of database management systems, emphasizing both relational and non-relational databases.
-	- Proficiency in Business Intelligence (BI) tools for effective data analysis and decision-making.
-	- Understanding the intricacies of Data Warehousing to ensure efficient storage and retrieval of large datasets.
+	- Rust é uma linguagem muito usada para engenharia de dados e implementação de modelos de IA, não preciso dizer mais nada.
 
-3. Data Visualization and Presentation Skills:
+2. Bancos de dados, Business Intelligence e Data Warehousing:
 
-	- Mastery of data visualization tools such as Tableau and Matplotlib for conveying insights effectively.
-	- Developing the art of storytelling through data, ensuring that complex findings are communicated in a comprehensible manner.
+	- Conhecimento de sistemas de gerenciamento de banco de dados, com ênfase em bancos de dados relacionais e não relacionais.
 
-4. Artificial Intelligence:
+	- Proficiência em ferramentas de Business Intelligence (BI) para análise de dados e tomada de decisões.
 
-	- Machine Learning: Comprehensive understanding and application of machine learning algorithms for predictive modeling and pattern recognition.
-	- Deep Learning: Delving into the depths of neural networks, exploring architectures and frameworks like TensorFlow and PyTorch.
-	- Computer Vision (CV) and Natural Language Processing (NLP): Application of AI in image recognition, language understanding, and text analysis.
+	- Compreender os meandros do Data Warehousing para garantir armazenamento e recuperação eficientes de grandes conjuntos de dados.
+
+3. Inteligência Artificial:
+
+	- Compreensão do desenvolvimento e aplicação de algoritmos de aprendizado de máquina para modelagem preditiva e reconhecimento de padrões.
+
+	- Deep Learning: Aprofundando-se nas redes neurais, explorando arquiteturas e frameworks como TensorFlow e PyTorch.
 
 ##
 
