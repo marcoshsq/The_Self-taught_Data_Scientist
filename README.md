@@ -154,7 +154,9 @@ Espaço para organização pessoal u.u
 
 ### Seção 01 - Fundamentos
 
-Nesta seção, o objetivo é aprender o básico sobre dados, mas, mais importante, tornar-se "alfabetizado" em dados, entendendo como é possível transformar dados em informação.
+Nesta seção, o objetivo é aprender o básico sobre dados, mas, mais importante, tornar-se "alfabetizado" em dados, entendendo como é possível transformar dados em informação. 
+
+Essa seção possui em média 128h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
 
 #### Cursos Escolhidos:
 
@@ -170,14 +172,14 @@ Nesta seção, o objetivo é aprender o básico sobre dados, mas, mais important
 
 ##
 
-Curso | Oferecido por | Esforço de | Repositório/Projeto, se aplicável | Certificado, se aplicável | Status |
+Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: | :--: |
 [Dados – O Que São, O Que Podemos Fazer Com Eles](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- | -- |
 [Medição – Transformando Conceitos em Dados](https://www.coursera.org/learn/measurement-turning-concepts-data?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- | -- |
 [Quantificando Relações com Modelos de Regressão](https://www.coursera.org/learn/quantifying-relationships-regression-models?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- | -- |
 [Quais são as chances? Probabilidade e Incerteza na Estatística](https://www.coursera.org/learn/chances-probability-uncertainty-statistics?specialization=data-literacy) | Johns Hopkins University | ~10h | -- | -- | -- |
 [Ciência de Dados como Campo](https://www.coursera.org/learn/data-science-as-a-field?specialization=vital-skills-for-data-science) | University of Colorado | ~10h | -- | -- | -- |
-[A Caixa de Ferramentas do Cientista de Dados](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~60h | -- | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
+[A Caixa de Ferramentas do Cientista de Dados](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | -- | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
 [Questões Éticas em Ciência de Dados](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~23h | -- | -- | -- |
 [Cibersegurança para Ciência de Dados](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~19h | -- | -- | -- |
 [Fundamentos da Visualização de Dados](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) | University of Colorado | ~14h | -- | -- | -- |
@@ -202,54 +204,101 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Section 02 - Mathematics and Statistics for Data Science.
+### Seção 02 - Matemática e Estatística Aplicada em Dados e Computação
 
-This section aims to strengthen mathematical proficiency with a focus on computational concepts and statistics, covering essential courses in Mathematics, Calculus, Linear Algebra, and Statistics. The goal is to provide a solid foundation for understanding and applying these principles in data science.
+Matemática é a área mais importante para ciência de dados, logo, acredito que a melhor forma de aprender seja por livros ou mesmo fazendo uma graduação em estatística, ou matemática aplicada, como já sou graduado em estatística, coloquei apenas alguns cursos específicos, mas nada muito profundo, recomendo fortemente as referências bibliográficas para um estudo mais aprofundado em matemática e estatística.
 
-1. **General Courses**
-   - *Overview:* Develop a mathematical foundation for computing and data science.
+Essa seção possui em média 760h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
 
-2. **Calculus**
-   - *Overview:* Learn concepts of integral and differential calculus with a focus on data modeling.
+#### Cursos Escolhidos:
 
-3. **Probability and Statistics**
-   - *Overview:* Develop expertise in statistics, from basic concepts to more advanced techniques, to learn how to manipulate, interpret, and extract insights from data.
+Cursos Básicos:
 
+1. Pensamento Matemático em Ciência da Computação
+2. Combinatória e Probabilidade
+3. Introdução à Teoria dos Grafos
+4. Teoria dos Números e Criptografia
+5. Problema de Entrega
+6. Álgebra Linear para Aprendizado de Máquina e Ciência de Dados
+7. Cálculo para aprendizado de máquina e ciência de dados
+8. Probabilidade e estatística para aprendizado de máquina e ciência de dados
 
+Aqui está a lista dos títulos dos cursos que você forneceu, ordenados conforme solicitado:
+
+Cursos Intermediários:
+
+1. Teoria da Probabilidade: Fundação para Ciência de Dados
+2. Inferência Estatística para Estimativa em Ciência de Dados
+3. Inferência estatística e testes de hipóteses em aplicações de ciência de dados
+4. Regressão e Classificação
+5. Reamostragem, Seleção e Splines
+6. Árvores, SVM e Aprendizagem Não-Supervisionada
+7. Análise de regressão moderna em R
+8. ANOVA e Projeto Experimental
+9. Modelos Lineares Generalizados e Regressão Não Paramétrica
+10. Estatística Bayesiana: do conceito à análise de dados
+11. Estatística Bayesiana: Técnicas e Modelos
+12. Estatística Bayesiana: Modelos de Mistura
+13. Estatística Bayesiana: Análise de Séries Temporais
+
+Cursos Avançados:
+
+1. Bioestatística 1
+2. Bioestatística 2
+3. Modelos Lineares 1: Mínimos Quadrados
+4. Modelos Lineares 2: Modelos Estatísticos
+5. Modelos Gráficos Probabilísticos 1: Representação
+6. Modelos Gráficos Probabilísticos 2: Inferência
+7. Modelos Gráficos Probabilísticos 3: Aprendizagem
 
 ##
 
-#### General Courses:
+#### Cursos Básicos:
 
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable | Status |
-| :-- | :--: | :--: | :--: | :--: | :--: |
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | ~39h | Not Applicable | [Certificate of Completion](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5) | ✓ |
-[Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) | UC San Diego | ~120h | -- | -- | -- |
-[Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~52h | -- | -- | -- |
-
-##
-
-#### Calculus:
-
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable | Status |
+Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: | :--: |
-[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | Johns Hopkins University | ~40h | -- | -- | 
-[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Johns Hopkins University | ~40h | -- | -- | 
-[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Johns Hopkins University | ~40h | -- | -- |
+[Pensamento Matemático em Ciência da Computação](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | UC San Diego | ~41h | -- | -- | -- |
+[Combinatória e Probabilidade](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | UC San Diego | ~23h | -- | -- | -- |
+[Introdução à Teoria dos Grafos](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | UC San Diego | ~20h | -- | -- | -- |
+[Teoria dos Números e Criptografia](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | UC San Diego | ~16h | -- | -- | -- |
+[Problema de Entrega](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics) | UC San Diego | ~13h | -- | -- | -- |
+[Álgebra Linear para Aprendizado de Máquina e Ciência de Dados](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~34h | -- | -- | -- |
+[Cálculo para aprendizado de máquina e ciência de dados](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~25h | -- | -- | -- |
+[Probabilidade e estatística para aprendizado de máquina e ciência de dados](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~33h | -- | -- | -- |
 
 ##
 
-#### Probability and Statistics:
+#### Cursos Intermediários:
 
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable | Status |
+Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: | :--: |
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | Not Applicable | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/TUP8FUJ52PP5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) | ✓ |
-[Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | University of Colorado | ~120h | -- | -- | 
-[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | University of Colorado | ~120h | -- | -- | 
-[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Santa Cruz - California University | ~96h | -- | -- | 
-[Regression and Classification](https://www.coursera.org/learn/regression-and-classification) | CU-Boulder | ~35h | -- | -- | 
-[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Johns Hopkins University | ~40h | -- | -- |
-[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford University | ~180h | -- | -- | 
+[Teoria da Probabilidade: Fundação para Ciência de Dados](https://www.coursera.org/learn/probability-theory-foundation-for-data-science?specialization=statistical-inference-for-data-science-applications) | University of Colorado | ~42h | -- | -- |
+[Inferência Estatística para Estimativa em Ciência de Dados](https://www.coursera.org/learn/statistical-inference-for-estimation-in-data-science?specialization=statistical-inference-for-data-science-applications) | University of Colorado | ~29h | -- | -- |
+[Inferência estatística e testes de hipóteses em aplicações de ciência de dados](https://www.coursera.org/learn/statistical-inference-and-hypothesis-testing-in-data-science-applications?specialization=statistical-inference-for-data-science-applications) | University of Colorado | ~38h | -- | -- |
+[Regressão e Classificação](https://www.coursera.org/learn/regression-and-classification?specialization=statistical-learning-for-data-science) | University of Colorado | ~34h | -- | -- |
+[Reamostragem, Seleção e Splines](https://www.coursera.org/learn/resampling-selection-and-splines?specialization=statistical-learning-for-data-science) | University of Colorado | ~15h | -- | -- |
+[Árvores, SVM e Aprendizagem Não-Supervisionada](https://www.coursera.org/learn/trees-svm-and-unsupervised-learning?specialization=statistical-learning-for-data-science) | University of Colorado | ~12h | -- | -- |
+[Análise de regressão moderna em R](https://www.coursera.org/learn/modern-regression-analysis-in-r?specialization=statistical-modeling-for-data-science-applications) | University of Colorado | ~45h | -- | -- |
+[ANOVA e Projeto Experimental](https://www.coursera.org/learn/anova-and-experimental-design?specialization=statistical-modeling-for-data-science-applications) | University of Colorado | ~40h | -- | -- |
+[Modelos Lineares Generalizados e Regressão Não Paramétrica](https://www.coursera.org/learn/generalized-linear-models-and-nonparametric-regression?specialization=statistical-modeling-for-data-science-applications) | University of Colorado | ~42h | -- | -- |
+[Estatística Bayesiana: do conceito à análise de dados](https://www.coursera.org/learn/bayesian-statistics?specialization=bayesian-statistics) | UC Santa Cruz | ~11h | -- | -- |
+[Estatística Bayesiana: Técnicas e Modelos](https://www.coursera.org/learn/mcmc-bayesian-statistics?specialization=bayesian-statistics) | UC Santa Cruz | ~29h | -- | -- |
+[Estatística Bayesiana: Modelos de Mistura](https://www.coursera.org/learn/mixture-models?specialization=bayesian-statistics) | UC Santa Cruz | ~21h | -- | -- |
+[Estatística Bayesiana: Análise de Séries Temporais](https://www.coursera.org/learn/bayesian-statistics-time-series-analysis?specialization=bayesian-statistics) | UC Santa Cruz | ~22h | -- | -- |
+
+##
+
+#### Cursos Avançados:
+
+Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: | :--: |
+[Bioestatística 1](https://www.coursera.org/learn/biostatistics?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~13h | -- | -- | 
+[Bioestatística 2](https://www.coursera.org/learn/biostatistics-2?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~11h | -- | -- | 
+[Modelos Lineares 1: Mínimos Quadrados](https://www.coursera.org/learn/linear-models?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~08h | -- | -- |
+[Modelos Lineares 2: Modelos Estatísticos](https://www.coursera.org/learn/linear-models-2?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~05h | -- | -- |
+[Modelos Gráficos Probabilísticos 1: Representação](https://www.coursera.org/learn/probabilistic-graphical-models?specialization=probabilistic-graphical-models) | Stanford University | ~66h | -- | -- |
+[Modelos Gráficos Probabilísticos 2: Inferência](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference?specialization=probabilistic-graphical-models) | Stanford University | ~38h | -- | -- |
+[Modelos Gráficos Probabilísticos 3: Aprendizagem](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning?specialization=probabilistic-graphical-models) | Stanford University | ~66h | -- | -- |
 
 ##
 
@@ -295,6 +344,8 @@ Course/Specialization | offered by | Effort | Repository/Project if applicable |
 [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University | ~20h | *[Course Repository]() | -- | 
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1) | Princeton University | ~54h | *[Course Repository]() | -- |
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | ~63h | *[Course Repository]() | -- | 
+
+https://www.coursera.org/specializations/boulder-data-structures-algorithms
 
 ##
 
