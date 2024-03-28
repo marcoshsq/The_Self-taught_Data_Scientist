@@ -110,7 +110,7 @@ Mas aqui está uma lista geral de conceitos e habilidades que quero aprender ao 
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -127,66 +127,16 @@ Espaço para organização pessoal u.u
 
 ---
 
-## Main Curriculum.
+## Currículo
 
-Welcome to a structured exploration of Data Science, divided into five main sections that cover the essential pillars of the field.
-
-### 1. Fundamentals of Data Science
-
-**Overview:**
-Present the fundamental concepts in the area of data science.
-
-**Key Topics:**
-- Data literacy.
-- Data science applications.
-- Importance of data in decision making.
-
-### 2. Basic Mathematics for Data Science
-
-**Overview:**
-Increase mathematical proficiency with a focus on computational mathematics and modeling, calculus, statistics, and algebra.
-
-**Key Topics:**
-- Computational and Discrete Mathematics.
-- Modeling Techniques.
-- Statistics.
-
-### 3. Programming Skills
-
-**Overview:**
-Develop programming skills.
-
-**Key Topics:**
-- Fundamental Concepts in Java.
-- Python Programming.
-- R programming.
-
-### 4. Applications in Data Science
-
-**Overview:**
-Learn the tools, technologies, and techniques that are used in data science and analysis.
-
-**Key Topics:**
-- Database Management Systems.
-- Data mining techniques.
-- Big Data concepts and cloud applications.
-
-### 5. Artificial Intelligence
-
-**Overview:**
-Diving into Artificial Intelligence, with a special focus on machine learning.
-
-**Key Topics:**
-- Fundamentals of machine learning.
-- Deep learning architectures (TensorFlow, PyTorch).
-- Applications in Computer Vision and NLP.
+Adicionar descrição depois...
 
 ##
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
-	
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+
 </div>
 
 
@@ -202,41 +152,41 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 01 - Fundamentals of Data Science.
+### Seção 01 - Fundamentos
 
-In this section, we establish the foundational knowledge necessary for a comprehensive understanding of data science principles. The selected courses provide a thorough introduction to key concepts, emphasizing the crucial role of data in decision-making processes.
+Nesta seção, o objetivo é aprender o básico sobre dados, mas, mais importante, tornar-se "alfabetizado" em dados, entendendo como é possível transformar dados em informação.
 
-#### Learning Goals:
+#### Cursos Escolhidos:
 
-1. **Data Literacy**
-   - *Overview:* Develop a foundational understanding of data, focusing on literacy in interpreting and communicating with data.
-
-2. **Vital Skills for Data Science**
-   - *Overview:* Acquire essential skills necessary for success in the field of data science, with a strong emphasis on practical applications.
-
-3. **Total Data Quality**
-   - *Overview:* Explore the critical aspect of data quality and its profound impact on effective decision-making and analysis.
-
-4. **Data Science**
-   - *Overview:* Dive deeper into the core concepts of data science, gaining practical experience in data analysis and interpretation.
-
-These courses collectively build a robust foundation in data science, laying the groundwork for more advanced topics covered in the subsequent sections.
-
+1. Dados – O Que São, O Que Podemos Fazer Com Eles
+2. Medição – Transformando Conceitos em Dados
+3. Quantificando Relações com Modelos de Regressão
+3. Quais são as chances? Probabilidade e Incerteza na Estatística
+4. Ciência de Dados como Campo
+5. A Caixa de Ferramentas do Cientista de Dados
+6. Questões Éticas em Ciência de Dados
+7. Cibersegurança para Ciência de Dados
+8. Fundamentos da Visualização de Dados
 
 ##
 
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable | Status |
+Curso | Oferecido por | Esforço de | Repositório/Projeto, se aplicável | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: | :--: |
-[Data Literacy](https://www.coursera.org/specializations/data-literacy) | Johns Hopkins University | ~60h | -- | -- | -- |
-[Vital Skills for Data Science](https://www.coursera.org/specializations/vital-skills-for-data-science) | University of Colorado | ~80h | -- | -- | -- |
-[Total Data Quality](https://www.coursera.org/specializations/total-data-quality) | University of Michigan | ~30h | -- | -- | -- |
-[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins University | ~300h | [Course Repository](https://github.com/marcoshsq/DataScience-JHU) | -- | -- |
+[Dados – O Que São, O Que Podemos Fazer Com Eles](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- | -- |
+[Medição – Transformando Conceitos em Dados](https://www.coursera.org/learn/measurement-turning-concepts-data?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- | -- |
+[Quantificando Relações com Modelos de Regressão](https://www.coursera.org/learn/quantifying-relationships-regression-models?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- | -- |
+[Quais são as chances? Probabilidade e Incerteza na Estatística](https://www.coursera.org/learn/chances-probability-uncertainty-statistics?specialization=data-literacy) | Johns Hopkins University | ~10h | -- | -- | -- |
+[Ciência de Dados como Campo](https://www.coursera.org/learn/data-science-as-a-field?specialization=vital-skills-for-data-science) | University of Colorado | ~10h | -- | -- | -- |
+[A Caixa de Ferramentas do Cientista de Dados](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~60h | -- | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
+[Questões Éticas em Ciência de Dados](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~23h | -- | -- | -- |
+[Cibersegurança para Ciência de Dados](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~19h | -- | -- | -- |
+[Fundamentos da Visualização de Dados](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) | University of Colorado | ~14h | -- | -- | -- |
 
 ##
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
