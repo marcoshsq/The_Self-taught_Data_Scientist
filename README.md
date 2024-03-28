@@ -26,8 +26,8 @@
 - [Currículo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo)
 	- [Seção 01 - Fundamentos](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-01---fundamentos)
 	- [Seção 02 - Matemática e Estatística Aplicada em Dados e Computação]()
- 	- [Seção 03 - Porgramação para Ciência de Dados]()
-	- [Seção 03-A - Linguagem Python para Análise de Dados]()
+ 	- [Seção 03 - Programação para Ciência de Dados](https://github.com/marcoshsq/Curriculo_Autodidata_Dados/tree/main#se%C3%A7%C3%A3o-03---programa%C3%A7%C3%A3o-para-ci%C3%AAncia-de-dados)
+	- [Seção 03-A - Linguagem Python para Análise de Dados](https://github.com/marcoshsq/Curriculo_Autodidata_Dados/tree/main#se%C3%A7%C3%A3o-03-a---linguagem-python-para-an%C3%A1lise-de-dados)
  	- [Seção 03-B - Linguagem R para Análise e Modelagem Estatística]()
   	- [Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM]()
   	- [Seção 04-A - Mineração de Dados]()
@@ -248,7 +248,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Seção 03 - Porgramação para Ciência de Dados
+### Seção 03 - Programação para Ciência de Dados
 
 Essa seção é focada em linguagens de programação usadas na área de dados, para isso eu selecionei 3, Python, R e Rust. As três linguagens são amplamente usadas, são padrões na indústria, possuem um monte de bibliotecas para dados, mas mais importante, quando eu pesquiso "Ciência de Dados" no LinkedIn, Python é a principal linguagem cobrada, todo curso de Estatística é dado em R, e Rust parece ser super legal de aprender... logo, essas são as linguagens que vamos aprender.
 
