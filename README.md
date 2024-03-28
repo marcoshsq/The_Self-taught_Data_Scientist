@@ -21,10 +21,10 @@
 
 ## Sumário de Conteúdo
 
-- [Sobre]()
-- [Metas de Aprendizado]()
-- [Currículo]()
-	- [Seção 01 - Fundamentos]()
+- [Sobre](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sobre)
+- [Metas de Aprendizado](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#metas-de-aprendizado)
+- [Currículo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo)
+	- [Seção 01 - Fundamentos](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-01---fundamentos)
 	- [Seção 02 - Matemática e Estatística Aplicada em Dados e Computação]()
 	- [Seção 03-A - Linguagem Python para Análise de Dados]()
  	- [Seção 03-B - Linguagem R para Análise e Modelagem Estatística]()
