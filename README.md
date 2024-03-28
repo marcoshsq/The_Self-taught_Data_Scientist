@@ -203,23 +203,23 @@ Essa seção possui em média 400h de conteúdo, sem considerar o tempo para res
 
 #### Matemática 01:
 
-Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
-:-- | :--: | :--: | :--: | :--: | :--: |
-[Pensamento Matemático em Ciência da Computação](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | UC San Diego | ~41h | -- | -- | -- |
-[Combinatória e Probabilidade](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | UC San Diego | ~23h | -- | -- | -- |
-[Introdução à Teoria dos Grafos](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | UC San Diego | ~20h | -- | -- | -- |
-[Teoria dos Números e Criptografia](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | UC San Diego | ~16h | -- | -- | -- |
-[Problema de Entrega](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics) | UC San Diego | ~13h | -- | -- | -- |
-[Álgebra Linear para Aprendizado de Máquina e Ciência de Dados](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~34h | -- | -- | -- |
-[Cálculo para aprendizado de máquina e ciência de dados](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~25h | -- | -- | -- |
-[Probabilidade e estatística para aprendizado de máquina e ciência de dados](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~33h | -- | -- | -- |
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Pensamento Matemático em Ciência da Computação](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | UC San Diego | ~41h | -- | -- |
+[Combinatória e Probabilidade](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | UC San Diego | ~23h | -- | -- |
+[Introdução à Teoria dos Grafos](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | UC San Diego | ~20h | -- | -- |
+[Teoria dos Números e Criptografia](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | UC San Diego | ~16h | -- | -- |
+[Problema de Entrega](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics) | UC San Diego | ~13h | -- | -- |
+[Álgebra Linear para Aprendizado de Máquina e Ciência de Dados](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~34h | -- | -- |
+[Cálculo para aprendizado de máquina e ciência de dados](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~25h | -- | -- |
+[Probabilidade e estatística para aprendizado de máquina e ciência de dados](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~33h | -- | -- |
 
 ##
 
 #### Matemática 02:
 
-Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
-:-- | :--: | :--: | :--: | :--: | :--: |
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
 [Bioestatística 1](https://www.coursera.org/learn/biostatistics?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~13h | -- | -- | 
 [Bioestatística 2](https://www.coursera.org/learn/biostatistics-2?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~11h | -- | -- | 
 [Modelos Lineares 1: Mínimos Quadrados](https://www.coursera.org/learn/linear-models?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~08h | -- | -- |
@@ -254,27 +254,32 @@ Essa seção é focada em linguagens de programação usadas na área de dados, 
 
 #### Seção 03-A - Linguagem Python para Análise de Dados
 
-Curso | Oferecido por | Esforço de | Projeto, se aplicável | Certificado, se aplicável | Status |
-:-- | :--: | :--: | :--: | :--: | :--: |
-[Noções básicas de Python](https://www.coursera.org/learn/python-basics?specialization=python-3-programming) | University of Michigan | ~34h | -- | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/ZQVLDDT4KPKU) | ✓ |
-[Funções, arquivos e dicionários em Python](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming) | University of Michigan | ~31h | -- | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/2GXC4TU2AX49) | ✓ |
-[Coleta e processamento de dados com Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) | University of Michigan | ~16h | -- | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/NTDVMCYZXTC3) | ✓ |
-[Classes e Herança Python](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) | University of Michigan | ~17h | -- | -- | -- |
-[Compreendendo e visualizando dados com Python](https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python) | University of Michigan | ~19h | -- | -- | -- |
-[Análise Estatística Inferencial com Python](https://www.coursera.org/learn/inferential-statistical-analysis-python?specialization=statistics-with-python) | University of Michigan | ~21h | -- | -- | -- |
-[Ajustando modelos estatísticos a dados com Python](https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python) | University of Michigan | ~14h | -- | -- | -- |
-[Introdução à Álgebra Linear e Python](https://www.coursera.org/learn/linear-algebra-python-intro?specialization=linear-algebra-data-science-python) | Howard University | ~12h | -- | -- | -- |
-[Conceitos fundamentais de álgebra linear com Python](https://www.coursera.org/learn/linear-algebra-concepts-python?specialization=linear-algebra-data-science-python) | Howard University | ~10h | -- | -- | -- |
-[Construindo Modelos de Regressão com Álgebra Linear](https://www.coursera.org/learn/regression-models-linear-algebra?specialization=linear-algebra-data-science-python) | Howard University | ~06h | -- | -- | -- |
-[Cálculo Aplicado com Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | -- | -- | -- |
-[Introdução à ciência de dados em Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | ~34h | -- | -- | -- |
-[Plotagem, gráficos e representação de dados aplicados em Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | ~24h | -- | -- | -- |
-[Aprendizado de máquina aplicado em Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | University of Michigan | ~31h | -- | -- | -- |
-[Mineração de texto aplicada em Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | University of Michigan | ~25h | -- | -- | -- |
-[Análise Aplicada de Redes Sociais em Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | University of Michigan | ~26h | -- | -- | -- |
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Noções básicas de Python](https://www.coursera.org/learn/python-basics?specialization=python-3-programming) | University of Michigan | ~34h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/ZQVLDDT4KPKU) | ✓ |
+[Funções, arquivos e dicionários em Python](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming) | University of Michigan | ~31h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/2GXC4TU2AX49) | ✓ |
+[Coleta e processamento de dados com Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) | University of Michigan | ~16h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/NTDVMCYZXTC3) | ✓ |
+[Classes e Herança Python](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) | University of Michigan | ~17h | -- | -- |
+[Compreendendo e visualizando dados com Python](https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python) | University of Michigan | ~19h | -- | -- |
+[Análise Estatística Inferencial com Python](https://www.coursera.org/learn/inferential-statistical-analysis-python?specialization=statistics-with-python) | University of Michigan | ~21h | -- | -- |
+[Ajustando modelos estatísticos a dados com Python](https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python) | University of Michigan | ~14h | -- | -- |
+[Introdução à Álgebra Linear e Python](https://www.coursera.org/learn/linear-algebra-python-intro?specialization=linear-algebra-data-science-python) | Howard University | ~12h | -- | -- |
+[Conceitos fundamentais de álgebra linear com Python](https://www.coursera.org/learn/linear-algebra-concepts-python?specialization=linear-algebra-data-science-python) | Howard University | ~10h | -- | -- |
+[Construindo Modelos de Regressão com Álgebra Linear](https://www.coursera.org/learn/regression-models-linear-algebra?specialization=linear-algebra-data-science-python) | Howard University | ~06h | -- | -- |
+[Cálculo Aplicado com Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | -- | -- |
+[Introdução à ciência de dados em Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | ~34h | -- | -- |
+[Plotagem, gráficos e representação de dados aplicados em Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | ~24h | -- | -- |
+[Aprendizado de máquina aplicado em Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | University of Michigan | ~31h | -- | -- |
+[Mineração de texto aplicada em Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | University of Michigan | ~25h | -- | -- |
+[Análise Aplicada de Redes Sociais em Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | University of Michigan | ~26h | -- | -- |
 
 
 #### Seção 03-B - Linguagem R para Análise e Modelagem Estatística
+
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[]() | University of Michigan | ~34h | -- | -- |
+
 #### Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM
 
 This section is about programming and development, the chosen courses initially aim to introduce the basic concepts of CC (Programming Logic, Algorithms, and Data Structure), after, which we have two sections focused on Python and R.
