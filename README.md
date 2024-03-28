@@ -278,20 +278,21 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
-[]() | University of Michigan | ~34h | -- | -- |
+[Programação R](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science) | Johns Hopkins University | ~57h | -- | -- |
+[]() | Johns Hopkins University | ~57h | -- | -- |
+[]() | Johns Hopkins University | ~57h | -- | -- |
+[]() | Johns Hopkins University | ~57h | -- | -- |
+[]() | Johns Hopkins University | ~57h | -- | -- |
+[]() | Johns Hopkins University | ~57h | -- | -- |
+[]() | Johns Hopkins University | ~57h | -- | -- |
+[]() | Johns Hopkins University | ~57h | -- | -- |
 
 #### Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM
 
-This section is about programming and development, the chosen courses initially aim to introduce the basic concepts of CC (Programming Logic, Algorithms, and Data Structure), after, which we have two sections focused on Python and R.
+Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+:-- | :--: | :--: | :--: | :--: |
+[]() | University of Michigan | ~34h | -- | -- |
 
-1. **Core Programming**
-   - *Overview:* Develop an understanding of computing by learning applied programming logic, data structures, and algorithms.
-
-2. **Programming for Data Science in Python**
-   - *Overview:* Python is the main language used in data science, so this entire section is focused on learning Python, from the basics of the language to its more advanced applications, with a focus on data.
-
-3. **Programming for Data Science in R**
-   - *Overview:* R is the main language for statistical analysis, it is open source and has a huge community, and it is the second most used language to work with data, so we'll learn it too.
 
 
 ##
