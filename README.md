@@ -390,29 +390,6 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 ##
 
-#### Machine Learning:
-
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
-:-- | :--: | :--: | :--: | :--: |
-[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | DeepLearning.AI | ~108h | *[Course Repository](https://github.com/marcoshsq/AndrewNg-MachineLearning) | -- | 
-[Deep Learning](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI | ~180h | *[Course Repository]() | -- |
-[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | DeepLearning.AI | ~80h | *[Course Repository]() | -- | 
-[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | DeepLearning.AI | ~100h | *[Course Repository]() | -- | 
-[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | DeepLearning.AI | ~120h | *[Course Repository]() | -- | 
-[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | DeepLearning.AI | ~64h | *[Course Repository]() | -- | 
-[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques) | DeepLearning.AI | ~140h | *[Course Repository]() | -- | 
-
-##
-
-#### Computer Vision & NLP:
-
-Course/Specialization | offered by | Effort | Repository/Project if applicable | Certificate if applicable |
-:-- | :--: | :--: | :--: | :--: |
-[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | University of Columbia | ~60h | *[Course Repository]() | -- | 
-[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | DeepLearning.AI | ~128h | *[Course Repository]() | -- | 
-
-##
-
 <div align="right">
 	
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
@@ -471,7 +448,13 @@ Espaço para organização pessoal u.u
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
-[]() | University of Illinois | ~35h | -- | -- |
+[Aprendizado de Máquina Supervisionado: Regressão e Classificação](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~33h | -- | -- |
+[Algoritmos de Aprendizagem Avançada](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction) | DeepLearning.AI | ~34h | -- | -- |
+[Aprendizagem não Supervisionada, Recomendações, Aprendizagem por Reforço](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~37h | -- | -- |
+[Introdução ao TensorFlow](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~17h | -- | -- |
+[Redes Neurais Convolucionais no TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~16h | -- | -- |
+[Processamento de linguagem natural no TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~24h | -- | -- |
+[Sequências, Séries Temporais e Previsão](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice) | DeepLearning.AI | ~22h | -- | -- |
 
 
 ##
@@ -492,21 +475,19 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Seção 04 - Mineração de Dados
+### Seção 08 - Aprendizado Profundo
 
-Nessa seção eu quero aprender técnicas de mineração de dados tanto para dados estruturados, quanto para dados não estruturados que existem na forma de texto em linguagem natural. Os tópicos específicos dos cursos incluem descoberta de padrões, clustering, recuperação de texto, mineração e análise de texto e visualização de dados.
+
 
 ##
-
-### Seção 04 - Mineração de Dados
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Visualização de dados](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
-[Recuperação de texto e motores de busca](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
-[Mineração e análise de texto](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
-[Descoberta de padrões em mineração de dados]() | University of Illinois | ~35h | -- | -- |
-[Análise de Cluster em Mineração de Dados]() | University of Illinois | ~35h | -- | -- |
+[Redes Neurais e Aprendizado Profundo](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | DeepLearning.AI | ~24h | -- | -- |
+[Melhorando Redes Neurais Profundas](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | DeepLearning.AI | ~23h | -- | -- |
+[Estruturação de Projetos de Aprendizado de Máquina](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) | DeepLearning.AI | ~06h | -- | -- |
+[Redes Neurais Convolucionais](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) | DeepLearning.AI | ~35h | -- | -- |
+[Modelos de sequência](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning) | DeepLearning.AI | ~37h | -- | -- |
 
 ##
 
@@ -526,17 +507,18 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Seção 04 - Mineração de Dados
+### Seção 09 - Processamento de Linguagem Natural
 
-Nessa seção eu quero aprender técnicas de mineração de dados tanto para dados estruturados, quanto para dados não estruturados que existem na forma de texto em linguagem natural. Os tópicos específicos dos cursos incluem descoberta de padrões, clustering, recuperação de texto, mineração e análise de texto e visualização de dados.
+
 
 ##
-
-### Seção 04 
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
-[]() | University of Illinois | ~35h | -- | -- |
+[NLP com classificação e espaços vetoriais](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~33h | -- | -- |
+[NLP com Modelos Probabilísticos](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~30h | -- | -- |
+[NLP com modelos de sequência](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~21h | -- | -- |
+[NLP com modelos de atenção](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~26h | -- | -- |
 
 ##
 
@@ -556,17 +538,15 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Seção 04 - Mineração de Dados
+### Seção 10 - Soft Skills
 
-Nessa seção eu quero aprender técnicas de mineração de dados tanto para dados estruturados, quanto para dados não estruturados que existem na forma de texto em linguagem natural. Os tópicos específicos dos cursos incluem descoberta de padrões, clustering, recuperação de texto, mineração e análise de texto e visualização de dados.
+
 
 ##
-
-### Seção 04 
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
-[]() | University of Illinois | ~35h | -- | -- |
+[Storytelling & Influência: Comunicar com Impacto](https://www.coursera.org/learn/communicate-with-impact?specialization=influencing-storytelling-change-management) |  | ~35h | -- | -- |
 
 
 ##
@@ -587,13 +567,13 @@ Espaço para organização pessoal u.u
 
 -->
 
-## Extra Bibliography.
+## Bibliografía Extra
 
 In addition to the main courses of this curriculum, other materials such as articles and books were used, which are referenced in this section.
 
 The books here are not arranged in any particular order.
 
-### Mathematics Books.
+### Livros de Matemática
 
 - [Essentials of Discrete Mathematics](https://shre.ink/l0s) - David J. Hunter
 - [Concrete Mathematics: A Foundation for Computer Science](https://shre.ink/lDJ) - Ronald Graham
@@ -616,7 +596,7 @@ The books here are not arranged in any particular order.
 - [All the Mathematics You Missed: But Need to Know for Graduate School](https://www.amazon.com.br/dp/0521792851/?coliid=IS46PVD7HGZK6&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Garrity, Thomas A.
 - [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 
-### Books, articles and related documentation.
+### Livros, artigos e documentação relacionada
 
 - [SQL for Smarties: Advanced SQL Programming](https://shre.ink/lD9) - Joe Celko
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap of DL Papers
@@ -645,7 +625,7 @@ Espaço para organização pessoal u.u
 
 -->
 
-## Important Notes.
+## Notas e Esclarecimentos
 
 * The duration of the courses that I put here are estimates made by the platforms where they are offered.
 * At the moment I am doing this graduation, so the verb tense of this ``readme`` is a little strange, sometimes in the past, sometimes in the future, as I do it I'll reformat it to better report my experience.
@@ -661,7 +641,7 @@ Espaço para organização pessoal u.u
 
 -->
 
-## References.
+## Referências
 
 Sources consulted for the construction of this curriculum.
 
