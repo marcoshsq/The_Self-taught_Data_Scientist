@@ -62,7 +62,7 @@ Para construir este currículo consultei diferentes fontes que podem ser encontr
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -110,7 +110,7 @@ Mas aqui está uma lista geral de conceitos e habilidades que quero aprender ao 
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -135,7 +135,7 @@ Adicionar descrição depois...
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 
 </div>
 
@@ -176,7 +176,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -231,7 +231,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -321,7 +321,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -355,7 +355,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -373,7 +373,7 @@ Espaço para organização pessoal u.u
 
 ### Seção 05 - Bancos de dados, SQL e Big Data
 
-
+Acredito que preciso descrever porque temos uma seção de SQL e Big Data... Com isso posto, aqui estão ótimos cursos que visam ensinar essas habilidades relacionadas a Banco de Dados e Big Data.
 
 ##
 
@@ -392,7 +392,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -410,7 +410,7 @@ Espaço para organização pessoal u.u
 
 ### Seção 06 - Computação na Nuvem
 
-
+Cloud é extremamente importante em tecnologia hoje em dia, porém, esse projeto já passou por algumas iterações, e não só tecnologia evolui, como temos diversos serviços de Cloud, por isso os cursos aqui são mais teóricos do que treinamentos, acredito que aprendendo a base do que é computação em nuvem, fica muito mais fácil escolher usar Azure ou AWS.. etc.
 
 ##
 
@@ -426,7 +426,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -442,7 +442,7 @@ Espaço para organização pessoal u.u
 
 ### Seção 07 - Aprendizado de Maquina
 
-
+Aprendemos análise de dados, Python e Big Data... agora juntamos tudo isso e aplicamos IA nisso, as próximas três seções exploram isso, começando por Machine Learning. Os cursos a seguir fornecem uma ampla introdução ao aprendizado de máquina moderno, incluindo aprendizado supervisionado (regressão linear múltipla, regressão logística, redes neurais e árvores de decisão), aprendizado não supervisionado (clustering, redução de dimensionalidade, sistemas de recomendação) e algumas das melhores práticas usadas em Silicon.
 
 ##
 
@@ -461,7 +461,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -477,7 +477,7 @@ Espaço para organização pessoal u.u
 
 ### Seção 08 - Aprendizado Profundo
 
-
+Dando continuidade aos estudos de IA, passamos ao Deep Learning, que basicamente são técnicas mais complexas para trabalhar com dados não estruturados, como imagens. Os cursos dessa seção exploram essas técnicas e aplicações.
 
 ##
 
@@ -493,7 +493,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -509,7 +509,7 @@ Espaço para organização pessoal u.u
 
 ### Seção 09 - Processamento de Linguagem Natural
 
-
+Finalizando os estudos (introdutórios) de IA com NLP, que é o estudo de técnicas para o reconhecimento e análise de linguagem natural, que é a forma como nós escrevemos e falamos. Essa tecnologia é uma das áreas de aprendizado de máquina mais amplamente aplicadas e é fundamental para a análise eficaz de grandes quantidades de dados não estruturados e com muito texto. À medida que a IA continua a expandir-se, também aumenta a procura por profissionais qualificados na construção de modelos que analisem a fala e a linguagem, descubram padrões contextuais e produzam insights a partir de texto e áudio. Os cursos a seguir visam ensinar a realizar isso.
 
 ##
 
@@ -524,7 +524,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -540,7 +540,7 @@ Espaço para organização pessoal u.u
 
 ### Seção 10 - Soft Skills
 
-
+Uma seção para habilidade e conceitos relevantes que não se relacionam a parte técnica e teórica, mas ainda sim, são extremamente relevantes para um profissional de Data Science.
 
 ##
 
@@ -553,7 +553,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -569,32 +569,30 @@ Espaço para organização pessoal u.u
 
 ## Bibliografía Extra
 
-In addition to the main courses of this curriculum, other materials such as articles and books were used, which are referenced in this section.
+Além dos cursos deste currículo (eu particularmente prefiro vídeos do que livros), foram utilizados outros materiais como artigos e livros, que são referenciados nesta seção.
 
-The books here are not arranged in any particular order.
+Os livros aqui não estão organizados em nenhuma ordem específica.
 
 ### Livros de Matemática
 
-- [Essentials of Discrete Mathematics](https://shre.ink/l0s) - David J. Hunter
-- [Concrete Mathematics: A Foundation for Computer Science](https://shre.ink/lDJ) - Ronald Graham
-- [Pre-Calculus](https://shre.ink/lD0) - Valeria Zuma Medeiros
-- [Calculus I](https://shre.ink/l0d) - James Stweart
-- [Calculus II](https://shre.ink/lD4) - James Stweart
-- [Numerical Calculus: Theoretical and Computational Aspects](https://shre.ink/lDN) - Marcia Gomes
-- [Elementary Linear Algebra](https://shre.ink/lDO) - Howard Anton
-- [Calculus with Analytical Geometry](http://www.eletrica.ufpr.br/armando/index_arquivos/Louis%20Leithold%20-%20O%20C%C3%A1lculo%20com%20Geometria%20Anal%C3%ADtica,%20volume%201,%203%C2%AA%20Edi%C3%A7%C3%A3o%20%20%20(1994,%20Harbra).pdf) - Louis Leithold
-- [Analytical Geometry: A Vector Treatment](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx2ZXRvcmVzZ2FtYXJjb3N8Z3g6NjAzODc4NTdjZGEwY2ZiOA) - Ivan De Camargo 
-- [Introduction to the Theory of Statistics](https://shre.ink/lDZ) - Alexander Mood
-- [Matrix Algebra Useful for Statistics](https://shre.ink/lDG) - Andre I Khuri
-- [The Elements of Statistical Learning](https://shre.ink/lDR) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- [Introduction to Linear Regression Analysis](https://shre.ink/lDF) - Douglas C Montgomery
-- [Bayesian Statistics](https://shre.ink/lDX) - Peter M. Lee
-- [Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference](https://shre.ink/lDv) - Dani Gamerman
-- [Applied Nonparametric Statistical Methods](https://shre.ink/lDu) - Nigel C Smeeton
-- [Interpretability of Computational Intelligence-Based Regression Models](https://shre.ink/lD3) - János Abonyi
+- [Fundamentos de Matemática Discreta](https://shre.ink/l0s) - David J. Hunter
+- [Matemática Concreta: Uma Fundação para a Ciência da Computação](https://shre.ink/lDJ) - Ronald Graham
+- [Pré-Cálculo](https://shre.ink/lD0) - Valéria Zuma Medeiros
+- [Cálculo I](https://shre.ink/l0d) - James Stweart
+- [Cálculo II](https://shre.ink/lD4) - James Stweart
+- [Cálculo Numérico: Aspectos Teóricos e Computacionais](https://shre.ink/lDN) - Marcia Gomes
+- [Álgebra Linear Elementar](https://shre.ink/lDO) - Howard Anton
+- [Geometria Analítica: Um Tratamento Vetorial](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx2ZXRvcmVzZ2FtYXJjb3N8Z3g6NjAzODc4NTdjZGEwY2ZiOA) - Ivan De Camargo
+- [Introdução à Teoria da Estatística](https://shre.ink/lDZ) - Alexander Mood
+- [Álgebra Matricial Útil para Estatística](https://shre.ink/lDG) - Andre I Khuri
+- [Os elementos da aprendizagem estatística](https://shre.ink/lDR) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
+- [Introdução à Análise de Regressão Linear](https://shre.ink/lDF) - Douglas C Montgomery
+- [Estatísticas Bayesianas](https://shre.ink/lDX) - Peter M. Lee
+- [Cadeia de Markov Monte Carlo: Simulação Estocástica para Inferência Bayesiana](https://shre.ink/lDv) - Dani Gamerman
+- [Métodos Estatísticos Não Paramétricos Aplicados](https://shre.ink/lDu) - Nigel C Smeeton
+- [Interpretabilidade de modelos de regressão baseados em inteligência computacional](https://shre.ink/lD3) - János Abonyi
 - [Modelos de Regrassão com Apoio Computacional](https://www.ime.usp.br/~giapaula/texto_2013.pdf) - Gilberto A. Paula
-- [All the Mathematics You Missed: But Need to Know for Graduate School](https://www.amazon.com.br/dp/0521792851/?coliid=IS46PVD7HGZK6&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Garrity, Thomas A.
-- [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+- [Uma introdução ao aprendizado estatístico com aplicações em R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 
 ### Livros, artigos e documentação relacionada
 
@@ -602,14 +600,12 @@ The books here are not arranged in any particular order.
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap of DL Papers
 - [Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/?coliid=I1DADMS27UAR9G&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Stuart J. Russell
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
-- [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110) - Harvard
-- [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - MIT
 
 ##
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
@@ -627,9 +623,11 @@ Espaço para organização pessoal u.u
 
 ## Notas e Esclarecimentos
 
-* The duration of the courses that I put here are estimates made by the platforms where they are offered.
-* At the moment I am doing this graduation, so the verb tense of this ``readme`` is a little strange, sometimes in the past, sometimes in the future, as I do it I'll reformat it to better report my experience.
-* As for the books, my university has partnerships with a few platforms, like O'Reilly, as well as a very large library, that's where I got almost all of them.
+* A duração dos cursos aqui são estimativas feitas pelas plataformas onde são oferecidos.
+  
+* No momento estou fazendo essa graduação, então o tempo verbal desse ``readme`` está um pouco estranho, às vezes no passado, às vezes no futuro, conforme eu fizer isso irei reformatá-lo para melhor relatar minha experiência .
+  
+* Quanto aos livros, minha universidade tem parceria com algumas plataformas, como a O'Reilly, além de uma biblioteca muito grande, onde consegui quase todos, mas se você não tiver acesso... cof cof... tenta ver se eles caem do caminhão... cof cof..., mas se der pra comprar, comprem... cof cof..
 
 <!-- 
 
@@ -645,20 +643,17 @@ Espaço para organização pessoal u.u
 
 Sources consulted for the construction of this curriculum.
 
-- [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - Path to a free self-taught education in Data Science.
-- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - Roadmap to becoming an AI Expert.
-- [Python Developer](https://roadmap.sh/python) - Python Roadmap.
-- [PostgreSQL](https://roadmap.sh/postgresql-dba) - PostgreSQL Roadmap for DBA.
-- [Statistics Curriculum](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - BA in Statistics from the University of São Paulo, which I used to guide my studies.
-- [Database Curriculum](https://www.fiap.com.br/graduacao/tecnologo/banco-de-dados/) - Database Course from the Faculdade de Informática e Administração Paulista (FIAP).
-- [Cloud Computing Curriculum](https://www.fiap.com.br/graduacao/tecnologo/computacao-na-nuvem-cloud-engineering-architecture-machine-learning/) - Cloud computing curriculum from the Faculdade de Informática e Administração Paulista (FIAP).
-- [AI Curriculum](https://www.fiap.com.br/graduacao/tecnologo/inteligencia-artificial/) - AI curriculum from the Faculdade de Informática e Administração Paulista (FIAP).
+- [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - A OSSU é uma galera que oferece faculdades para graduação em tech de graça, eles tem uma galera especialista que monta os currículos e coloca os links de onde você consegue estudar aqueles temas de graça, é uma faculdade EAD de graça, que você estuda no seu tempo, é basicamente isso aqui, só que esse repositório é mais personalizado, mas recomendo muito a OSSU, e qualquer um que tente democratizar a educação.
+- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - Novamente, um roteiro para se tornar um especialista em IA, por uma galera que entende de IA.
+- [Python Developer](https://roadmap.sh/python) - O Roadmap SH é uma plataforma que oferece trilhas de aprendizagem em diversas áreas e ferramentas de tecnologia. Esse link é para o roadmap de Python, mas eles tem muitos outros.
+- [PostgreSQL](https://roadmap.sh/postgresql-dba) - Roadmap de PostgreSQL para DBA do Roadmap SH.
+- [Curso de Estatística da USP](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - Bacharel em Estatística pela Universidade de São Paulo, que utilizei para guiar alguns dos cursos que escolhi aqui, mas principalmente para escolher os livros.
 
 ##
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
 	
 </div>
 
