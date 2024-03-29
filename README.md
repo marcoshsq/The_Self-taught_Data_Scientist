@@ -251,6 +251,8 @@ Espaço para organização pessoal u.u
 
 Essa seção é focada em linguagens de programação usadas na área de dados, para isso eu selecionei 3, Python, R e Rust. As três linguagens são amplamente usadas, são padrões na indústria, possuem um monte de bibliotecas para dados, mas mais importante, quando eu pesquiso "Ciência de Dados" no LinkedIn, Python é a principal linguagem cobrada, todo curso de Estatística é dado em R, e Rust parece ser super legal de aprender... logo, essas são as linguagens que vamos aprender.
 
+Essa seção possui em média 900h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo, e é a parte mais longa do currículo.
+
 ##
 
 #### Seção 03-A - Linguagem Python para Análise de Dados
@@ -341,15 +343,17 @@ Espaço para organização pessoal u.u
 
 Nessa seção eu quero aprender técnicas de mineração de dados tanto para dados estruturados, quanto para dados não estruturados que existem na forma de texto em linguagem natural. Os tópicos específicos dos cursos incluem descoberta de padrões, clustering, recuperação de texto, mineração e análise de texto e visualização de dados.
 
+Essa seção possui em média 112h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
+
 ##
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Visualização de dados](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
-[Recuperação de texto e motores de busca](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
-[Mineração e análise de texto](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois | ~35h | -- | -- |
-[Descoberta de padrões em mineração de dados]() | University of Illinois | ~35h | -- | -- |
-[Análise de Cluster em Mineração de Dados]() | University of Illinois | ~35h | -- | -- |
+[Visualização de dados](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois | ~15h | -- | -- |
+[Recuperação de texto e motores de busca](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois | ~30h | -- | -- |
+[Mineração e análise de texto](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois | ~33h | -- | -- |
+[Descoberta de padrões em mineração de dados](https://www.coursera.org/learn/data-patterns?specialization=data-mining) | University of Illinois | ~17h | -- | -- |
+[Análise de Cluster em Mineração de Dados](https://www.coursera.org/learn/cluster-analysis?specialization=data-mining) | University of Illinois | ~16h | -- | -- |
 
 ##
 
@@ -374,6 +378,8 @@ Espaço para organização pessoal u.u
 ### Seção 05 - Bancos de dados, SQL e Big Data
 
 Acredito que preciso descrever porque temos uma seção de SQL e Big Data... Com isso posto, aqui estão ótimos cursos que visam ensinar essas habilidades relacionadas a Banco de Dados e Big Data.
+
+Essa seção possui em média 160h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
 
 ##
 
@@ -412,6 +418,8 @@ Espaço para organização pessoal u.u
 
 Cloud é extremamente importante em tecnologia hoje em dia, porém, esse projeto já passou por algumas iterações, e não só tecnologia evolui, como temos diversos serviços de Cloud, por isso os cursos aqui são mais teóricos do que treinamentos, acredito que aprendendo a base do que é computação em nuvem, fica muito mais fácil escolher usar Azure ou AWS.. etc.
 
+Essa seção possui em média 100h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
+
 ##
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
@@ -443,6 +451,8 @@ Espaço para organização pessoal u.u
 ### Seção 07 - Aprendizado de Maquina
 
 Aprendemos análise de dados, Python e Big Data... agora juntamos tudo isso e aplicamos IA nisso, as próximas três seções exploram isso, começando por Machine Learning. Os cursos a seguir fornecem uma ampla introdução ao aprendizado de máquina moderno, incluindo aprendizado supervisionado (regressão linear múltipla, regressão logística, redes neurais e árvores de decisão), aprendizado não supervisionado (clustering, redução de dimensionalidade, sistemas de recomendação) e algumas das melhores práticas usadas em Silicon.
+
+Essa seção possui em média 148h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
 
 ##
 
@@ -479,6 +489,8 @@ Espaço para organização pessoal u.u
 
 Dando continuidade aos estudos de IA, passamos ao Deep Learning, que basicamente são técnicas mais complexas para trabalhar com dados não estruturados, como imagens. Os cursos dessa seção exploram essas técnicas e aplicações.
 
+Essa seção possui em média 127h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
+
 ##
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
@@ -510,6 +522,8 @@ Espaço para organização pessoal u.u
 ### Seção 09 - Processamento de Linguagem Natural
 
 Finalizando os estudos (introdutórios) de IA com NLP, que é o estudo de técnicas para o reconhecimento e análise de linguagem natural, que é a forma como nós escrevemos e falamos. Essa tecnologia é uma das áreas de aprendizado de máquina mais amplamente aplicadas e é fundamental para a análise eficaz de grandes quantidades de dados não estruturados e com muito texto. À medida que a IA continua a expandir-se, também aumenta a procura por profissionais qualificados na construção de modelos que analisem a fala e a linguagem, descubram padrões contextuais e produzam insights a partir de texto e áudio. Os cursos a seguir visam ensinar a realizar isso.
+
+Essa seção possui em média 112h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
 
 ##
 
