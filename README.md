@@ -129,7 +129,7 @@ Espaço para organização pessoal u.u
 
 ## Currículo
 
-Adicionar descrição depois...
+(づ｡◕‿‿◕｡)づ(づ｡◕‿‿◕｡)づ(*￣▽￣)b(*￣▽￣)b٩(◕‿◕｡)۶٩(◕‿◕｡)۶٩(◕‿◕｡)۶(◕‿◕✿)ヽ(^◇^*)/ヽ(^◇^*)/
 
 ##
 
