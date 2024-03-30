@@ -36,7 +36,7 @@
   	- [Seção 08 - Aprendizado Profundo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-08---aprendizado-profundo)
   	- [Seção 09 - Processamento de Linguagem Natural](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-09---processamento-de-linguagem-natural)
   	- [Seção 10 - Soft Skills](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-10---soft-skills)
-- [Projetos Obrigatórios]()
+- [Projetos Obrigatórios](https://github.com/marcoshsq/Curriculo_Autodidata_Dados/tree/main#projetos-obrigat%C3%B3rios)
 - [Bibliografia Extra](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#bibliograf%C3%ADa-extra)
 	- [Matemática](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#livros-de-matem%C3%A1tica)
 	- [Livros, artigos e documentação relacionada](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#livros-artigos-e-documenta%C3%A7%C3%A3o-relacionada)
@@ -568,10 +568,13 @@ Essa seção contêm os projetos sugeridos para complementar os cursos e consoli
 Proposta de Projeto | Repositório, se aplicável | Status |
 :-- | :--: | :--:
 [Alfabetização em Dados – Avaliando Pesquisas](https://www.coursera.org/learn/data-literacy-capstone-evaluating-research?specialization=data-literacy) | []() | -- |
-[]() | []() | -- |
-[]() | []() | -- |
-[]() | []() | -- |
-[]() | []() | -- |
+[Projeto Python: Pillow, Tesseract e OpenCV](https://www.coursera.org/learn/python-project?specialization=python-3-programming) | []() | -- |
+[Dominando o desenvolvimento de software em R](https://www.coursera.org/learn/r-capstone?specialization=r) | []() | -- |
+[Projeto de Visualização de Dados](https://www.coursera.org/learn/data-visualization-capstone?specialization=jhu-data-visualization-dashboarding-with-r) | []() | -- |
+[Projeto de Mineração de Dados](https://www.coursera.org/learn/data-mining-project?specialization=data-mining) | []() | -- |
+[Projeto de Big Data](https://www.coursera.org/learn/big-data-project?specialization=big-data) | []() | -- |
+[Projeto de Computação em Nuvem](https://www.coursera.org/learn/cloud-computing-project?specialization=cloud-computing) | []() | -- |
+[Projeto de Aprendizado de Maquina](https://www.coursera.org/learn/machine-learning-capstone) | []() | -- |
 
 ##
 
