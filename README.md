@@ -536,7 +536,7 @@ Uma seção para habilidade e conceitos relevantes que não se relacionam a part
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Storytelling & Influência: Comunicar com Impacto](https://www.coursera.org/learn/communicate-with-impact?specialization=influencing-storytelling-change-management) |  | ~35h | -- | -- |
+[Storytelling & Influência: Comunicar com Impacto](https://www.coursera.org/learn/communicate-with-impact?specialization=influencing-storytelling-change-management) | Macquarie University | ~18h | -- | -- |
 
 
 ##
