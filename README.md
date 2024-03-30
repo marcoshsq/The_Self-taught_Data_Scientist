@@ -36,6 +36,7 @@
   	- [Seção 08 - Aprendizado Profundo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-08---aprendizado-profundo)
   	- [Seção 09 - Processamento de Linguagem Natural](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-09---processamento-de-linguagem-natural)
   	- [Seção 10 - Soft Skills](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-10---soft-skills)
+- [Projetos Obrigatórios]()
 - [Bibliografia Extra](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#bibliograf%C3%ADa-extra)
 	- [Matemática](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#livros-de-matem%C3%A1tica)
 	- [Livros, artigos e documentação relacionada](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#livros-artigos-e-documenta%C3%A7%C3%A3o-relacionada)
@@ -539,6 +540,38 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 [Aprendendo a aprender](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | ~15h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/4R9C3HRVVTKQ) | ✓ |
 [Storytelling & Influência: Comunicar com Impacto](https://www.coursera.org/learn/communicate-with-impact?specialization=influencing-storytelling-change-management) | Macquarie University | ~18h | -- | -- |
 [Faça perguntas para tomar decisões baseadas em dados](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=influencing-storytelling-change-management) | Google  | ~21h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/JR9B6V968GHN) | ✓ |
+
+##
+
+<div align="right">
+	
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+## Projetos Obrigatórios
+
+Essa seção contêm os projetos sugeridos para complementar os cursos e consolidar os conteúdos aprendidos aqui, alguns são oferecidos através dos próprios cursos, outros são projeto relevantes que achei legal para complementar.
+
+##
+
+Proposta de Projeto | Repositório, se aplicável | Status |
+:-- | :--: | :--:
+[Alfabetização em Dados – Avaliando Pesquisas](https://www.coursera.org/learn/data-literacy-capstone-evaluating-research?specialization=data-literacy) | []() | -- |
+[]() | []() | -- |
+[]() | []() | -- |
+[]() | []() | -- |
+[]() | []() | -- |
 
 ##
 
