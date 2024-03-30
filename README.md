@@ -23,7 +23,6 @@
 
 - [Sobre](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sobre)
 - [Metas de Aprendizado](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#metas-de-aprendizado)
-- [Currículo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo)
 	- [Seção 01 - Fundamentos](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-01---fundamentos)
 	- [Seção 02 - Matemática e Estatística Aplicada em Dados e Computação](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-02---matem%C3%A1tica-e-estat%C3%ADstica-aplicada-em-dados-e-computa%C3%A7%C3%A3o)
  	- [Seção 03 - Programação para Ciência de Dados](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-03---programa%C3%A7%C3%A3o-para-ci%C3%AAncia-de-dados)
@@ -126,29 +125,6 @@ Espaço para organização pessoal u.u
 
 
 ---
-
-## Currículo
-
-(づ｡◕‿‿◕｡)づ(づ｡◕‿‿◕｡)づ(*￣▽￣)b(*￣▽￣)b٩(◕‿◕｡)۶٩(◕‿◕｡)۶٩(◕‿◕｡)۶(◕‿◕✿)ヽ(^◇^*)/ヽ(^◇^*)/
-
-##
-
-<div align="right">
-	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
-
-</div>
-
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
 
 ##
 
