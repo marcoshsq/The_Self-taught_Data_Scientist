@@ -536,8 +536,9 @@ Uma seção para habilidade e conceitos relevantes que não se relacionam a part
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
+[Aprendendo a aprender](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | ~15h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/4R9C3HRVVTKQ) | ✓ |
 [Storytelling & Influência: Comunicar com Impacto](https://www.coursera.org/learn/communicate-with-impact?specialization=influencing-storytelling-change-management) | Macquarie University | ~18h | -- | -- |
-
+[Faça perguntas para tomar decisões baseadas em dados](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=influencing-storytelling-change-management) | Google  | ~21h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/JR9B6V968GHN) | ✓ |
 
 ##
 
