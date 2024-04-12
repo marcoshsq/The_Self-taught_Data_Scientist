@@ -62,7 +62,7 @@ Para construir este currículo consultei diferentes fontes que podem ser encontr
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -110,7 +110,7 @@ Mas aqui está uma lista geral de conceitos e habilidades que quero aprender ao 
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -153,7 +153,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -208,7 +208,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -300,7 +300,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -336,7 +336,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -375,7 +375,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -411,7 +411,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -448,7 +448,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -482,7 +482,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -515,7 +515,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -545,7 +545,7 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -580,7 +580,7 @@ Proposta de Projeto | Repositório, se aplicável | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -632,7 +632,7 @@ Os livros aqui não estão organizados em nenhuma ordem específica.
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
@@ -680,7 +680,7 @@ Sources consulted for the construction of this curriculum.
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#curr%C3%ADculo-autodidata-em-ci%C3%AAncia-de-dados)
+[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
 	
 </div>
 
