@@ -688,9 +688,12 @@ Sources consulted for the construction of this curriculum.
 ---
 
 <p align="center">
-
-<img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" alt="Developer Roadmap" width="" height="">
-
+	<a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
+	
+<p align="center">
+  <a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
+    <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" alt="Developer Roadmap" width="" height="">
+  </a>
 </p>
 
 ---
