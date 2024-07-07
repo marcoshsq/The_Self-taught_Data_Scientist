@@ -141,41 +141,35 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Seção 02 - Matemática e Estatística Aplicada em Dados e Computação
+### Section 02 - Mathematics and Statistics Applied in Data and Computing
 
-Matemática é a área mais importante para ciência de dados, logo, acredito que a melhor forma de aprender seja por livros ou mesmo fazendo uma graduação em estatística, ou matemática aplicada, como já sou graduado em estatística, coloquei apenas alguns cursos específicos, mas nada muito profundo, recomendo fortemente as referências bibliográficas para um estudo mais aprofundado em matemática e estatística.
+#### Mathematics 01:
 
-Essa seção possui em média 400h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
-
-##
-
-#### Matemática 01:
-
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | [Certificate of completion](https://www.coursera.org/account/accomplishments/records/TUP8FUJ52PP5) | ✓ |
-[Pensamento Matemático em Ciência da Computação](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | UC San Diego | ~41h | -- | -- |
-[Combinatória e Probabilidade](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | UC San Diego | ~23h | -- | -- |
-[Introdução à Teoria dos Grafos](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | UC San Diego | ~20h | -- | -- |
-[Teoria dos Números e Criptografia](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | UC San Diego | ~16h | -- | -- |
-[Problema de Entrega](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics) | UC San Diego | ~13h | -- | -- |
-[Álgebra Linear para Aprendizado de Máquina e Ciência de Dados](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~34h | -- | -- |
-[Cálculo para aprendizado de máquina e ciência de dados](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~25h | -- | -- |
-[Probabilidade e estatística para aprendizado de máquina e ciência de dados](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~33h | -- | -- |
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | UC San Diego | ~41h | -- | -- |
+[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | UC San Diego | ~23h | -- | -- |
+[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | UC San Diego | ~20h | -- | -- |
+[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | UC San Diego | ~16h | -- | -- |
+[Delivery Problem](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics) | UC San Diego | ~13h | -- | -- |
+[Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~34h | -- | -- |
+[Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~25h | -- | -- |
+[Probability and Statistics for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~33h | -- | -- |
 
 ##
 
-#### Matemática 02:
+#### Mathematics 02:
 
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Bioestatística 1](https://www.coursera.org/learn/biostatistics?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~13h | -- | -- | 
-[Bioestatística 2](https://www.coursera.org/learn/biostatistics-2?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~11h | -- | -- | 
-[Modelos Lineares 1: Mínimos Quadrados](https://www.coursera.org/learn/linear-models?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~08h | -- | -- |
-[Modelos Lineares 2: Modelos Estatísticos](https://www.coursera.org/learn/linear-models-2?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~05h | -- | -- |
-[Modelos Gráficos Probabilísticos 1: Representação](https://www.coursera.org/learn/probabilistic-graphical-models?specialization=probabilistic-graphical-models) | Stanford University | ~66h | -- | -- |
-[Modelos Gráficos Probabilísticos 2: Inferência](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference?specialization=probabilistic-graphical-models) | Stanford University | ~38h | -- | -- |
-[Modelos Gráficos Probabilísticos 3: Aprendizagem](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning?specialization=probabilistic-graphical-models) | Stanford University | ~66h | -- | -- |
+[Biostatistics 1](https://www.coursera.org/learn/biostatistics?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~13h | -- | -- | 
+[Biostatistics 2](https://www.coursera.org/learn/biostatistics-2?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~11h | -- | -- | 
+[Linear Models 1: Least Squares](https://www.coursera.org/learn/linear-models?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~08h | -- | -- |
+[Linear Models 2: Statistical Models](https://www.coursera.org/learn/linear-models-2?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~05h | -- | -- |
+[Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models?specialization=probabilistic-graphical-models) | Stanford University | ~66h | -- | -- |
+[Probabilistic Graphical Models 2: Inference](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference?specialization=probabilistic-graphical-models) | Stanford University | ~38h | -- | -- |
+[Probabilistic Graphical Models 3: Learning](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning?specialization=probabilistic-graphical-models) | Stanford University | ~66h | -- | -- |
 
 ##
 
@@ -197,77 +191,71 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Seção 03 - Programação para Ciência de Dados
+### Section 03 - Programming for Data Science
 
-Essa seção é focada em linguagens de programação usadas na área de dados, para isso eu selecionei 3, Python, R e Rust. As três linguagens são amplamente usadas, são padrões na indústria, possuem um monte de bibliotecas para dados, mas mais importante, quando eu pesquiso "Ciência de Dados" no LinkedIn, Python é a principal linguagem cobrada, todo curso de Estatística é dado em R, e Rust parece ser super legal de aprender... logo, essas são as linguagens que vamos aprender.
+#### Section 03-A - Python Language for Data Analysis
 
-Essa seção possui em média 900h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo, e é a parte mais longa do currículo.
+Course | Offered by | Effort of | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming) | University of Michigan | ~34h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/ZQVLDDT4KPKU) | ✓ |
+[Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming) | University of Michigan | ~31h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/2GXC4TU2AX49) | ✓ |
+[Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) | University of Michigan | ~16h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/NTDVMCYZXTC3) | ✓ |
+[Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) | University of Michigan | ~17h | -- | -- |
+[Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python) | University of Michigan | ~19h | -- | -- |
+[Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python?specialization=statistics-with-python) | University of Michigan | ~21h | -- | -- |
+[Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python) | University of Michigan | ~14h | -- | -- |
+[Introduction to Linear Algebra and Python](https://www.coursera.org/learn/linear-algebra-python-intro?specialization=linear-algebra-data-science-python) | Howard University | ~12h | -- | -- |
+[Fundamental Concepts of Linear Algebra with Python](https://www.coursera.org/learn/linear-algebra-concepts-python?specialization=linear-algebra-data-science-python) | Howard University | ~10h | -- | -- |
+[Building Regression Models with Linear Algebra](https://www.coursera.org/learn/regression-models-linear-algebra?specialization=linear-algebra-data-science-python) | Howard University | ~06h | -- | -- |
+[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | -- | -- |
+[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | ~34h | -- | -- |
+[Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | ~24h | -- | -- |
+[Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | University of Michigan | ~31h | -- | -- |
+[Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | University of Michigan | ~25h | -- | -- |
+[Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | University of Michigan | ~26h | -- | -- |
 
 ##
 
-#### Seção 03-A - Linguagem Python para Análise de Dados
+### Section 03-B - R Language for Statistical Analysis and Modeling
 
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Noções básicas de Python](https://www.coursera.org/learn/python-basics?specialization=python-3-programming) | University of Michigan | ~34h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/ZQVLDDT4KPKU) | ✓ |
-[Funções, arquivos e dicionários em Python](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming) | University of Michigan | ~31h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/2GXC4TU2AX49) | ✓ |
-[Coleta e processamento de dados com Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) | University of Michigan | ~16h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/NTDVMCYZXTC3) | ✓ |
-[Classes e Herança Python](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) | University of Michigan | ~17h | -- | -- |
-[Compreendendo e visualizando dados com Python](https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python) | University of Michigan | ~19h | -- | -- |
-[Análise Estatística Inferencial com Python](https://www.coursera.org/learn/inferential-statistical-analysis-python?specialization=statistics-with-python) | University of Michigan | ~21h | -- | -- |
-[Ajustando modelos estatísticos a dados com Python](https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python) | University of Michigan | ~14h | -- | -- |
-[Introdução à Álgebra Linear e Python](https://www.coursera.org/learn/linear-algebra-python-intro?specialization=linear-algebra-data-science-python) | Howard University | ~12h | -- | -- |
-[Conceitos fundamentais de álgebra linear com Python](https://www.coursera.org/learn/linear-algebra-concepts-python?specialization=linear-algebra-data-science-python) | Howard University | ~10h | -- | -- |
-[Construindo Modelos de Regressão com Álgebra Linear](https://www.coursera.org/learn/regression-models-linear-algebra?specialization=linear-algebra-data-science-python) | Howard University | ~06h | -- | -- |
-[Cálculo Aplicado com Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | -- | -- |
-[Introdução à ciência de dados em Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | ~34h | -- | -- |
-[Plotagem, gráficos e representação de dados aplicados em Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | ~24h | -- | -- |
-[Aprendizado de máquina aplicado em Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | University of Michigan | ~31h | -- | -- |
-[Mineração de texto aplicada em Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | University of Michigan | ~25h | -- | -- |
-[Análise Aplicada de Redes Sociais em Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | University of Michigan | ~26h | -- | -- |
+[R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science) | Johns Hopkins University | ~57h | -- | -- |
+[Advanced R Programming](https://www.coursera.org/learn/advanced-r?specialization=r) | Johns Hopkins University | ~18h | -- | -- |
+[Building R Packages](https://www.coursera.org/learn/r-packages?specialization=r) | Johns Hopkins University | ~20h | -- | -- |
+[Introduction to the Tidyverse](https://www.coursera.org/learn/tidyverse?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~07h | -- | -- |
+[Importing Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-importing-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~15h | -- | -- |
+[Data Wrangling in the Tidyverse](https://www.coursera.org/learn/tidyverse-data-wrangling?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~14h | -- | -- |
+[Visualizing Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-visualize-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~16h | -- | -- |
+[Modeling Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-modelling-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~21h | -- | -- |
+[Introduction to Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~11h | -- | -- |
+[Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~12h | -- | -- |
+[Advanced Data Visualization in R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~10h | -- | -- |
+[Publishing Visualizations in R with Shiny and flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~11h | -- | -- |
 
 ##
 
-#### Seção 03-B - Linguagem R para Análise e Modelagem Estatística
+### Section 03-C - Rust Language for Data Engineering and LLM
 
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Programação R](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science) | Johns Hopkins University | ~57h | -- | -- |
-[Programação R Avançada](https://www.coursera.org/learn/advanced-r?specialization=r) | Johns Hopkins University | ~18h | -- | -- |
-[Construindo Pacotes R](https://www.coursera.org/learn/r-packages?specialization=r) | Johns Hopkins University | ~20h | -- | -- |
-[Introdução ao Tidyverse](https://www.coursera.org/learn/tidyverse?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~07h | -- | -- |
-[Importando dados no Tidyverse](https://www.coursera.org/learn/tidyverse-importing-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~15h | -- | -- |
-[Organização de dados no Tidyverse](https://www.coursera.org/learn/tidyverse-data-wrangling?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~14h | -- | -- |
-[Visualizando dados no Tidyverse](https://www.coursera.org/learn/tidyverse-visualize-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~16h | -- | -- |
-[Modelando dados no Tidyverse](https://www.coursera.org/learn/tidyverse-modelling-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~21h | -- | -- |
-[Introdução à visualização de dados em R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~11h | -- | -- |
-[Visualização de dados em R com ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~12h | -- | -- |
-[Visualização de dados avançada com R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~10h | -- | -- |
-[Publicação de visualizações em R com Shiny e flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~11h | -- | -- |
+[Rust Fundamentals](https://www.coursera.org/learn/rust-fundamentals?specialization=rust-programming) | Duke University | ~40h | -- | -- |
+[Data Engineering with Rust](https://www.coursera.org/learn/data-engineering-rust?specialization=rust-programming) | Duke University | ~63h | -- | -- |
+[Rust for DevOps](https://www.coursera.org/learn/rust-for-devops?specialization=rust-programming) | Duke University | ~18h | -- | -- |
+[Python and Rust with Linux Command-Line Tools](https://www.coursera.org/learn/python-rust-linux?specialization=rust-programming) | Duke University | ~20h | -- | -- |
+[Rust for LLMOps](https://www.coursera.org/learn/rust-llmops?specialization=rust-programming) | Duke University | ~16h | -- | -- |
 
 ##
 
-#### Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM
+### Bonus Section - Data Structures and Algorithms
 
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Fundamentos da Rust](https://www.coursera.org/learn/rust-fundamentals?specialization=rust-programming) | Duke University | ~40h | -- | -- |
-[Engenharia de dados com Rust](https://www.coursera.org/learn/data-engineering-rust?specialization=rust-programming) | Duke University | ~63h | -- | -- |
-[Rust para DevOps](https://www.coursera.org/learn/rust-for-devops?specialization=rust-programming) | Duke University | ~18h | -- | -- |
-[Python e Rust com ferramentas de linha de comando do Linux](https://www.coursera.org/learn/python-rust-linux?specialization=rust-programming) | Duke University | ~20h | -- | -- |
-[Rust para LLMOps](https://www.coursera.org/learn/rust-llmops?specialization=rust-programming) | Duke University | ~16h | -- | -- |
-
-##
-
-#### Seção Bônus - Estruturas de dados e Algoritmos
-
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Algoritmos para pesquisa, classificação e indexação](https://www.coursera.org/learn/algorithms-searching-sorting-indexing?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~35h | -- | -- |
-[Árvores e gráficos: noções básicas](https://www.coursera.org/learn/trees-graphs-basics?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~34h | -- | -- |
-[Programação dinâmica, algoritmos gananciosos](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~37h | -- | -- |
-[Algoritmos de Aproximação e Programação Linear](https://www.coursera.org/learn/linear-programming-and-approximation-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~48h | -- | -- |
-[Estruturas de dados avançadas, algoritmos RSA e quânticos](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~37h | -- | -- |
+[Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~35h | -- | -- |
+[Trees and Graphs: Basics](https://www.coursera.org/learn/trees-graphs-basics?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~34h | -- | -- |
+[Dynamic Programming, Greedy Algorithms](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~37h | -- | -- |
+[Linear Programming and Approximation Algorithms](https://www.coursera.org/learn/linear-programming-and-approximation-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~48h | -- | -- |
+[Advanced Data Structures, RSA, and Quantum Algorithms](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~37h | -- | -- |
 
 ##
 
@@ -290,12 +278,6 @@ Espaço para organização pessoal u.u
 ##
 
 ### Seção 04 - Mineração de Dados
-
-Nessa seção eu quero aprender técnicas de mineração de dados tanto para dados estruturados, quanto para dados não estruturados que existem na forma de texto em linguagem natural. Os tópicos específicos dos cursos incluem descoberta de padrões, clustering, recuperação de texto, mineração e análise de texto e visualização de dados.
-
-Essa seção possui em média 112h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
-
-##
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -326,12 +308,6 @@ Espaço para organização pessoal u.u
 ##
 
 ### Seção 05 - Bancos de dados, SQL e Big Data
-
-Acredito que preciso descrever porque temos uma seção de SQL e Big Data... Com isso posto, aqui estão ótimos cursos que visam ensinar essas habilidades relacionadas a Banco de Dados e Big Data.
-
-Essa seção possui em média 160h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
-
-##
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -366,12 +342,6 @@ Espaço para organização pessoal u.u
 
 ### Seção 06 - Computação na Nuvem
 
-Cloud é extremamente importante em tecnologia hoje em dia, porém, esse projeto já passou por algumas iterações, e não só tecnologia evolui, como temos diversos serviços de Cloud, por isso os cursos aqui são mais teóricos do que treinamentos, acredito que aprendendo a base do que é computação em nuvem, fica muito mais fácil escolher usar Azure ou AWS.. etc.
-
-Essa seção possui em média 100h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
-
-##
-
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Conceitos de computação em nuvem, parte 1](https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing) | University of Illinois | ~23h | -- | -- |
@@ -399,12 +369,6 @@ Espaço para organização pessoal u.u
 -->
 
 ### Seção 07 - Aprendizado de Maquina
-
-Aprendemos análise de dados, Python e Big Data... agora juntamos tudo isso e aplicamos IA nisso, as próximas três seções exploram isso, começando por Machine Learning. Os cursos a seguir fornecem uma ampla introdução ao aprendizado de máquina moderno, incluindo aprendizado supervisionado (regressão linear múltipla, regressão logística, redes neurais e árvores de decisão), aprendizado não supervisionado (clustering, redução de dimensionalidade, sistemas de recomendação) e algumas das melhores práticas usadas em Silicon.
-
-Essa seção possui em média 148h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
-
-##
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -437,12 +401,6 @@ Espaço para organização pessoal u.u
 
 ### Seção 08 - Aprendizado Profundo
 
-Dando continuidade aos estudos de IA, passamos ao Deep Learning, que basicamente são técnicas mais complexas para trabalhar com dados não estruturados, como imagens. Os cursos dessa seção exploram essas técnicas e aplicações.
-
-Essa seção possui em média 127h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
-
-##
-
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Redes Neurais e Aprendizado Profundo](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | DeepLearning.AI | ~24h | -- | -- |
@@ -470,12 +428,6 @@ Espaço para organização pessoal u.u
 -->
 
 ### Seção 09 - Processamento de Linguagem Natural
-
-Finalizando os estudos (introdutórios) de IA com NLP, que é o estudo de técnicas para o reconhecimento e análise de linguagem natural, que é a forma como nós escrevemos e falamos. Essa tecnologia é uma das áreas de aprendizado de máquina mais amplamente aplicadas e é fundamental para a análise eficaz de grandes quantidades de dados não estruturados e com muito texto. À medida que a IA continua a expandir-se, também aumenta a procura por profissionais qualificados na construção de modelos que analisem a fala e a linguagem, descubram padrões contextuais e produzam insights a partir de texto e áudio. Os cursos a seguir visam ensinar a realizar isso.
-
-Essa seção possui em média 112h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
-
-##
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
