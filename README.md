@@ -7,7 +7,7 @@
     <img src="https://images.prismic.io/hiverywebsite/8225ab45-eb3f-4e22-a48f-1cbab9611f59_franki-chamaki-z4H9MYmWIMA-unsplash.jpg?auto=compress,format" alt="Developer Roadmap" width="" height="">
   </a>
 </p>
-  <h2 align="center">Currículo Autodidata em Ciência de Dados</h2>
+  <h2 align="center">Self-taught Data Science Curriculum</h2>
  <div align="center"> 
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -19,9 +19,9 @@
  
 ---
 
-## Sumário de Conteúdo
+## Content Summary
 
-- [Sobre](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sobre)
+- [Abou](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sobre)
 - [Metas de Aprendizado](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#metas-de-aprendizado)
 	- [Seção 01 - Fundamentos](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-01---fundamentos)
 	- [Seção 02 - Matemática e Estatística Aplicada em Dados e Computação](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-02---matem%C3%A1tica-e-estat%C3%ADstica-aplicada-em-dados-e-computa%C3%A7%C3%A3o)
