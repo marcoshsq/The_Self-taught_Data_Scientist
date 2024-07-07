@@ -277,15 +277,15 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Seção 04 - Mineração de Dados
+### Section 04 - Data Mining
 
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Visualização de dados](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois | ~15h | -- | -- |
-[Recuperação de texto e motores de busca](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois | ~30h | -- | -- |
-[Mineração e análise de texto](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois | ~33h | -- | -- |
-[Descoberta de padrões em mineração de dados](https://www.coursera.org/learn/data-patterns?specialization=data-mining) | University of Illinois | ~17h | -- | -- |
-[Análise de Cluster em Mineração de Dados](https://www.coursera.org/learn/cluster-analysis?specialization=data-mining) | University of Illinois | ~16h | -- | -- |
+[Data Visualization](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois | ~15h | -- | -- |
+[Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois | ~30h | -- | -- |
+[Text Mining and Analysis](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois | ~33h | -- | -- |
+[Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns?specialization=data-mining) | University of Illinois | ~17h | -- | -- |
+[Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis?specialization=data-mining) | University of Illinois | ~16h | -- | -- |
 
 ##
 
@@ -307,18 +307,18 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Seção 05 - Bancos de dados, SQL e Big Data
+### Section 05 - Databases, SQL, and Big Data
 
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Design de banco de dados relacional](https://www.coursera.org/learn/relational-database-design?specialization=databases-for-data-scientists) | University of Colorado  | ~34h | -- | -- |
-[A linguagem de consulta estruturada (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql?specialization=databases-for-data-scientists) | University of Colorado  | ~26h | -- | -- |
-[Tópicos Avançados e Tendências Futuras em Tecnologias de Banco de Dados](https://www.coursera.org/learn/advanced-topics-future-trends-database-technologies?specialization=databases-for-data-scientists) | University of Colorado  | ~16h | -- | -- |
-[Introdução ao Big Data](https://www.coursera.org/learn/big-data-introduction?specialization=big-data) | University of California | ~17h | -- | -- |
-[Modelagem de Big Data e Sistemas de Gestão](https://www.coursera.org/learn/big-data-management?specialization=big-data) | University of California | ~13h | -- | -- |
-[Integração e processamento de Big Data](https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data) | University of California | ~17h | -- | -- |
-[Aprendizado de máquina com Big Data](https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data) | University of California | ~23h | -- | -- |
-[Análise gráfica para Big Data](https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data) | University of California | ~13h | -- | -- |
+[Relational Database Design](https://www.coursera.org/learn/relational-database-design?specialization=databases-for-data-scientists) | University of Colorado | ~34h | -- | -- |
+[The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql?specialization=databases-for-data-scientists) | University of Colorado | ~26h | -- | -- |
+[Advanced Topics and Future Trends in Database Technologies](https://www.coursera.org/learn/advanced-topics-future-trends-database-technologies?specialization=databases-for-data-scientists) | University of Colorado | ~16h | -- | -- |
+[Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction?specialization=big-data) | University of California | ~17h | -- | -- |
+[Big Data Modeling and Management Systems](https://www.coursera.org/learn/big-data-management?specialization=big-data) | University of California | ~13h | -- | -- |
+[Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data) | University of California | ~17h | -- | -- |
+[Machine Learning with Big Data](https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data) | University of California | ~23h | -- | -- |
+[Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data) | University of California | ~13h | -- | -- |
 
 ##
 
@@ -340,15 +340,15 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Seção 06 - Computação na Nuvem
+### Section 06 - Cloud Computing
 
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Conceitos de computação em nuvem, parte 1](https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing) | University of Illinois | ~23h | -- | -- |
-[Conceitos de computação em nuvem: parte 2](https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing) | University of Illinois | ~19h | -- | -- |
-[Sistemas e infraestrutura em nuvem](https://www.coursera.org/learn/cloud-applications-part1?specialization=cloud-computing) | University of Illinois | ~15h | -- | -- |
-[Big Data e aplicações na nuvem](https://www.coursera.org/learn/cloud-applications-part2?specialization=cloud-computing) | University of Illinois | ~19h | -- | -- |
-[Rede em nuvem](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois | ~22h | -- | -- |
+[Cloud Computing Concepts, Part 1](https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing) | University of Illinois | ~23h | -- | -- |
+[Cloud Computing Concepts, Part 2](https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing) | University of Illinois | ~19h | -- | -- |
+[Cloud Systems and Infrastructure](https://www.coursera.org/learn/cloud-applications-part1?specialization=cloud-computing) | University of Illinois | ~15h | -- | -- |
+[Big Data and Cloud Computing Applications](https://www.coursera.org/learn/cloud-applications-part2?specialization=cloud-computing) | University of Illinois | ~19h | -- | -- |
+[Cloud Networking](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois | ~22h | -- | -- |
 
 ##
 
@@ -368,18 +368,17 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Seção 07 - Aprendizado de Maquina
+### Section 07 - Machine Learning
 
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Aprendizado de Máquina Supervisionado: Regressão e Classificação](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~33h | -- | -- |
-[Algoritmos de Aprendizagem Avançada](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction) | DeepLearning.AI | ~34h | -- | -- |
-[Aprendizagem não Supervisionada, Recomendações, Aprendizagem por Reforço](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~37h | -- | -- |
-[Introdução ao TensorFlow](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~17h | -- | -- |
-[Redes Neurais Convolucionais no TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~16h | -- | -- |
-[Processamento de linguagem natural no TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~24h | -- | -- |
-[Sequências, Séries Temporais e Previsão](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice) | DeepLearning.AI | ~22h | -- | -- |
-
+[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~33h | -- | -- |
+[Advanced Machine Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction) | DeepLearning.AI | ~34h | -- | -- |
+[Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~37h | -- | -- |
+[Introduction to TensorFlow](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~17h | -- | -- |
+[Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~16h | -- | -- |
+[Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~24h | -- | -- |
+[Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice) | DeepLearning.AI | ~22h | -- | -- |
 
 ##
 
@@ -399,15 +398,15 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Seção 08 - Aprendizado Profundo
+### Section 08 - Deep Learning
 
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Redes Neurais e Aprendizado Profundo](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | DeepLearning.AI | ~24h | -- | -- |
-[Melhorando Redes Neurais Profundas](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | DeepLearning.AI | ~23h | -- | -- |
-[Estruturação de Projetos de Aprendizado de Máquina](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) | DeepLearning.AI | ~06h | -- | -- |
-[Redes Neurais Convolucionais](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) | DeepLearning.AI | ~35h | -- | -- |
-[Modelos de sequência](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning) | DeepLearning.AI | ~37h | -- | -- |
+[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | DeepLearning.AI | ~24h | -- | -- |
+[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | DeepLearning.AI | ~23h | -- | -- |
+[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) | DeepLearning.AI | ~06h | -- | -- |
+[Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) | DeepLearning.AI | ~35h | -- | -- |
+[Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning) | DeepLearning.AI | ~37h | -- | -- |
 
 ##
 
@@ -427,14 +426,14 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Seção 09 - Processamento de Linguagem Natural
+### Section 09 - Natural Language Processing
 
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[NLP com classificação e espaços vetoriais](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~33h | -- | -- |
-[NLP com Modelos Probabilísticos](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~30h | -- | -- |
-[NLP com modelos de sequência](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~21h | -- | -- |
-[NLP com modelos de atenção](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~26h | -- | -- |
+[NLP with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~33h | -- | -- |
+[NLP with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~30h | -- | -- |
+[NLP with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~21h | -- | -- |
+[NLP with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~26h | -- | -- |
 
 ##
 
@@ -454,17 +453,13 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Seção 10 - Soft Skills
+### Section 10 - Soft Skills
 
-Uma seção para habilidade e conceitos relevantes que não se relacionam a parte técnica e teórica, mas ainda sim, são extremamente relevantes para um profissional de Data Science.
-
-##
-
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Aprendendo a aprender](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | ~15h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/4R9C3HRVVTKQ) | ✓ |
-[Storytelling & Influência: Comunicar com Impacto](https://www.coursera.org/learn/communicate-with-impact?specialization=influencing-storytelling-change-management) | Macquarie University | ~18h | -- | -- |
-[Faça perguntas para tomar decisões baseadas em dados](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=influencing-storytelling-change-management) | Google  | ~21h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/JR9B6V968GHN) | ✓ |
+[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | ~15h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/4R9C3HRVVTKQ) | ✓ |
+[Storytelling & Influence: Communicating with Impact](https://www.coursera.org/learn/communicate-with-impact?specialization=influencing-storytelling-change-management) | Macquarie University | ~18h | -- | -- |
+[Ask Questions to Make Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=influencing-storytelling-change-management) | Google  | ~21h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/JR9B6V968GHN) | ✓ |
 
 ##
 
@@ -484,40 +479,38 @@ Espaço para organização pessoal u.u
 
 -->
 
-## Bibliografía Extra
+## Extra Bibliography
 
-Além dos cursos deste currículo (eu particularmente prefiro vídeos do que livros), foram utilizados outros materiais como artigos e livros, que são referenciados nesta seção.
+### Mathematics Books
 
-Os livros aqui não estão organizados em nenhuma ordem específica.
+- [Discrete Mathematics: Foundations](https://shre.ink/l0s) - David J. Hunter
+- [Concrete Mathematics: A Foundation for Computer Science](https://shre.ink/lDJ) - Ronald Graham
+- [Pre-Calculus](https://shre.ink/lD0) - Valéria Zuma Medeiros
+- [Calculus I](https://shre.ink/l0d) - James Stewart
+- [Calculus II](https://shre.ink/lD4) - James Stewart
+- [Numerical Calculus: Theoretical and Computational Aspects](https://shre.ink/lDN) - Marcia Gomes
+- [Elementary Linear Algebra](https://shre.ink/lDO) - Howard Anton
+- [Analytical Geometry: A Vector Treatment](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx2ZXRvcmVzZ2FtYXJjb3N8Z3g6NjAzODc4NTdjZGEwY2ZiOA) - Ivan De Camargo
+- [Introduction to Statistical Theory](https://shre.ink/lDZ) - Alexander Mood
+- [Matrix Algebra Useful for Statistics](https://shre.ink/lDG) - Andre I Khuri
+- [The Elements of Statistical Learning](https://shre.ink/lDR) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
+- [Introduction to Linear Regression Analysis](https://shre.ink/lDF) - Douglas C Montgomery
+- [Bayesian Statistics](https://shre.ink/lDX) - Peter M. Lee
+- [Monte Carlo Markov Chain: Stochastic Simulation for Bayesian Inference](https://shre.ink/lDv) - Dani Gamerman
+- [Applied Nonparametric Statistical Methods](https://shre.ink/lDu) - Nigel C Smeeton
+- [Interpreting Regression Models Based on Computational Intelligence](https://shre.ink/lD3) - János Abonyi
+- [Regression Models with Computational Support](https://www.ime.usp.br/~giapaula/texto_2013.pdf) - Gilberto A. Paula
+- [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 
-### Livros de Matemática
-
-- [Fundamentos de Matemática Discreta](https://shre.ink/l0s) - David J. Hunter
-- [Matemática Concreta: Uma Fundação para a Ciência da Computação](https://shre.ink/lDJ) - Ronald Graham
-- [Pré-Cálculo](https://shre.ink/lD0) - Valéria Zuma Medeiros
-- [Cálculo I](https://shre.ink/l0d) - James Stweart
-- [Cálculo II](https://shre.ink/lD4) - James Stweart
-- [Cálculo Numérico: Aspectos Teóricos e Computacionais](https://shre.ink/lDN) - Marcia Gomes
-- [Álgebra Linear Elementar](https://shre.ink/lDO) - Howard Anton
-- [Geometria Analítica: Um Tratamento Vetorial](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx2ZXRvcmVzZ2FtYXJjb3N8Z3g6NjAzODc4NTdjZGEwY2ZiOA) - Ivan De Camargo
-- [Introdução à Teoria da Estatística](https://shre.ink/lDZ) - Alexander Mood
-- [Álgebra Matricial Útil para Estatística](https://shre.ink/lDG) - Andre I Khuri
-- [Os elementos da aprendizagem estatística](https://shre.ink/lDR) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- [Introdução à Análise de Regressão Linear](https://shre.ink/lDF) - Douglas C Montgomery
-- [Estatísticas Bayesianas](https://shre.ink/lDX) - Peter M. Lee
-- [Cadeia de Markov Monte Carlo: Simulação Estocástica para Inferência Bayesiana](https://shre.ink/lDv) - Dani Gamerman
-- [Métodos Estatísticos Não Paramétricos Aplicados](https://shre.ink/lDu) - Nigel C Smeeton
-- [Interpretabilidade de modelos de regressão baseados em inteligência computacional](https://shre.ink/lD3) - János Abonyi
-- [Modelos de Regrassão com Apoio Computacional](https://www.ime.usp.br/~giapaula/texto_2013.pdf) - Gilberto A. Paula
-- [Uma introdução ao aprendizado estatístico com aplicações em R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
-
-### Livros, artigos e documentação relacionada
+### Books, Articles, and Related Documentation
 
 - [SQL for Smarties: Advanced SQL Programming](https://shre.ink/lD9) - Joe Celko
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap of DL Papers
 - [Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/?coliid=I1DADMS27UAR9G&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Stuart J. Russell
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
 
+These resources cover a wide range of topics from foundational mathematics and statistical theory to advanced machine learning and artificial intelligence.
+
 ##
 
 <div align="right">
@@ -538,13 +531,13 @@ Espaço para organização pessoal u.u
 
 -->
 
-## Notas e Esclarecimentos
+## Notes and Clarifications
 
-* A duração dos cursos aqui são estimativas feitas pelas plataformas onde são oferecidos.
-  
-* No momento estou fazendo essa graduação, então o tempo verbal desse ``readme`` está um pouco estranho, às vezes no passado, às vezes no futuro, conforme eu fizer isso irei reformatá-lo para melhor relatar minha experiência .
-  
-* Quanto aos livros, minha universidade tem parceria com algumas plataformas, como a O'Reilly, além de uma biblioteca muito grande, onde consegui quase todos, mas se você não tiver acesso... cof cof... tenta ver se eles caem do caminhão... cof cof..., mas se der pra comprar, comprem... cof cof..
+* The duration of the courses listed here are estimates provided by the platforms where they are offered.
+
+* At the moment, I am working on this graduation, so the tense of this `readme` is a bit strange, sometimes in the past, sometimes in the future. As I work on it, I will reformat it to better reflect my experience.
+
+* Regarding the books, my university has partnerships with some platforms like O'Reilly, in addition to a very large library where I managed to find almost all of them. But if you don't have access... ahem... try to see if they fall off the truck... ahem... but if you can buy them, please do.
 
 <!-- 
 
@@ -556,15 +549,19 @@ Espaço para organização pessoal u.u
 
 -->
 
-## Referências
+## References
 
 Sources consulted for the construction of this curriculum.
 
-- [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - A OSSU é uma galera que oferece faculdades para graduação em tech de graça, eles tem uma galera especialista que monta os currículos e coloca os links de onde você consegue estudar aqueles temas de graça, é uma faculdade EAD de graça, que você estuda no seu tempo, é basicamente isso aqui, só que esse repositório é mais personalizado, mas recomendo muito a OSSU, e qualquer um que tente democratizar a educação.
-- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - Novamente, um roteiro para se tornar um especialista em IA, por uma galera que entende de IA.
-- [Python Developer](https://roadmap.sh/python) - O Roadmap SH é uma plataforma que oferece trilhas de aprendizagem em diversas áreas e ferramentas de tecnologia. Esse link é para o roadmap de Python, mas eles tem muitos outros.
-- [PostgreSQL](https://roadmap.sh/postgresql-dba) - Roadmap de PostgreSQL para DBA do Roadmap SH.
-- [Curso de Estatística da USP](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - Bacharel em Estatística pela Universidade de São Paulo, que utilizei para guiar alguns dos cursos que escolhi aqui, mas principalmente para escolher os livros.
+- [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - OSSU offers a free, open-source curriculum in data science, perfect for those looking to study technology in a self-paced and flexible manner. I highly recommend OSSU and any initiative that aims to democratize education.
+
+- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - A detailed roadmap to becoming an AI expert, developed by specialists in the field.
+
+- [Python Developer](https://roadmap.sh/python) - Roadmap SH provides comprehensive learning paths across various technology areas and tools. This link directs to the Python roadmap, but they offer many other paths.
+
+- [PostgreSQL](https://roadmap.sh/postgresql-dba) - PostgreSQL Database Administrator roadmap, also from Roadmap SH, outlining a specific learning path for professionals in the field.
+
+- [USP Statistics Course](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - Curriculum for the Bachelor's Degree in Statistics at the University of São Paulo, used to guide the selection of courses and books in this list.
 
 ##
 
