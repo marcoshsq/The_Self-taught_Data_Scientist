@@ -22,8 +22,7 @@
 ## Content Summary
 
 - [About](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sobre)
-- [Metas de Aprendizado](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#metas-de-aprendizado)
-	- [Seção 01 - Fundamentos](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-01---fundamentos)
+	- [Section 01 - Fundamentals](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-01---fundamentos)
 	- [Seção 02 - Matemática e Estatística Aplicada em Dados e Computação](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-02---matem%C3%A1tica-e-estat%C3%ADstica-aplicada-em-dados-e-computa%C3%A7%C3%A3o)
  	- [Seção 03 - Programação para Ciência de Dados](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-03---programa%C3%A7%C3%A3o-para-ci%C3%AAncia-de-dados)
 	- [Seção 03-A - Linguagem Python para Análise de Dados](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-03-a---linguagem-python-para-an%C3%A1lise-de-dados)
@@ -48,64 +47,41 @@
 
 <!--Seção sobre.-->
 
-## Sobre
+## About
 
-Bem-vindo a esse Currículo de Formação Autodidata em Dados, uma lista de cursos gratuitos de universidades renomadas como Stanford, Johns Hopkins e Colorado e outras. 
+My intention in creating this project was to learn data science for free, especially when I realized that there is a lot of good and free content available on the internet. Therefore, I did my research and organized it in the most coherent way I found.
 
-Minha intenção ao criar esse projeto era aprender ciência de dados de 
- forma gratuita, principalmente quando vi que existe muito conteúdo gratuito e bom na internet, por isso fiz minha pesquisa e organizei da forma mais coerente que encontrei.
+Initially, I created this guide for myself, but if you want to use it too, just clone it and take the courses listed here if they make sense for you ;)
 
-Inicialmente eu criei esse guia para mim, mas se quiser usar também é só clonar e fazer os cursos que estão aqui presentes, caso faça sentido pra você ;)
+To build this curriculum, I consulted various sources that can be found in the "References" section at the end of this "README."
 
-Para construir este currículo consultei diferentes fontes que podem ser encontradas na seção ``Referências`` no final deste ``README``.
+### Learning Goals
 
-##
+My main focus is to learn the content following this [roadmap here](https://i.am.ai/roadmap/), created by the AI Expert team.
 
-<div align="right">
-	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
-	
-</div>
+But here is a general list of concepts and skills I want to learn by the end of this "course":
 
-<!-- 
+1. Proficiency in Programming:
 
+    - Python is the main language for data manipulation and model implementation, as well as the primary tool for artificial intelligence. Therefore, it is the most explored language in this curriculum.
 
+    - Proficiency in R for statistical analysis, visualization, and exploration of statistical data.
 
-Espaço para organização pessoal u.u
+    - Rust is a language widely used for data engineering and AI model implementation, enough said.
 
+2. Databases, Business Intelligence, and Data Warehousing:
 
+    - Knowledge of database management systems, with an emphasis on relational and non-relational databases.
 
--->
+    - Proficiency in Business Intelligence (BI) tools for data analysis and decision-making.
 
----
+    - Understanding the intricacies of Data Warehousing to ensure efficient storage and retrieval of large datasets.
 
-## Metas de Aprendizado
+3. Artificial Intelligence:
 
-Meu foco principal é aprender o conteúdo seguindo este [roteiro aqui](https://i.am.ai/roadmap/), criado pelo pessoal da AI Expert.
+    - Understanding the development and application of machine learning algorithms for predictive modeling and pattern recognition.
 
-Mas aqui está uma lista geral de conceitos e habilidades que quero aprender ao final deste "curso":
-
-1. Proficiência em Programação:
-
-	- Python é a principal linguagem para manipulação e implementação de modelos de dados, além de ser a principal ferramenta de inteligência artificial, sendo assim, é a linguagem mais explorada neste currículo.
-
-	- Proficiência em R para análise estatística, visualização e exploração de dados estatísticos.
-
-	- Rust é uma linguagem muito usada para engenharia de dados e implementação de modelos de IA, não preciso dizer mais nada.
-
-2. Bancos de dados, Business Intelligence e Data Warehousing:
-
-	- Conhecimento de sistemas de gerenciamento de banco de dados, com ênfase em bancos de dados relacionais e não relacionais.
-
-	- Proficiência em ferramentas de Business Intelligence (BI) para análise de dados e tomada de decisões.
-
-	- Compreender os meandros do Data Warehousing para garantir armazenamento e recuperação eficientes de grandes conjuntos de dados.
-
-3. Inteligência Artificial:
-
-	- Compreensão do desenvolvimento e aplicação de algoritmos de aprendizado de máquina para modelagem preditiva e reconhecimento de padrões.
-
-	- Deep Learning: Aprofundando-se nas redes neurais, explorando arquiteturas e frameworks como TensorFlow e PyTorch.
+    - Deep Learning: Diving into neural networks, exploring architectures and frameworks such as TensorFlow and PyTorch.
 
 ##
 
@@ -130,25 +106,19 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Seção 01 - Fundamentos
+### Section 01 - Fundamentals
 
-Nesta seção, o objetivo é aprender o básico sobre dados, mas, mais importante, tornar-se "alfabetizado" em dados, entendendo como é possível transformar dados em informação. 
-
-Essa seção possui em média 128h de conteúdo, sem considerar o tempo para resolução de exercícios e assimilação do conteúdo.
-
-##
-
-Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
+Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Dados – O Que São, O Que Podemos Fazer Com Eles](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
-[Medição – Transformando Conceitos em Dados](https://www.coursera.org/learn/measurement-turning-concepts-data?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
-[Quantificando Relações com Modelos de Regressão](https://www.coursera.org/learn/quantifying-relationships-regression-models?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
-[Quais são as chances? Probabilidade e Incerteza na Estatística](https://www.coursera.org/learn/chances-probability-uncertainty-statistics?specialization=data-literacy) | Johns Hopkins University | ~10h | -- | -- |
-[Ciência de Dados como Campo](https://www.coursera.org/learn/data-science-as-a-field?specialization=vital-skills-for-data-science) | University of Colorado | ~10h | -- | -- |
-[A Caixa de Ferramentas do Cientista de Dados](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
-[Questões Éticas em Ciência de Dados](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~23h | -- | -- |
-[Cibersegurança para Ciência de Dados](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~19h | -- | -- |
-[Fundamentos da Visualização de Dados](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) | University of Colorado | ~14h | -- | -- |
+[Data – What It Is, What We Can Do With It](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
+[Measurement – Turning Concepts Into Data](https://www.coursera.org/learn/measurement-turning-concepts-data?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
+[Quantifying Relationships with Regression Models](https://www.coursera.org/learn/quantifying-relationships-regression-models?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
+[What Are the Chances? Probability and Uncertainty in Statistics](https://www.coursera.org/learn/chances-probability-uncertainty-statistics?specialization=data-literacy) | Johns Hopkins University | ~10h | -- | -- |
+[Data Science as a Field](https://www.coursera.org/learn/data-science-as-a-field?specialization=vital-skills-for-data-science) | University of Colorado | ~10h | -- | -- |
+[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
+[Ethical Issues in Data Science](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~23h | -- | -- |
+[Cybersecurity for Data Science](https://www.coursera.org/learn/cybersecurity-for-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~19h | -- | -- |
+[Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization?specialization=vital-skills-for-data-science) | University of Colorado | ~14h | -- | -- |
 
 ##
 
