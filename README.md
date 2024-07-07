@@ -182,6 +182,7 @@ Essa seção possui em média 400h de conteúdo, sem considerar o tempo para res
 
 Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 :-- | :--: | :--: | :--: | :--: |
+[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | [Certificate of completion](https://www.coursera.org/account/accomplishments/records/TUP8FUJ52PP5) | ✓ |
 [Pensamento Matemático em Ciência da Computação](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | UC San Diego | ~41h | -- | -- |
 [Combinatória e Probabilidade](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | UC San Diego | ~23h | -- | -- |
 [Introdução à Teoria dos Grafos](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | UC San Diego | ~20h | -- | -- |
