@@ -21,27 +21,28 @@
 
 ## Content Summary
 
-- [About](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sobre)
-	- [Section 01 - Fundamentals](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-01---fundamentos)
-	- [Seção 02 - Matemática e Estatística Aplicada em Dados e Computação](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-02---matem%C3%A1tica-e-estat%C3%ADstica-aplicada-em-dados-e-computa%C3%A7%C3%A3o)
- 	- [Seção 03 - Programação para Ciência de Dados](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-03---programa%C3%A7%C3%A3o-para-ci%C3%AAncia-de-dados)
-	- [Seção 03-A - Linguagem Python para Análise de Dados](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-03-a---linguagem-python-para-an%C3%A1lise-de-dados)
- 	- [Seção 03-B - Linguagem R para Análise e Modelagem Estatística](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-03-b---linguagem-r-para-an%C3%A1lise-e-modelagem-estat%C3%ADstica)
-  	- [Seção 03-C - Linguagem Rust para Engenharia de Dados e LLM](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-03-c---linguagem-rust-para-engenharia-de-dados-e-llm)
-  	- [Seção Bônus - Estruturas de dados e Algoritmos](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-b%C3%B4nus---estruturas-de-dados-e-algoritmos)
-  	- [Seção 04 - Mineração de Dados](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-04---minera%C3%A7%C3%A3o-de-dados)
-	- [Seção 05 - Bancos de dados, SQL e Big Data](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-05---bancos-de-dados-sql-e-big-data)
-	- [Seção 06 - Computação na Nuvem](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-06---computa%C3%A7%C3%A3o-na-nuvem)
- 	- [Seção 07 - Aprendizado de Maquina](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-07---aprendizado-de-maquina)
-  	- [Seção 08 - Aprendizado Profundo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-08---aprendizado-profundo)
-  	- [Seção 09 - Processamento de Linguagem Natural](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-09---processamento-de-linguagem-natural)
-  	- [Seção 10 - Soft Skills](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-10---soft-skills)
-- [Projetos Obrigatórios](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#projetos-obrigat%C3%B3rios)
-- [Bibliografia Extra](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#bibliograf%C3%ADa-extra)
-	- [Matemática](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#livros-de-matem%C3%A1tica)
-	- [Livros, artigos e documentação relacionada](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#livros-artigos-e-documenta%C3%A7%C3%A3o-relacionada)
-- [Notas e Esclarecimentos](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#notas-e-esclarecimentos)
-- [Referências](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#refer%C3%AAncias)
+Aqui está a tradução para o inglês:
+
+- [About]()
+    - [Section 01 - Fundamentals]()
+    - [Section 02 - Mathematics and Statistics Applied in Data and Computing]()
+    - [Section 03 - Programming for Data Science]()
+    - [Section 03-A - Python for Data Analysis]()
+    - [Section 03-B - R for Statistical Analysis and Modeling]()
+    - [Section 03-C - Rust for Data Engineering and LLM]()
+    - [Bonus Section - Data Structures and Algorithms]()
+    - [Section 04 - Data Mining]()
+    - [Section 05 - Databases, SQL, and Big Data]()
+    - [Section 06 - Cloud Computing]()
+    - [Section 07 - Machine Learning]()
+    - [Section 08 - Deep Learning]()
+    - [Section 09 - Natural Language Processing]()
+    - [Section 10 - Soft Skills]()
+- [Extra Bibliography]()
+    - [Mathematics]()
+    - [Books, Articles, and Related Documentation]()
+- [Notes and Clarifications]()
+- [References]()
 
 ---
 
@@ -512,41 +513,6 @@ Curso | Oferecido por | Esforço de | Certificado, se aplicável | Status |
 [Aprendendo a aprender](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | ~15h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/4R9C3HRVVTKQ) | ✓ |
 [Storytelling & Influência: Comunicar com Impacto](https://www.coursera.org/learn/communicate-with-impact?specialization=influencing-storytelling-change-management) | Macquarie University | ~18h | -- | -- |
 [Faça perguntas para tomar decisões baseadas em dados](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=influencing-storytelling-change-management) | Google  | ~21h | [Certificado de Conclusão](https://www.coursera.org/account/accomplishments/verify/JR9B6V968GHN) | ✓ |
-
-##
-
-<div align="right">
-	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
-	
-</div>
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
-
-## Projetos Obrigatórios
-
-Essa seção contêm os projetos sugeridos para complementar os cursos e consolidar os conteúdos aprendidos aqui, alguns são oferecidos através dos próprios cursos, outros são projeto relevantes que achei legal para complementar.
-
-##
-
-Proposta de Projeto | Repositório, se aplicável | Status |
-:-- | :--: | :--:
-[Alfabetização em Dados – Avaliando Pesquisas](https://www.coursera.org/learn/data-literacy-capstone-evaluating-research?specialization=data-literacy) | []() | -- |
-[Projeto Python: Pillow, Tesseract e OpenCV](https://www.coursera.org/learn/python-project?specialization=python-3-programming) | []() | -- |
-[Dominando o desenvolvimento de software em R](https://www.coursera.org/learn/r-capstone?specialization=r) | []() | -- |
-[Projeto de Visualização de Dados](https://www.coursera.org/learn/data-visualization-capstone?specialization=jhu-data-visualization-dashboarding-with-r) | []() | -- |
-[Projeto de Mineração de Dados](https://www.coursera.org/learn/data-mining-project?specialization=data-mining) | []() | -- |
-[Projeto de Big Data](https://www.coursera.org/learn/big-data-project?specialization=big-data) | []() | -- |
-[Projeto de Computação em Nuvem](https://www.coursera.org/learn/cloud-computing-project?specialization=cloud-computing) | []() | -- |
-[Projeto de Aprendizado de Maquina](https://www.coursera.org/learn/machine-learning-capstone) | []() | -- |
 
 ##
 
