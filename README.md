@@ -21,8 +21,6 @@
 
 ## Content Summary
 
-Aqui está a tradução para o inglês:
-
 - [About]()
     - [Section 01 - Fundamentals]()
     - [Section 02 - Mathematics and Statistics Applied in Data and Computing]()
@@ -45,8 +43,6 @@ Aqui está a tradução para o inglês:
 - [References]()
 
 ---
-
-<!--Seção sobre.-->
 
 ## About
 
@@ -88,7 +84,7 @@ But here is a general list of concepts and skills I want to learn by the end of 
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
