@@ -121,7 +121,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -171,7 +171,7 @@ Course | Offered by | Effort of | Certificate, if applicable | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -257,7 +257,7 @@ Course | Offered by | Effort of | Certificate, if applicable | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -287,7 +287,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -320,7 +320,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -350,7 +350,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -380,7 +380,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -408,7 +408,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -435,7 +435,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -461,7 +461,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -511,7 +511,7 @@ These resources cover a wide range of topics from foundational mathematics and s
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
@@ -563,7 +563,7 @@ Sources consulted for the construction of this curriculum.
 
 <div align="right">
 	
-[Voltar ao topo](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sum%C3%A1rio-de-conte%C3%BAdo)
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
