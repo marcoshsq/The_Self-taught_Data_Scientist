@@ -21,7 +21,7 @@
 
 ## Content Summary
 
-- [Abou](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sobre)
+- [About](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#sobre)
 - [Metas de Aprendizado](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#metas-de-aprendizado)
 	- [Seção 01 - Fundamentos](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-01---fundamentos)
 	- [Seção 02 - Matemática e Estatística Aplicada em Dados e Computação](https://github.com/marcoshsq/Curriculo_Autodidata_Dados#se%C3%A7%C3%A3o-02---matem%C3%A1tica-e-estat%C3%ADstica-aplicada-em-dados-e-computa%C3%A7%C3%A3o)
