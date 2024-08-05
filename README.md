@@ -454,7 +454,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | ~15h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/4R9C3HRVVTKQ) | ✓ |
 [Storytelling & Influence: Communicating with Impact](https://www.coursera.org/learn/communicate-with-impact?specialization=influencing-storytelling-change-management) | Macquarie University | ~18h | -- | -- |
-[Ask Questions to Make Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=influencing-storytelling-change-management) | Google  | ~21h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/JR9B6V968GHN) | ✓ |
+[Ask Questions to Make Data-driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=influencing-storytelling-change-management) | Google  | ~21h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/JR9B6V968GHN) | ✓ |
 
 ##
 
