@@ -108,9 +108,6 @@ Espaço para organização pessoal u.u
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Data – What It Is, What We Can Do With It](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/XAV9MTSMSAWK) | ✓ |
-[Measurement – Turning Concepts Into Data](https://www.coursera.org/learn/measurement-turning-concepts-data?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
-[Quantifying Relationships with Regression Models](https://www.coursera.org/learn/quantifying-relationships-regression-models?specialization=data-literacy) | Johns Hopkins University | ~11h | -- | -- |
-[What Are the Chances? Probability and Uncertainty in Statistics](https://www.coursera.org/learn/chances-probability-uncertainty-statistics?specialization=data-literacy) | Johns Hopkins University | ~10h | -- | -- |
 [Data Science as a Field](https://www.coursera.org/learn/data-science-as-a-field?specialization=vital-skills-for-data-science) | University of Colorado | ~10h | -- | -- |
 [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
 [Ethical Issues in Data Science](https://www.coursera.org/learn/ethical-issues-data-science?specialization=vital-skills-for-data-science) | University of Colorado | ~23h | -- | -- |
