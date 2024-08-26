@@ -179,10 +179,6 @@ Course | Offered by | Effort of | Certificate, if applicable | Status |
 [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python) | University of Michigan | ~19h | -- | -- |
 [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python?specialization=statistics-with-python) | University of Michigan | ~21h | -- | -- |
 [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python) | University of Michigan | ~14h | -- | -- |
-[Introduction to Linear Algebra and Python](https://www.coursera.org/learn/linear-algebra-python-intro?specialization=linear-algebra-data-science-python) | Howard University | ~12h | -- | -- |
-[Fundamental Concepts of Linear Algebra with Python](https://www.coursera.org/learn/linear-algebra-concepts-python?specialization=linear-algebra-data-science-python) | Howard University | ~10h | -- | -- |
-[Building Regression Models with Linear Algebra](https://www.coursera.org/learn/regression-models-linear-algebra?specialization=linear-algebra-data-science-python) | Howard University | ~06h | -- | -- |
-[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Johns Hopkins University | ~23h | -- | -- |
 [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | ~34h | -- | -- |
 [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | ~24h | -- | -- |
 [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | University of Michigan | ~31h | -- | -- |
@@ -198,11 +194,6 @@ Course | Offered by | Effort of | Certificate, if applicable | Status |
 [R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science) | Johns Hopkins University | ~57h | -- | -- |
 [Advanced R Programming](https://www.coursera.org/learn/advanced-r?specialization=r) | Johns Hopkins University | ~18h | -- | -- |
 [Building R Packages](https://www.coursera.org/learn/r-packages?specialization=r) | Johns Hopkins University | ~20h | -- | -- |
-[Introduction to the Tidyverse](https://www.coursera.org/learn/tidyverse?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~07h | -- | -- |
-[Importing Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-importing-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~15h | -- | -- |
-[Data Wrangling in the Tidyverse](https://www.coursera.org/learn/tidyverse-data-wrangling?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~14h | -- | -- |
-[Visualizing Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-visualize-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~16h | -- | -- |
-[Modeling Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-modelling-data?specialization=tidyverse-data-science-r) | Johns Hopkins University | ~21h | -- | -- |
 [Introduction to Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~11h | -- | -- |
 [Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~12h | -- | -- |
 [Advanced Data Visualization in R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~10h | -- | -- |
