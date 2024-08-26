@@ -149,20 +149,6 @@ Course | Offered by | Effort of | Certificate, if applicable | Status |
 
 ##
 
-#### Mathematics 02:
-
-Course | Offered by | Effort of | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Biostatistics 1](https://www.coursera.org/learn/biostatistics?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~13h | -- | -- | 
-[Biostatistics 2](https://www.coursera.org/learn/biostatistics-2?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~11h | -- | -- | 
-[Linear Models 1: Least Squares](https://www.coursera.org/learn/linear-models?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~08h | -- | -- |
-[Linear Models 2: Statistical Models](https://www.coursera.org/learn/linear-models-2?specialization=advanced-statistics-data-science) | Johns Hopkins University | ~05h | -- | -- |
-[Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models?specialization=probabilistic-graphical-models) | Stanford University | ~66h | -- | -- |
-[Probabilistic Graphical Models 2: Inference](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference?specialization=probabilistic-graphical-models) | Stanford University | ~38h | -- | -- |
-[Probabilistic Graphical Models 3: Learning](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning?specialization=probabilistic-graphical-models) | Stanford University | ~66h | -- | -- |
-
-##
-
 <div align="right">
 	
 [To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
