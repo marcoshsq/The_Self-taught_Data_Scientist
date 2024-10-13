@@ -44,13 +44,7 @@
 
 ---
 
-## About
-
-Aqui está uma versão aprimorada da descrição para o seu projeto "Self-taught Data Science Curriculum" no GitHub. Ela inclui detalhes técnicos e destaca seu propósito de autodidatismo e compartilhamento de conhecimento.
-
----
-
-## Overview
+## Overview/About
 
 The **Self-taught Data Science Curriculum** is a learning guide I developed to master data science concepts and skills for free. Upon realizing the vast amount of high-quality, free resources available online, I decided to compile and organize them into a coherent roadmap. This project is not only my personal journey into data science but also a guide for anyone who wishes to follow a similar path.
 
