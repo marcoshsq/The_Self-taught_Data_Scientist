@@ -129,8 +129,6 @@ Espaço para organização pessoal u.u
 
 ### Section 02 - Mathematics and Statistics Applied in Data and Computing (~92h)
 
-#### Mathematics 01:
-
 Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~34h | -- | -- |
