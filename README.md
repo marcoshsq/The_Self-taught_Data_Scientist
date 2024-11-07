@@ -32,7 +32,6 @@
     - [Section 06 - Big Data]()
     - [Section 07 - Machine Learning]()
     - [Section 08 - Deep Learning]()
-    - [Section 09 - Natural Language Processing]()
 - [Extra Bibliography]()
     - [Mathematics]()
     - [Books, Articles, and Related Documentation]()
@@ -55,9 +54,8 @@ The main objective is to follow a structured learning path inspired by the roadm
    - **Python**: The primary language for data manipulation, machine learning, and AI model development. Python will be heavily explored due to its versatility and wide adoption in data science.
    - **R**: A powerful language for statistical analysis, data visualization, and in-depth exploration of statistical data.
      
-### 2. **Databases, Business Intelligence, and Data Warehousing**
+### 2. **Databases, Big Data, and Data Warehousing**
    - **Databases**: Focus on both relational (SQL) and non-relational (NoSQL) database systems for effective data management and retrieval.
-   - **Business Intelligence (BI)**: Mastery of BI tools for data-driven decision-making and insights generation.
    - **Data Warehousing**: Understanding the design and implementation of data warehouses for efficient storage and management of large datasets.
 
 ### 3. **Artificial Intelligence and Machine Learning**
@@ -321,33 +319,6 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) | DeepLearning.AI | ~06h | -- | -- |
 [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) | DeepLearning.AI | ~35h | -- | -- |
 [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning) | DeepLearning.AI | ~37h | -- | -- |
-
-##
-
-<div align="right">
-	
-[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
-	
-</div>
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
-
-### Section 09 - Natural Language Processing
-
-Course | Offered by | Effort | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[NLP with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~33h | -- | -- |
-[NLP with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~30h | -- | -- |
-[NLP with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~21h | -- | -- |
-[NLP with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~26h | -- | -- |
 
 ##
 
