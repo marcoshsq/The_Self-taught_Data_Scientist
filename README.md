@@ -30,8 +30,8 @@
     - [Section 03-C - Rust for Data Engineering and LLM]()
     - [Bonus Section - Data Structures and Algorithms]()
     - [Section 04 - Data Mining]()
-    - [Section 05 - Databases, SQL, and Big Data]()
-    - [Section 06 - Cloud Computing]()
+    - [Section 05 - Databases]()
+    - [Section 06 - Big Data]()
     - [Section 07 - Machine Learning]()
     - [Section 08 - Deep Learning]()
     - [Section 09 - Natural Language Processing]()
@@ -265,11 +265,6 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 [Relational Database Design](https://www.coursera.org/learn/relational-database-design?specialization=databases-for-data-scientists) | University of Colorado | ~34h | -- | -- |
 [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql?specialization=databases-for-data-scientists) | University of Colorado | ~26h | -- | -- |
 [Advanced Topics and Future Trends in Database Technologies](https://www.coursera.org/learn/advanced-topics-future-trends-database-technologies?specialization=databases-for-data-scientists) | University of Colorado | ~16h | -- | -- |
-[Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction?specialization=big-data) | University of California | ~17h | -- | -- |
-[Big Data Modeling and Management Systems](https://www.coursera.org/learn/big-data-management?specialization=big-data) | University of California | ~13h | -- | -- |
-[Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data) | University of California | ~17h | -- | -- |
-[Machine Learning with Big Data](https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data) | University of California | ~23h | -- | -- |
-[Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data) | University of California | ~13h | -- | -- |
 
 ##
 
@@ -291,15 +286,15 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 06 - Cloud Computing
+### Section 06 - Big Data
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Cloud Computing Concepts, Part 1](https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing) | University of Illinois | ~23h | -- | -- |
-[Cloud Computing Concepts, Part 2](https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing) | University of Illinois | ~19h | -- | -- |
-[Cloud Systems and Infrastructure](https://www.coursera.org/learn/cloud-applications-part1?specialization=cloud-computing) | University of Illinois | ~15h | -- | -- |
-[Big Data and Cloud Computing Applications](https://www.coursera.org/learn/cloud-applications-part2?specialization=cloud-computing) | University of Illinois | ~19h | -- | -- |
-[Cloud Networking](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois | ~22h | -- | -- |
+[Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction?specialization=big-data) | University of California | ~17h | -- | -- |
+[Big Data Modeling and Management Systems](https://www.coursera.org/learn/big-data-management?specialization=big-data) | University of California | ~13h | -- | -- |
+[Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data) | University of California | ~17h | -- | -- |
+[Machine Learning with Big Data](https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data) | University of California | ~23h | -- | -- |
+[Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data) | University of California | ~13h | -- | -- |
 
 ##
 
