@@ -99,7 +99,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 01 - Fundamentals
+### Section 01 - Fundamentals (~53h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -127,7 +127,7 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Section 02 - Mathematics and Statistics Applied in Data and Computing
+### Section 02 - Mathematics and Statistics Applied in Data and Computing (~92h)
 
 #### Mathematics 01:
 
@@ -157,7 +157,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 03 - Programming for Data Science
+### Section 03 - Programming for Data Science (~140h)
 
 #### Section 03-A - Python Language for Data Analysis
 
@@ -171,7 +171,7 @@ Course | Offered by | Effort of | Certificate, if applicable | Status |
 
 ##
 
-### Section 03-B - R Language for Statistical Analysis and Modeling
+### Section 03-B - R Language for Statistical Analysis and Modeling (~75h)
 
 Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -198,7 +198,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 04 - Data Mining
+### Section 04 - Data Mining (~111h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -228,7 +228,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 05 - Databases, SQL, and Big Data
+### Section 05 - Databases and SQL (~76h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -256,7 +256,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 06 - Big Data
+### Section 06 - Big Data (~83h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -284,7 +284,7 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Section 07 - Machine Learning
+### Section 07 - Machine Learning (~104h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -310,7 +310,7 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Section 08 - Deep Learning
+### Section 08 - Deep Learning (~125h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
