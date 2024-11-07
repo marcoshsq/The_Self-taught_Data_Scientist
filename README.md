@@ -35,7 +35,6 @@
     - [Section 07 - Machine Learning]()
     - [Section 08 - Deep Learning]()
     - [Section 09 - Natural Language Processing]()
-    - [Section 10 - Soft Skills]()
 - [Extra Bibliography]()
     - [Mathematics]()
     - [Books, Articles, and Related Documentation]()
@@ -170,12 +169,6 @@ Espaço para organização pessoal u.u
 
 Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming) | University of Michigan | ~34h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/ZQVLDDT4KPKU) | ✓ |
-[Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming) | University of Michigan | ~31h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/2GXC4TU2AX49) | ✓ |
-[Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) | University of Michigan | ~16h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/NTDVMCYZXTC3) | ✓ |
-[Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python) | University of Michigan | ~19h | -- | -- |
-[Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python?specialization=statistics-with-python) | University of Michigan | ~21h | -- | -- |
-[Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python) | University of Michigan | ~14h | -- | -- |
 [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | ~34h | -- | -- |
 [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | ~24h | -- | -- |
 [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | University of Michigan | ~31h | -- | -- |
@@ -190,11 +183,6 @@ Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science) | Johns Hopkins University | ~57h | -- | -- |
 [Advanced R Programming](https://www.coursera.org/learn/advanced-r?specialization=r) | Johns Hopkins University | ~18h | -- | -- |
-[Building R Packages](https://www.coursera.org/learn/r-packages?specialization=r) | Johns Hopkins University | ~20h | -- | -- |
-[Introduction to Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~11h | -- | -- |
-[Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~12h | -- | -- |
-[Advanced Data Visualization in R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~10h | -- | -- |
-[Publishing Visualizations in R with Shiny and flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards?specialization=jhu-data-visualization-dashboarding-with-r) | Johns Hopkins University | ~11h | -- | -- |
 
 ##
 
@@ -338,10 +326,6 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~33h | -- | -- |
 [Advanced Machine Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction) | DeepLearning.AI | ~34h | -- | -- |
 [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~37h | -- | -- |
-[Introduction to TensorFlow](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~17h | -- | -- |
-[Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~16h | -- | -- |
-[Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice) | DeepLearning.AI | ~24h | -- | -- |
-[Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice) | DeepLearning.AI | ~22h | -- | -- |
 
 ##
 
@@ -397,32 +381,6 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 [NLP with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~30h | -- | -- |
 [NLP with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~21h | -- | -- |
 [NLP with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing) | DeepLearning.AI | ~26h | -- | -- |
-
-##
-
-<div align="right">
-	
-[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
-	
-</div>
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
-
-### Section 10 - Soft Skills
-
-Course | Offered by | Effort | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | ~15h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/4R9C3HRVVTKQ) | ✓ |
-[Storytelling & Influence: Communicating with Impact](https://www.coursera.org/learn/communicate-with-impact?specialization=influencing-storytelling-change-management) | Macquarie University | ~18h | -- | -- |
-[Ask Questions to Make Data-driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=influencing-storytelling-change-management) | Google  | ~21h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/JR9B6V968GHN) | ✓ |
 
 ##
 
