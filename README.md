@@ -140,11 +140,6 @@ Espaço para organização pessoal u.u
 Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | [Certificate of completion](https://www.coursera.org/account/accomplishments/records/TUP8FUJ52PP5) | ✓ |
-[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | UC San Diego | ~41h | -- | -- |
-[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | UC San Diego | ~23h | -- | -- |
-[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | UC San Diego | ~20h | -- | -- |
-[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | UC San Diego | ~16h | -- | -- |
-[Delivery Problem](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics) | UC San Diego | ~13h | -- | -- |
 [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~34h | -- | -- |
 [Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~25h | -- | -- |
 [Probability and Statistics for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~33h | -- | -- |
