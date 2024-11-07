@@ -157,9 +157,9 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 03 - Programming for Data Science (~140h)
+### Section 03 - Programming for Data Science
 
-#### Section 03-A - Python Language for Data Analysis
+#### Section 03-A - Python Language for Data Analysis (~140h)
 
 Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -171,7 +171,7 @@ Course | Offered by | Effort of | Certificate, if applicable | Status |
 
 ##
 
-### Section 03-B - R Language for Statistical Analysis and Modeling (~75h)
+#### Section 03-B - R Language for Statistical Analysis and Modeling (~75h)
 
 Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
