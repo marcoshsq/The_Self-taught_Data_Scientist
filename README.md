@@ -27,8 +27,6 @@
     - [Section 03 - Programming for Data Science]()
     - [Section 03-A - Python for Data Analysis]()
     - [Section 03-B - R for Statistical Analysis and Modeling]()
-    - [Section 03-C - Rust for Data Engineering and LLM]()
-    - [Bonus Section - Data Structures and Algorithms]()
     - [Section 04 - Data Mining]()
     - [Section 05 - Databases]()
     - [Section 06 - Big Data]()
@@ -56,8 +54,7 @@ The main objective is to follow a structured learning path inspired by the roadm
 ### 1. **Proficiency in Programming**
    - **Python**: The primary language for data manipulation, machine learning, and AI model development. Python will be heavily explored due to its versatility and wide adoption in data science.
    - **R**: A powerful language for statistical analysis, data visualization, and in-depth exploration of statistical data.
-   - **Rust**: Known for its performance and memory safety, Rust is increasingly used in data engineering and AI model implementation. This curriculum includes enough content to get a strong grasp of the language for those purposes.
-
+     
 ### 2. **Databases, Business Intelligence, and Data Warehousing**
    - **Databases**: Focus on both relational (SQL) and non-relational (NoSQL) database systems for effective data management and retrieval.
    - **Business Intelligence (BI)**: Mastery of BI tools for data-driven decision-making and insights generation.
@@ -183,30 +180,6 @@ Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science) | Johns Hopkins University | ~57h | -- | -- |
 [Advanced R Programming](https://www.coursera.org/learn/advanced-r?specialization=r) | Johns Hopkins University | ~18h | -- | -- |
-
-##
-
-### Section 03-C - Rust Language for Data Engineering and LLM
-
-Course | Offered by | Effort of | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Rust Fundamentals](https://www.coursera.org/learn/rust-fundamentals?specialization=rust-programming) | Duke University | ~40h | -- | -- |
-[Data Engineering with Rust](https://www.coursera.org/learn/data-engineering-rust?specialization=rust-programming) | Duke University | ~63h | -- | -- |
-[Rust for DevOps](https://www.coursera.org/learn/rust-for-devops?specialization=rust-programming) | Duke University | ~18h | -- | -- |
-[Python and Rust with Linux Command-Line Tools](https://www.coursera.org/learn/python-rust-linux?specialization=rust-programming) | Duke University | ~20h | -- | -- |
-[Rust for LLMOps](https://www.coursera.org/learn/rust-llmops?specialization=rust-programming) | Duke University | ~16h | -- | -- |
-
-##
-
-### Bonus Section - Data Structures and Algorithms
-
-Course | Offered by | Effort of | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~35h | -- | -- |
-[Trees and Graphs: Basics](https://www.coursera.org/learn/trees-graphs-basics?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~34h | -- | -- |
-[Dynamic Programming, Greedy Algorithms](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~37h | -- | -- |
-[Linear Programming and Approximation Algorithms](https://www.coursera.org/learn/linear-programming-and-approximation-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~48h | -- | -- |
-[Advanced Data Structures, RSA, and Quantum Algorithms](https://www.coursera.org/learn/advanced-data-structures-rsa-and-quantum-algorithms?specialization=boulder-data-structures-algorithms) | University of Colorado Boulder | ~37h | -- | -- |
 
 ##
 
