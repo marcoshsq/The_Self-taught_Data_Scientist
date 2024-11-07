@@ -99,7 +99,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 01 - Fundamentals (~53h)
+### Section 01 - Fundamentals (~50h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -127,7 +127,7 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Section 02 - Mathematics and Statistics Applied in Data and Computing (~92h)
+### Section 02 - Mathematics and Statistics Applied in Data and Computing (~90h)
 
 Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -196,7 +196,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 04 - Data Mining (~111h)
+### Section 04 - Data Mining (~120h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -226,7 +226,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 05 - Databases and SQL (~76h)
+### Section 05 - Databases and SQL (~80h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -254,7 +254,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 06 - Big Data (~83h)
+### Section 06 - Big Data (~85h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -282,7 +282,7 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Section 07 - Machine Learning (~104h)
+### Section 07 - Machine Learning (~120h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
