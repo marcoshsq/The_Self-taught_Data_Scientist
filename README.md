@@ -135,7 +135,6 @@ Espaço para organização pessoal u.u
 
 Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford University | ~14h | [Certificate of completion](https://www.coursera.org/account/accomplishments/records/TUP8FUJ52PP5) | ✓ |
 [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~34h | -- | -- |
 [Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~25h | -- | -- |
 [Probability and Statistics for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~33h | -- | -- |
