@@ -127,7 +127,7 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Section 02 - Mathematics and Statistics Applied in Data and Computing (~90h)
+### Section 02 - Mathematics and Statistics for Data Science (~90h)
 
 Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
