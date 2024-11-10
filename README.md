@@ -173,8 +173,12 @@ Course | Offered by | Effort of | Certificate, if applicable | Status |
 
 Course | Offered by | Effort of | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science) | Johns Hopkins University | ~57h | -- | -- |
+[R Programming](https://www.coursera.org/learn/r-programming-environment?specialization=r) | Johns Hopkins University | ~27h | -- | -- |
 [Advanced R Programming](https://www.coursera.org/learn/advanced-r?specialization=r) | Johns Hopkins University | ~18h | -- | -- |
+[Building R Packages](https://www.coursera.org/learn/r-packages?specialization=r) | Johns Hopkins University | ~20 | -- | -- |
+[Building Data Visualization Tools](https://www.coursera.org/learn/r-data-visualization?specialization=r) | Johns Hopkins University | ~12h | -- | -- |
+[Mastering Software Development in R](https://www.coursera.org/learn/r-capstone?specialization=r) | Johns Hopkins University | ~3h | -- | -- |
+
 
 ##
 
