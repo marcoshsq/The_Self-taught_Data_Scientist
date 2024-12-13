@@ -104,7 +104,7 @@ Espaço para organização pessoal u.u
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Data – What It Is, What We Can Do With It](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/XAV9MTSMSAWK) | ✓ |
-[Foundations of Data Science and AI](https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-data-science-e-inteligencia-artificial) | Data Science Academy | ~24h | -- | -- |
+[What is Data Science?](https://www.coursera.org/professional-certificates/ibm-data-science) | Data Science Academy | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/WGYPQRNQSNG6) | ✓ |
 [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
 
 ##
