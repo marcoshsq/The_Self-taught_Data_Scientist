@@ -99,7 +99,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 01 - Fundamentals (~50h)
+### Section 01 - Fundamentals (~40h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
