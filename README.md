@@ -21,22 +21,22 @@
 
 ## Content Summary
 
-- [About]()
-    - [Section 01 - Fundamentals]()
-    - [Section 02 - Mathematics and Statistics Applied in Data and Computing]()
-    - [Section 03 - Programming for Data Science]()
-	    - [Section 03-A - Python for Data Analysis]()
-	    - [Section 03-B - R for Statistical Analysis and Modeling]()
-    - [Section 04 - Data Mining]()
-    - [Section 05 - Databases]()
-    - [Section 06 - Big Data]()
-    - [Section 07 - Machine Learning]()
-    - [Section 08 - Deep Learning]()
-- [Extra Bibliography]()
-    - [Mathematics]()
-    - [Books, Articles, and Related Documentation]()
-- [Notes and Clarifications]()
-- [References]()
+- [About](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#overviewabout)
+    - [Section 01 - Fundamentals](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-01---fundamentals-40h)
+    - [Section 02 - Mathematics and Statistics Applied in Data and Computing](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-02---mathematics-and-statistics-for-data-science-90h)
+    - [Section 03 - Programming for Data Science](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-03---programming-for-data-science)
+	    - [Section 03-A - Python for Data Analysis](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-03-a---python-language-for-data-analysis-140h)
+	    - [Section 03-B - R for Statistical Analysis and Modeling](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-03-b---r-language-for-statistical-analysis-and-modeling-75h)
+    - [Section 04 - Data Mining](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-04---data-mining-120h)
+    - [Section 05 - Databases](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-05---databases-and-sql-80h)
+    - [Section 06 - Big Data](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-06---big-data-85h)
+    - [Section 07 - Machine Learning](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-07---machine-learning-120h)
+    - [Section 08 - Deep Learning](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-08---deep-learning-125h)
+- [Extra Bibliography](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#extra-bibliography)
+    - [Mathematics](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#mathematics-books)
+    - [Books, Articles, and Related Documentation](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#books-articles-and-related-documentation)
+- [Notes and Clarifications](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#notes-and-clarifications)
+- [References](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#references-1)
 
 ---
 
@@ -104,7 +104,7 @@ Espaço para organização pessoal u.u
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Data – What It Is, What We Can Do With It](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/XAV9MTSMSAWK) | ✓ |
-[What is Data Science?](https://www.coursera.org/professional-certificates/ibm-data-science) | Data Science Academy | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/WGYPQRNQSNG6) | ✓ |
+[What is Data Science?](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM Skills Network | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/WGYPQRNQSNG6) | ✓ |
 [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
 
 ##
