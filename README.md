@@ -32,6 +32,7 @@
     - [Section 06 - Big Data](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-06---big-data-85h)
     - [Section 07 - Machine Learning](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-07---machine-learning-120h)
     - [Section 08 - Deep Learning](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-08---deep-learning-125h)
+    - [Section 09 - Data Warehousing]()
 - [Extra Bibliography](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#extra-bibliography)
     - [Mathematics](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#mathematics-books)
     - [Books, Articles, and Related Documentation](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#books-articles-and-related-documentation)
@@ -321,6 +322,34 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) | DeepLearning.AI | ~06h | -- | -- |
 [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) | DeepLearning.AI | ~35h | -- | -- |
 [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning) | DeepLearning.AI | ~37h | -- | -- |
+
+##
+
+<div align="right">
+	
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+### Section 08 - Data Warehousing (~120h)
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Database Management Essentials](https://www.coursera.org/learn/database-management?specialization=data-warehousing) | Colorado Boulder | ~24h | -- | -- |
+[Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign?specialization=data-warehousing) | Colorado Boulder | ~23h | -- | -- |
+[Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational?specialization=data-warehousing) | Colorado Boulder | ~06h | -- | -- |
+[Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools?specialization=data-warehousing) | Colorado Boulder | ~35h | -- | -- |
+[Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building?specialization=data-warehousing) | Colorado Boulder | ~37h | -- | -- |
 
 ##
 
