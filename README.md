@@ -33,6 +33,7 @@
     - [Section 07 - Machine Learning](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-07---machine-learning-120h)
     - [Section 08 - Deep Learning](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-08---deep-learning-125h)
     - [Section 09 - Data Warehousing]()
+    - [Section 10 - Cloud Computing]()
 - [Extra Bibliography](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#extra-bibliography)
     - [Mathematics](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#mathematics-books)
     - [Books, Articles, and Related Documentation](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#books-articles-and-related-documentation)
@@ -341,7 +342,7 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Section 08 - Data Warehousing (~120h)
+### Section 09 - Data Warehousing (~120h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -350,6 +351,34 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 [Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational?specialization=data-warehousing) | Colorado Boulder | ~06h | -- | -- |
 [Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools?specialization=data-warehousing) | Colorado Boulder | ~35h | -- | -- |
 [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building?specialization=data-warehousing) | Colorado Boulder | ~37h | -- | -- |
+
+##
+
+<div align="right">
+	
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+### Section 10 - Cloud Computing (~120h)
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Cloud Concepts 1](https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~24h | -- | -- |
+[Cloud Concepts 2](https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~23h | -- | -- |
+[Cloud applications 1](https://www.coursera.org/learn/cloud-applications-part1?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~06h | -- | -- |
+[Cloud applications 2](https://www.coursera.org/learn/cloud-applications-part2?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~35h | -- | -- |
+[Cloud Networks](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~37h | -- | -- |
 
 ##
 
