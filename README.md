@@ -342,15 +342,15 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Section 09 - Data Warehousing (~120h)
+### Section 09 - Data Warehousing (~300h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Database Management Essentials](https://www.coursera.org/learn/database-management?specialization=data-warehousing) | Colorado Boulder | ~24h | -- | -- |
-[Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign?specialization=data-warehousing) | Colorado Boulder | ~23h | -- | -- |
-[Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational?specialization=data-warehousing) | Colorado Boulder | ~06h | -- | -- |
-[Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools?specialization=data-warehousing) | Colorado Boulder | ~35h | -- | -- |
-[Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building?specialization=data-warehousing) | Colorado Boulder | ~37h | -- | -- |
+[Database Management Essentials](https://www.coursera.org/learn/database-management?specialization=data-warehousing) | Colorado Boulder | ~122h | -- | -- |
+[Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign?specialization=data-warehousing) | Colorado Boulder | ~62h | -- | -- |
+[Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational?specialization=data-warehousing) | Colorado Boulder | ~71h | -- | -- |
+[Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools?specialization=data-warehousing) | Colorado Boulder | ~21h | -- | -- |
+[Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building?specialization=data-warehousing) | Colorado Boulder | ~31h | -- | -- |
 
 ##
 
@@ -375,10 +375,11 @@ Espaço para organização pessoal u.u
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Cloud Concepts 1](https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~24h | -- | -- |
-[Cloud Concepts 2](https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~23h | -- | -- |
-[Cloud applications 1](https://www.coursera.org/learn/cloud-applications-part1?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~06h | -- | -- |
-[Cloud applications 2](https://www.coursera.org/learn/cloud-applications-part2?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~35h | -- | -- |
-[Cloud Networks](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~37h | -- | -- |
+[Cloud Concepts 2](https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~19h | -- | -- |
+[Cloud applications 1](https://www.coursera.org/learn/cloud-applications-part1?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~15h | -- | -- |
+[Cloud applications 2](https://www.coursera.org/learn/cloud-applications-part2?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~19h | -- | -- |
+[Cloud Networks](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~22h | -- | -- |
+[Cloud Computing Project](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois Urbana-Champaign | ~21h | -- | -- |
 
 ##
 
