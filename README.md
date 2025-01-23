@@ -206,11 +206,11 @@ Espaço para organização pessoal u.u
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Data Visualization](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois | ~15h | -- | -- |
-[Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois | ~30h | -- | -- |
-[Text Mining and Analysis](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois | ~33h | -- | -- |
-[Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns?specialization=data-mining) | University of Illinois | ~17h | -- | -- |
-[Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis?specialization=data-mining) | University of Illinois | ~16h | -- | -- |
+[Data Visualization](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois Urbana-Champaign | ~15h | -- | -- |
+[Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois Urbana-Champaign | ~30h | -- | -- |
+[Text Mining and Analysis](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois Urbana-Champaign | ~33h | -- | -- |
+[Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns?specialization=data-mining) | University of Illinois Urbana-Champaign | ~17h | -- | -- |
+[Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis?specialization=data-mining) | University of Illinois Urbana-Champaign | ~16h | -- | -- |
 
 ##
 
