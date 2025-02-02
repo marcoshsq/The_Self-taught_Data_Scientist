@@ -7,76 +7,93 @@
     <img src="https://images.prismic.io/hiverywebsite/8225ab45-eb3f-4e22-a48f-1cbab9611f59_franki-chamaki-z4H9MYmWIMA-unsplash.jpg?auto=compress,format" alt="Developer Roadmap" width="" height="">
   </a>
 </p>
-  <h2 align="center">Advanced Data Science and Analytics Self Taught Program</h2>
- <div align="center"> 
-  <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+
+<h2 align="center">Advanced Data Science and Analytics Self-Taught Program</h2>
+
+<div align="center">
+  <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </div>
-<br>
+
+---
 
 <!--Fim da seção cabeçalho.-->
  
----
+## 📌 Summary
 
-## Content Summary
-
-- [About](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#overviewabout)
-    - [Section 01 - Fundamentals](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-01---fundamentals-40h)
-    - [Section 02 - Mathematics and Statistics Applied in Data and Computing](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-02---mathematics-and-statistics-for-data-science-90h)
-    - [Section 03 - Programming for Data Science](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-03---programming-for-data-science)
-	    - [Section 03-A - Python for Data Analysis](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-03-a---python-language-for-data-analysis-140h)
-	    - [Section 03-B - R for Statistical Analysis and Modeling](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-03-b---r-language-for-statistical-analysis-and-modeling-75h)
-    - [Section 04 - Data Mining](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-04---data-mining-120h)
-    - [Section 05 - Databases](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-05---databases-and-sql-80h)
-    - [Section 06 - Big Data](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-06---big-data-85h)
-    - [Section 07 - Machine Learning](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-07---machine-learning-120h)
-    - [Section 08 - Deep Learning](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#section-08---deep-learning-125h)
-    - [Section 09 - Data Warehousing]()
-    - [Section 10 - Cloud Computing]()
-- [Extra Bibliography](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#extra-bibliography)
-    - [Mathematics](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#mathematics-books)
-    - [Books, Articles, and Related Documentation](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#books-articles-and-related-documentation)
-- [Notes and Clarifications](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#notes-and-clarifications)
-- [References](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#references-1)
+- [About](#about)
+- [Learning Goals](#learning-goals)
+- [Curriculum Overview](#curriculum-overview)
+- [How to Use This Curriculum](#how-to-use-this-curriculum)
+- [Extra Bibliography](#extra-bibliography)
+- [References](#references)
+- [Notes and Clarifications](#notes-and-clarifications)
 
 ---
 
-## Overview/About
+## 🧠 About
 
-The **Self-taught Data Science Curriculum** is a learning guide I developed to master data science concepts and skills for free. Upon realizing the vast amount of high-quality, free resources available online, I decided to compile and organize them into a coherent roadmap. This project is not only my personal journey into data science but also a guide for anyone who wishes to follow a similar path.
+This **Self-Taught Data Science Curriculum** is a structured learning roadmap designed to provide a comprehensive education in data science and analytics, leveraging free online resources. Initially created as a personal guide, it is now shared for anyone who wishes to follow a similar path.
 
-Initially, this curriculum was designed for my own learning, but you are welcome to clone it and explore the courses if they align with your goals. The material here covers a broad range of topics essential for a successful data science career, from programming to artificial intelligence. The sources I used can be found in the "References" section at the end of the README.
+This program is structured to provide an end-to-end understanding of key topics, including programming, mathematics, statistics, machine learning, deep learning, and big data. The curriculum was built based on high-quality, freely available courses and learning resources.
 
-## Learning Goals
-
-The main objective is to follow a structured learning path inspired by the roadmap from the AI Expert team. The key skills and concepts I aim to master by the end of this curriculum include:
-
-### 1. **Proficiency in Programming**
-   - **Python**: The primary language for data manipulation, machine learning, and AI model development. Python will be heavily explored due to its versatility and wide adoption in data science.
-   - **R**: A powerful language for statistical analysis, data visualization, and in-depth exploration of statistical data.
-     
-### 2. **Databases, Big Data, and Data Warehousing**
-   - **Databases**: Focus on both relational (SQL) and non-relational (NoSQL) database systems for effective data management and retrieval.
-   - **Data Warehousing**: Understanding the design and implementation of data warehouses for efficient storage and management of large datasets.
-
-### 3. **Artificial Intelligence and Machine Learning**
-   - **Machine Learning**: Learn how to build and apply machine learning models for tasks such as predictive analytics, classification, and pattern recognition.
-   - **Deep Learning**: Dive into neural networks, with an emphasis on frameworks like TensorFlow and PyTorch, to explore architectures and advanced AI techniques.
+If you're looking to transition into data science or enhance your knowledge, this roadmap can serve as a solid foundation.
 
 ---
 
-## How to Use This Curriculum
+## 🎯 Learning Goals
 
-This curriculum is broken down into various modules that align with the core areas of data science. You can follow them sequentially or skip to specific areas based on your current knowledge and interests. I encourage you to adapt this guide to your own learning style, pace, and goals.
+By completing this curriculum, you will develop proficiency in:
 
-## References
+### 1️⃣ **Programming for Data Science**
+- **Python**: Data manipulation, visualization, and machine learning.
+- **R**: Statistical modeling and advanced data analysis.
 
-The "References" section at the end of this repository contains a comprehensive list of resources that I consulted while building this guide, including free online courses, tutorials, and learning platforms.
+### 2️⃣ **Mathematics & Statistics for Data Science**
+- Linear Algebra, Calculus, Probability, and Inferential Statistics.
+- Bayesian Methods, Regression, and Machine Learning Theory.
+
+### 3️⃣ **Databases, Data Warehousing, and Big Data**
+- SQL and NoSQL Databases.
+- Data lakes and cloud computing solutions.
+- Big Data processing with Spark and Hadoop.
+
+### 4️⃣ **Machine Learning & Deep Learning**
+- Supervised and Unsupervised Learning.
+- Neural Networks and Natural Language Processing (NLP).
+- Reinforcement Learning and AI Ethics.
 
 ---
 
-Feel free to make this description more personal or technical based on your style! It provides a structured overview while highlighting your personal journey and intention of sharing knowledge with others.
+## 📚 Curriculum Overview
+
+The curriculum is divided into well-structured sections, each covering essential areas of data science:
+
+1. **Fundamentals** - Basic concepts and data literacy (~40h).
+2. **Mathematics & Statistics** - Essential mathematical foundations (~90h).
+3. **Programming** - Python & R for data science (~215h).
+4. **Data Mining** - Extracting insights and patterns (~120h).
+5. **Databases** - SQL and database management (~80h).
+6. **Big Data** - Processing large-scale datasets (~85h).
+7. **Machine Learning** - Core ML concepts and models (~120h).
+8. **Deep Learning** - Advanced AI techniques (~125h).
+9. **Data Warehousing** - Data integration and storage (~300h).
+10. **Cloud Computing** - Cloud solutions for data science (~120h).
+
+A detailed breakdown of each section, including recommended courses, can be found in the repository.
+
+---
+
+## 📌 How to Use This Curriculum
+
+This roadmap is flexible and can be adapted based on your learning pace and background:
+
+✅ Follow it **sequentially** if you're starting from scratch.
+✅ Skip sections if you already have knowledge in a particular area.
+✅ Combine different resources, projects, and additional readings.
+
+Each module contains curated courses with estimated effort and certification options when available.
 
 ##
 
@@ -399,35 +416,22 @@ Espaço para organização pessoal u.u
 
 -->
 
-## Extra Bibliography
+## 📖 Extra Bibliography
 
-### Mathematics Books
+If you're looking for deeper insights, consider these additional resources:
 
-- [Discrete Mathematics: Foundations](https://shre.ink/l0s) - David J. Hunter
-- [Concrete Mathematics: A Foundation for Computer Science](https://shre.ink/lDJ) - Ronald Graham
-- [Pre-Calculus](https://shre.ink/lD0) - Valéria Zuma Medeiros
-- [Calculus I](https://shre.ink/l0d) - James Stewart
-- [Calculus II](https://shre.ink/lD4) - James Stewart
-- [Numerical Calculus: Theoretical and Computational Aspects](https://shre.ink/lDN) - Marcia Gomes
-- [Elementary Linear Algebra](https://shre.ink/lDO) - Howard Anton
-- [Analytical Geometry: A Vector Treatment](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx2ZXRvcmVzZ2FtYXJjb3N8Z3g6NjAzODc4NTdjZGEwY2ZiOA) - Ivan De Camargo
-- [Introduction to Statistical Theory](https://shre.ink/lDZ) - Alexander Mood
-- [Matrix Algebra Useful for Statistics](https://shre.ink/lDG) - Andre I Khuri
-- [The Elements of Statistical Learning](https://shre.ink/lDR) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- [Introduction to Linear Regression Analysis](https://shre.ink/lDF) - Douglas C Montgomery
-- [Bayesian Statistics](https://shre.ink/lDX) - Peter M. Lee
-- [Monte Carlo Markov Chain: Stochastic Simulation for Bayesian Inference](https://shre.ink/lDv) - Dani Gamerman
-- [Applied Nonparametric Statistical Methods](https://shre.ink/lDu) - Nigel C Smeeton
-- [Interpreting Regression Models Based on Computational Intelligence](https://shre.ink/lD3) - János Abonyi
-- [Regression Models with Computational Support](https://www.ime.usp.br/~giapaula/texto_2013.pdf) - Gilberto A. Paula
-- [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+### **Mathematics**
+- **[The Elements of Statistical Learning](https://shre.ink/lDR)** - Hastie, Tibshirani, Friedman.
+- **[Introduction to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)** - James, Witten, Hastie, Tibshirani.
+- **[Bayesian Statistics](https://shre.ink/lDX)** - Peter M. Lee.
 
-### Books, Articles, and Related Documentation
+### **Machine Learning & AI**
+- **[Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/)** - Stuart Russell.
+- **[Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)** - Collection of AI research papers.
 
-- [SQL for Smarties: Advanced SQL Programming](https://shre.ink/lD9) - Joe Celko
-- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap of DL Papers
-- [Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/?coliid=I1DADMS27UAR9G&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Stuart J. Russell
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
+### **Programming & Databases**
+- **[SQL for Smarties](https://shre.ink/lD9)** - Joe Celko.
+- **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)** - MIT.
 
 These resources cover a wide range of topics from foundational mathematics and statistical theory to advanced machine learning and artificial intelligence.
 
@@ -451,14 +455,12 @@ Espaço para organização pessoal u.u
 
 -->
 
-## Notes and Clarifications
+## 📝 Notes and Clarifications
 
-* The duration of the courses listed here are estimates provided by the platforms where they are offered.
-
-* At the moment, I am working on this graduation, so the tense of this `readme` is a bit strange, sometimes in the past, sometimes in the future. As I work on it, I will reformat it to better reflect my experience.
-
-* Regarding the books, my university has partnerships with some platforms like O'Reilly, in addition to a very large library where I managed to find almost all of them. But if you don't have access... ahem... try to see if they fall off the truck... ahem... but if you can buy them, please do.
-
+- Course durations are approximate and based on platform estimates.
+- Some books were accessed through university partnerships, but if you don't have access... well, explore alternative ways. If possible, support authors by purchasing them.
+- The curriculum is **continuously evolving** as new resources become available.
+  
 <!-- 
 
 
@@ -469,21 +471,14 @@ Espaço para organização pessoal u.u
 
 -->
 
-## References
+## 🔗 References
 
-Sources consulted for the construction of this curriculum.
+Sources used to structure this curriculum:
 
-- [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - OSSU offers a free, open-source curriculum in data science, perfect for those looking to study technology in a self-paced and flexible manner. I highly recommend OSSU and any initiative that aims to democratize education.
-
-- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - A detailed roadmap to becoming an AI expert, developed by specialists in the field.
-
-- [Python Developer](https://roadmap.sh/python) - Roadmap SH provides comprehensive learning paths across various technology areas and tools. This link directs to the Python roadmap, but they offer many other paths.
-
-- [PostgreSQL](https://roadmap.sh/postgresql-dba) - PostgreSQL Database Administrator roadmap, also from Roadmap SH, outlining a specific learning path for professionals in the field.
-
-- [USP Statistics Course](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - Curriculum for the Bachelor's Degree in Statistics at the University of São Paulo, used to guide the selection of courses and books in this list.
-
-##
+- [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - Open-source university model.
+- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - AI & Data Science roadmap.
+- [Roadmap SH](https://roadmap.sh/) - Learning paths for various tech disciplines.
+- [USP Statistics Course](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - Inspiration for course selection.
 
 <div align="right">
 	
