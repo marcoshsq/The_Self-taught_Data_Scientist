@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h2 align="center">Advanced Data Science and Analytics Self-Taught Program</h2>
+<h2 align="center">Data Science and Analytics Self-Taught Program</h2>
 
 ---
 
