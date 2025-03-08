@@ -28,11 +28,11 @@
 
 ## 🧠 About
 
-This **Self-Taught Data Science Curriculum** is a structured learning roadmap designed to provide a comprehensive education in data science and analytics, leveraging free online resources. Initially created as a personal guide, it is now shared for anyone who wishes to follow a similar path.
+This **Self-Taught Data Science Curriculum** is a structured roadmap that I created to guide myself in learning this field independently and for free. My motivation for developing this material came from my desire to deepen my knowledge in data science and analytics, making the most of the available online resources.
 
-This program is structured to provide an end-to-end understanding of key topics, including programming, mathematics, statistics, machine learning, deep learning, and big data. The curriculum was built based on high-quality, freely available courses and learning resources.
+The program covers everything from fundamentals to advanced topics, including programming, mathematics, statistics, machine learning, deep learning, and big data. To achieve this, I selected high-quality courses and learning materials that are freely accessible.
 
-If you're looking to transition into data science or enhance your knowledge, this roadmap can serve as a solid foundation.
+If you also want to learn data science on your own or expand your knowledge in the field, this roadmap can serve as a solid foundation for your journey.
 
 ---
 
@@ -108,16 +108,55 @@ Espaço para organização pessoal u.u
 -->
 
 
----
-
 ##
 
 ### Section 01 - Fundamentals (~40h)
 
+In this first section, my goal is to establish a solid foundation in data science by understanding the role of data in decision-making, the fundamentals of the field, and the key tools used by professionals. Additionally, I aim to develop a clear understanding of what it means to be a data scientist, the essential skills required, and how to apply this knowledge in practice.
+
+The main skills I want to acquire in this stage include:
+✅ Understanding what data is and how it can be used
+✅ Fundamental concepts of data science and its impact on various industries
+✅ Familiarity with essential tools for data analysis and manipulation
+
+### Courses Section 01
+
+##
+
+### 📌  Data – What It Is, What We Can Do With It (Johns Hopkins University)
+Reason for choosing: This course provides a clear introduction to what data is, how it is generated, and how it can be used to answer questions and support decision-making. I chose this course to build a conceptual foundation before moving on to more complex techniques.
+
+Skills developed:
+🔹 Understanding the concept of data and its different forms
+🔹 Practical applications of data usage in problem-solving
+🔹 Introduction to data collection, organization, and interpretation
+
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Data – What It Is, What We Can Do With It](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/XAV9MTSMSAWK) | ✓ |
+
+### 📌 What is Data Science? (IBM Skills Network)
+Reason for choosing: This course offers an overview of the field of data science, exploring the responsibilities of a data scientist, the stages of the data analysis process, and its applications. It helps to better understand the career and the importance of data science in the modern world.
+
+Skills developed:
+🔹 Understanding what data science is and its applications
+🔹 Insights into the data science lifecycle
+🔹 Knowledge of the key tools and technologies used in the field
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
 [What is Data Science?](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM Skills Network | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/WGYPQRNQSNG6) | ✓ |
+
+### 📌 The Data Scientist's Toolbox (Johns Hopkins University)
+Reason for choosing: This course is essential for gaining familiarity with the fundamental tools used by data scientists. It introduces basic programming concepts, version control, and project organization—essential elements for working with data in a structured and efficient way.
+
+Skills developed:
+🔹 Introduction to R and RStudio
+🔹 Basic concepts of Git and GitHub for version control
+🔹 Insights into data science workflows
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
 [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
 
 ##
