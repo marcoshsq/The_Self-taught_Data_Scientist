@@ -38,8 +38,6 @@ If you also want to learn data science on your own or expand your knowledge in t
 
 ## 🎯 Learning Goals
 
-By completing this curriculum, you will develop proficiency in:
-
 ### 1️⃣ **Programming for Data Science**
 - **Python**: Data manipulation, visualization, and machine learning.
 - **R**: Statistical modeling and advanced data analysis.
