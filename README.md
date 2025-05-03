@@ -125,7 +125,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 01 - Fundamentals (~40h)
+## Section 01 - Fundamentals (~40h)
 
 In this first section, my goal is to establish a solid foundation in data science by understanding the role of data in decision-making, the fundamentals of the field, and the key tools used by professionals. Additionally, I aim to develop a clear understanding of what it means to be a data scientist, the essential skills required, and how to apply this knowledge in practice.
 
@@ -293,19 +293,131 @@ Espaço para organização pessoal u.u
 
 -->
 
+## **Section 03 - Programming for Data Science**
+
+# adicionar descrição aqui
+
+### 🐍 Section 03-A - Python Language for Data Analysis (~140h)
+
+In this section, my goal is to master Python as the primary language for data analysis, visualization, and machine learning. Python is the industry standard in data science, widely adopted thanks to its simplicity, community, and rich ecosystem of libraries like NumPy, pandas, matplotlib, scikit-learn, and many others.
+
+The focus here is on **hands-on experience**, building the ability to:
+- Write clean, efficient code for data manipulation
+- Use Python tools to explore, visualize, and analyze data
+- Implement and evaluate machine learning models
+- Work with real datasets, pipelines, and applied problems
+
+The main skills I want to develop at this stage include:
+
+- ✅ Python programming for data manipulation (NumPy, pandas)
+- ✅ Data visualization using matplotlib and seaborn
+- ✅ Building and validating machine learning models with scikit-learn
+- ✅ Natural language processing and social network analysis
+- ✅ Applying Python in real-world projects across different domains
+
+### Courses
+
 ##
 
-### Section 03 - Programming for Data Science
+### 📚 *Introduction to Data Science in Python* – University of Michigan
 
-#### Section 03-A - Python Language for Data Analysis (~140h)
+**Description**:
+A foundational course that introduces data manipulation with pandas, working with DataFrames, and the basics of cleaning and transforming data for analysis.
 
-Course | Offered by | Effort of | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | University of Michigan | ~34h | -- | -- |
-[Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | University of Michigan | ~24h | -- | -- |
-[Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | University of Michigan | ~31h | -- | -- |
-[Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | University of Michigan | ~25h | -- | -- |
-[Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | University of Michigan | ~26h | -- | -- |
+**Why I chose this course**:
+It’s the first course of the [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python), one of the most respected Python tracks on Coursera. It provides a smooth learning curve for practical data tasks.
+
+**Skills developed**:
+
+* Data structures in pandas
+* Handling missing values and data types
+* Basic exploratory data analysis (EDA)
+
+| Course                                                                                                                    |     Offered by    | Effort | Certificate | Status |
+| :------------------------------------------------------------------------------------------------------------------------ | :---------------: | :----: | :---------: | :----: |
+| [Intro to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | Univ. of Michigan |  \~34h |      --     |   --   |
+
+---
+
+### 📚 *Applied Plotting, Charting & Data Representation in Python* – University of Michigan
+
+**Description**:
+This course introduces practical techniques to create visualizations using matplotlib and other Python libraries, focusing on choosing the right type of plot for different data contexts.
+
+**Why I chose this course**:
+Data visualization is often underestimated, but it’s critical for communicating insights. This course strengthens your ability to create professional, informative visuals.
+
+**Skills developed**:
+
+* Line plots, histograms, scatterplots, and advanced charts
+* Visual perception principles
+* Interactive plotting and dashboard elements
+
+| Course                                                                                                  |     Offered by    | Effort | Certificate | Status |
+| :------------------------------------------------------------------------------------------------------ | :---------------: | :----: | :---------: | :----: |
+| [Plotting in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | Univ. of Michigan |  \~24h |      --     |   --   |
+
+---
+
+### 📚 *Applied Machine Learning in Python* – University of Michigan
+
+**Description**:
+Focuses on implementing machine learning models using scikit-learn, including classification, regression, and clustering.
+
+**Why I chose this course**:
+It emphasizes not just the use of models but also best practices like train/test splits, model evaluation, overfitting, and performance metrics — all essential for a solid ML foundation.
+
+**Skills developed**:
+
+* scikit-learn pipelines
+* Supervised learning (logistic regression, decision trees)
+* Model evaluation and validation techniques
+
+| Course                                                                                                    |     Offered by    | Effort | Certificate | Status |
+| :-------------------------------------------------------------------------------------------------------- | :---------------: | :----: | :---------: | :----: |
+| [ML in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | Univ. of Michigan |  \~31h |      --     |   --   |
+
+---
+
+### 📚 *Applied Text Mining in Python* – University of Michigan
+
+**Description**:
+Covers the fundamentals of natural language processing (NLP) in Python, including tokenization, TF-IDF, and basic text classification.
+
+**Why I chose this course**:
+Text data is everywhere — and this course provides the essential tools to process and analyze it using real-world datasets.
+
+**Skills developed**:
+
+* Working with text data using pandas and NLTK
+* Document-term matrices
+* Basic text classifiers (e.g., Naive Bayes)
+
+| Course                                                                                                        |     Offered by    | Effort | Certificate | Status |
+| :------------------------------------------------------------------------------------------------------------ | :---------------: | :----: | :---------: | :----: |
+| [Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | Univ. of Michigan |  \~25h |      --     |   --   |
+
+---
+
+### 📚 *Applied Social Network Analysis in Python* – University of Michigan
+
+**Description**:
+Explores how to analyze network structures such as social graphs, user connections, and centrality using NetworkX and Python.
+
+**Why I chose this course**:
+Social network analysis is increasingly useful in marketing, user behavior, fraud detection, and influence modeling.
+
+**Skills developed**:
+
+* Graph theory and network metrics
+* Using NetworkX for social graphs
+* Identifying influential nodes and clusters
+
+| Course                                                                                                                      |     Offered by    | Effort | Certificate | Status |
+| :-------------------------------------------------------------------------------------------------------------------------- | :---------------: | :----: | :---------: | :----: |
+| [Social Network Analysis](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | Univ. of Michigan |  \~26h |      --     |   --   |
+
+##
 
 ##
 
