@@ -236,7 +236,7 @@ It’s part of the [Mathematics for Machine Learning and Data Science](https://w
 
 ---
 
-### 📚 *Calculus for Machine Learning and Data Science* – DeepLearning.AI
+#### 📚 *Calculus for Machine Learning and Data Science* – DeepLearning.AI
 
 **Description**:
 This course provides a practical introduction to calculus, focusing on how derivatives and integrals are used to train and optimize machine learning models.
@@ -256,7 +256,7 @@ Traditional calculus courses are very theoretical. This one, however, is laser-f
 
 ---
 
-### 📚 *Probability and Statistics for Machine Learning and Data Science* – DeepLearning.AI
+#### 📚 *Probability and Statistics for Machine Learning and Data Science* – DeepLearning.AI
 
 **Description**:
 A comprehensive course that introduces both descriptive and inferential statistics, with a focus on applications in machine learning. Topics include probability theory, conditional probability, hypothesis testing, and Bayesian methods.
