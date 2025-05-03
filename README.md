@@ -4,76 +4,93 @@
 
 <p align="center">
   <a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
-    <img src="https://images.prismic.io/hiverywebsite/8225ab45-eb3f-4e22-a48f-1cbab9611f59_franki-chamaki-z4H9MYmWIMA-unsplash.jpg?auto=compress,format" alt="Developer Roadmap" width="" height="">
+    <img src="https://images.prismic.io/hiverywebsite/8225ab45-eb3f-4e22-a48f-1cbab9611f59_franki-chamaki-z4H9MYmWIMA-unsplash.jpg?auto=compress,format" alt="Data Science Banner" width="70%">
   </a>
 </p>
 
-<h2 align="center">Data Science and Analytics Self-Taught Program</h2>
+<h1 align="center">📊 Data Science & Analytics Self-Taught Curriculum</h1>
+<p align="center"><i>A structured roadmap to learn data science for free</i></p>
 
 ---
 
 <!--Fim da seção cabeçalho.-->
  
-## 📌 Summary
+## 🧭 Summary
 
-- [About](#about)
-- [Learning Goals](#learning-goals)
-- [Curriculum Overview](#curriculum-overview)
-- [How to Use This Curriculum](#how-to-use-this-curriculum)
-- [Extra Bibliography](#extra-bibliography)
-- [References](#references)
-- [Notes and Clarifications](#notes-and-clarifications)
+- [🧠 About](#-about)
+- [🎯 Learning Goals](#-learning-goals)
+- [🗂️ Curriculum Overview](#-curriculum-overview)
+- [🧩 How to Use This Curriculum](#-how-to-use-this-curriculum)
+- [📘 Full Curriculum Sections](#full-curriculum-sections)
+- [📖 Extra Bibliography](#-extra-bibliography)
+- [📝 Notes and Clarifications](#-notes-and-clarifications)
+- [🔗 References](#-references)
 
 ---
 
 ## 🧠 About
 
-This **Self-Taught Data Science Curriculum** is a structured roadmap that I created to guide myself in learning this field independently and for free. My motivation for developing this material came from my desire to deepen my knowledge in data science and analytics, making the most of the available online resources.
+This **Self-Taught Data Science Curriculum** is a structured roadmap I designed to guide my own journey into data science — using only **free and high-quality online resources**.
 
-The program covers everything from fundamentals to advanced topics, including programming, mathematics, statistics, machine learning, deep learning, and big data. To achieve this, I selected high-quality courses and learning materials that are freely accessible.
+My goal was to create a program that covered the full stack of data science knowledge, from basic concepts to advanced applications, including:
 
-If you also want to learn data science on your own or expand your knowledge in the field, this roadmap can serve as a solid foundation for your journey.
+- Programming
+- Mathematics and Statistics
+- Machine Learning and Deep Learning
+- Databases, Big Data, and Cloud Computing
+
+This roadmap is ideal for:
+- Aspiring data scientists learning independently
+- Professionals who want to **deepen their analytics skills**
+- Anyone seeking a structured, free alternative to paid bootcamps
+
+> 📌 This is a living document — I update it regularly as I complete courses or discover better resources.
 
 ---
 
 ## 🎯 Learning Goals
 
-### 1️⃣ **Programming for Data Science**
-- **Python**: Data manipulation, visualization, and machine learning.
-- **R**: Statistical modeling and advanced data analysis.
+This curriculum is designed to help you gain practical, theoretical, and technical proficiency across key areas of data science:
 
-### 2️⃣ **Mathematics & Statistics for Data Science**
-- Linear Algebra, Calculus, Probability, and Inferential Statistics.
-- Bayesian Methods, Regression, and Machine Learning Theory.
+### 1️⃣ Programming for Data Science
+- **Python**: Data manipulation, visualization, ML tools
+- **R**: Statistical modeling, packages, and reporting
 
-### 3️⃣ **Databases, Data Warehousing, and Big Data**
-- SQL and NoSQL Databases.
-- Data lakes and cloud computing solutions.
-- Big Data processing with Spark and Hadoop.
+### 2️⃣ Mathematics & Statistics
+- Linear Algebra, Calculus, Probability
+- Inferential Statistics, Bayesian Methods, Regression
+- ML theory and algorithmic foundations
 
-### 4️⃣ **Machine Learning & Deep Learning**
-- Supervised and Unsupervised Learning.
-- Neural Networks and Natural Language Processing (NLP).
-- Reinforcement Learning and AI Ethics.
+### 3️⃣ Databases, Warehousing, and Big Data
+- **SQL & NoSQL**
+- Data lakes, pipelines, and ETL
+- Tools like Hadoop, Spark, and cloud-native storage
+
+### 4️⃣ Machine Learning & Deep Learning
+- Supervised & Unsupervised Learning
+- Neural Networks, CNNs, NLP, RL
+- AI ethics and responsible modeling
 
 ---
 
-## 📚 Curriculum Overview
+## 🗂️ Curriculum Overview
 
-The curriculum is divided into well-structured sections, each covering essential areas of data science:
+The curriculum is structured into **10 sections**, grouped by learning stage and topic. Each includes carefully selected resources with estimated time commitment.
 
-1. **Fundamentals** - Basic concepts and data literacy (~40h).
-2. **Mathematics & Statistics** - Essential mathematical foundations (~90h).
-3. **Programming** - Python & R for data science (~215h).
-4. **Data Mining** - Extracting insights and patterns (~120h).
-5. **Databases** - SQL and database management (~80h).
-6. **Big Data** - Processing large-scale datasets (~85h).
-7. **Machine Learning** - Core ML concepts and models (~120h).
-8. **Deep Learning** - Advanced AI techniques (~125h).
-9. **Data Warehousing** - Data integration and storage (~300h).
-10. **Cloud Computing** - Cloud solutions for data science (~120h).
+| Section | Area | Approx. Hours |
+|--------|------|----------------|
+| 01 | Fundamentals | ~40h |
+| 02 | Mathematics & Statistics | ~90h |
+| 03 | Programming (Python & R) | ~215h |
+| 04 | Data Mining | ~120h |
+| 05 | Databases & SQL | ~80h |
+| 06 | Big Data | ~85h |
+| 07 | Machine Learning | ~120h |
+| 08 | Deep Learning | ~125h |
+| 09 | Data Warehousing | ~300h |
+| 10 | Cloud Computing | ~120h |
 
-A detailed breakdown of each section, including recommended courses, can be found in the repository.
+> 🧩 Detailed tables with links, skills, and certificates are available in each section.
 
 ---
 
@@ -130,7 +147,7 @@ Skills developed:
 - Practical applications of data usage in problem-solving
 - Introduction to data collection, organization, and interpretation
 
-Course | Offered by | Effort | Certificate, if applicable | Status |
+Course | Offered by | Effort | Certificate | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Data – What It Is, What We Can Do With It](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/XAV9MTSMSAWK) | ✓ |
 
@@ -143,7 +160,7 @@ Skills developed:
 - Insights into the data science lifecycle
 - Knowledge of the key tools and technologies used in the field
 
-Course | Offered by | Effort | Certificate, if applicable | Status |
+Course | Offered by | Effort | Certificate | Status |
 :-- | :--: | :--: | :--: | :--: |
 [What is Data Science?](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM Skills Network | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/WGYPQRNQSNG6) | ✓ |
 
@@ -156,7 +173,7 @@ Skills developed:
 - Basic concepts of Git and GitHub for version control
 - Insights into data science workflows
 
-Course | Offered by | Effort | Certificate, if applicable | Status |
+Course | Offered by | Effort | Certificate | Status |
 :-- | :--: | :--: | :--: | :--: |
 [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
 
@@ -180,13 +197,83 @@ Espaço para organização pessoal u.u
 
 -->
 
-### Section 02 - Mathematics and Statistics for Data Science (~90h)
+## 📐 Section 02 - Mathematics and Statistics for Data Science (~90h)
 
-Course | Offered by | Effort of | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~34h | -- | -- |
-[Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~25h | -- | -- |
-[Probability and Statistics for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI | ~33h | -- | -- |
+This section is essential to understand the **mathematical and statistical foundations** of data science. My goal here is to acquire strong theoretical tools to support more complex models, especially in machine learning and inferential analysis.
+
+The content covers linear algebra, calculus, probability, and statistics — from basic concepts to the application of Bayesian methods and ML theory.
+
+The main skills I want to develop at this stage include:
+
+- ✅ Understanding matrix operations, vectors, eigenvalues, and decompositions
+- ✅ Derivatives, gradients, and optimization for ML
+- ✅ Concepts of probability, distributions, and statistical inference
+- ✅ Bayesian thinking and probabilistic reasoning
+- ✅ Theoretical foundation behind supervised and unsupervised models
+
+
+### Courses
+
+##
+
+#### 📚 *Linear Algebra for Machine Learning and Data Science* – DeepLearning.AI
+
+**Description**:
+This course offers an applied and visual introduction to linear algebra — one of the most crucial areas for working with data. It explores matrices, vector spaces, linear transformations, and the math behind dimensionality reduction and neural networks.
+
+**Why I chose this course**:
+It’s part of the [Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) specialization by DeepLearning.AI, created with Andrew Ng’s endorsement. The practical approach with visual tools makes it ideal for learners in applied data science.
+
+**Skills developed**:
+
+* Matrix operations, vector norms, and projections
+* Singular Value Decomposition (SVD)
+* Applications in data compression and feature extraction
+
+| Course                                                                                                                                                          |    Offered by   | Effort | Certificate | Status |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----: | :---------: | :----: |
+| [Linear Algebra for ML and DS](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~34h |      --     |   --   |
+
+---
+
+### 📚 *Calculus for Machine Learning and Data Science* – DeepLearning.AI
+
+**Description**:
+This course provides a practical introduction to calculus, focusing on how derivatives and integrals are used to train and optimize machine learning models.
+
+**Why I chose this course**:
+Traditional calculus courses are very theoretical. This one, however, is laser-focused on real applications like gradient descent, cost functions, and model convergence — essential concepts for data scientists.
+
+**Skills developed**:
+
+* Derivatives and chain rule
+* Optimization using gradients
+* Applications of calculus in ML training
+
+| Course                                                                                                                                              |    Offered by   | Effort | Certificate | Status |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----: | :---------: | :----: |
+| [Calculus for ML and DS](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~25h |      --     |   --   |
+
+---
+
+### 📚 *Probability and Statistics for Machine Learning and Data Science* – DeepLearning.AI
+
+**Description**:
+A comprehensive course that introduces both descriptive and inferential statistics, with a focus on applications in machine learning. Topics include probability theory, conditional probability, hypothesis testing, and Bayesian methods.
+
+**Why I chose this course**:
+This course doesn't just teach "classical stats" — it explicitly bridges the gap between statistics and ML, making it perfect for applied work in data science.
+
+**Skills developed**:
+
+* Descriptive statistics and probability distributions
+* Conditional probability and Bayes' Theorem
+* Confidence intervals and hypothesis testing
+* Probabilistic thinking in ML
+
+| Course                                                                                                                                                                    |    Offered by   | Effort | Certificate | Status |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------: | :----: | :---------: | :----: |
+| [Probability & Stats for ML](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~33h |      --     |   --   |
 
 ##
 
