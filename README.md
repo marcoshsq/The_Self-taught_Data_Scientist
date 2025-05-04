@@ -125,7 +125,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-## Section 01 - Fundamentals (~40h)
+## 📚 Section 01 - Fundamentals (~40h)
 
 In this first section, my goal is to establish a solid foundation in data science by understanding the role of data in decision-making, the fundamentals of the field, and the key tools used by professionals. Additionally, I aim to develop a clear understanding of what it means to be a data scientist, the essential skills required, and how to apply this knowledge in practice.
 
@@ -138,11 +138,11 @@ The main skills I want to acquire in this stage include:
 
 ##
 
-#### 📌  Data – What It Is, What We Can Do With It (Johns Hopkins University)
+#### 📚  *Data – What It Is, What We Can Do With It (Johns Hopkins University)*
 
 This course provides a clear introduction to what data is, how it is generated, and how it can be used to answer questions and support decision-making. I chose this course to build a conceptual foundation before moving on to more complex techniques.
 
-Skills developed:
+**Skills developed**:
 - Understanding the concept of data and its different forms
 - Practical applications of data usage in problem-solving
 - Introduction to data collection, organization, and interpretation
@@ -151,11 +151,13 @@ Course | Offered by | Effort | Certificate | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Data – What It Is, What We Can Do With It](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/XAV9MTSMSAWK) | ✓ |
 
-#### 📌 What is Data Science? (IBM Skills Network)
+---
+
+#### 📚 What is Data Science? (IBM Skills Network)
 
 This course offers an overview of the field of data science, exploring the responsibilities of a data scientist, the stages of the data analysis process, and its applications. It helps to better understand the career and the importance of data science in the modern world.
 
-Skills developed:
+**Skills developed**:
 - Understanding what data science is and its applications
 - Insights into the data science lifecycle
 - Knowledge of the key tools and technologies used in the field
@@ -164,11 +166,13 @@ Course | Offered by | Effort | Certificate | Status |
 :-- | :--: | :--: | :--: | :--: |
 [What is Data Science?](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM Skills Network | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/WGYPQRNQSNG6) | ✓ |
 
-#### 📌 The Data Scientist's Toolbox (Johns Hopkins University)
+---
+
+#### 📚 *The Data Scientist's Toolbox (Johns Hopkins University)*
 
 This course is essential for gaining familiarity with the fundamental tools used by data scientists. It introduces basic programming concepts, version control, and project organization—essential elements for working with data in a structured and efficient way.
 
-Skills developed:
+**Skills developed**:
 - Introduction to R and RStudio
 - Basic concepts of Git and GitHub for version control
 - Insights into data science workflows
