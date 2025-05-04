@@ -297,11 +297,7 @@ Espaço para organização pessoal u.u
 
 -->
 
-## **Section 03 - Programming for Data Science**
-
-# adicionar descrição aqui
-
-### 🐍 Section 03-A - Python Language for Data Analysis (~140h)
+## 🐍 Section 03-A - Python Language for Data Analysis (~140h)
 
 In this section, my goal is to master Python as the primary language for data analysis, visualization, and machine learning. Python is the industry standard in data science, widely adopted thanks to its simplicity, community, and rich ecosystem of libraries like NumPy, pandas, matplotlib, scikit-learn, and many others.
 
@@ -323,7 +319,7 @@ The main skills I want to develop at this stage include:
 
 ##
 
-### 📚 *Introduction to Data Science in Python* – University of Michigan
+### 🐍 *Introduction to Data Science in Python* – University of Michigan
 
 **Description**:
 A foundational course that introduces data manipulation with pandas, working with DataFrames, and the basics of cleaning and transforming data for analysis.
@@ -343,7 +339,7 @@ It’s the first course of the [Applied Data Science with Python Specialization]
 
 ---
 
-### 📚 *Applied Plotting, Charting & Data Representation in Python* – University of Michigan
+### 🐍 *Applied Plotting, Charting & Data Representation in Python* – University of Michigan
 
 **Description**:
 This course introduces practical techniques to create visualizations using matplotlib and other Python libraries, focusing on choosing the right type of plot for different data contexts.
@@ -363,7 +359,7 @@ Data visualization is often underestimated, but it’s critical for communicatin
 
 ---
 
-### 📚 *Applied Machine Learning in Python* – University of Michigan
+### 🐍 *Applied Machine Learning in Python* – University of Michigan
 
 **Description**:
 Focuses on implementing machine learning models using scikit-learn, including classification, regression, and clustering.
@@ -383,7 +379,7 @@ It emphasizes not just the use of models but also best practices like train/test
 
 ---
 
-### 📚 *Applied Text Mining in Python* – University of Michigan
+### 🐍 *Applied Text Mining in Python* – University of Michigan
 
 **Description**:
 Covers the fundamentals of natural language processing (NLP) in Python, including tokenization, TF-IDF, and basic text classification.
@@ -403,7 +399,7 @@ Text data is everywhere — and this course provides the essential tools to proc
 
 ---
 
-### 📚 *Applied Social Network Analysis in Python* – University of Michigan
+### 🐍 *Applied Social Network Analysis in Python* – University of Michigan
 
 **Description**:
 Explores how to analyze network structures such as social graphs, user connections, and centrality using NetworkX and Python.
