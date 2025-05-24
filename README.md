@@ -54,7 +54,6 @@ This curriculum is designed to help you gain practical, theoretical, and technic
 
 ### 1️⃣ Programming for Data Science
 - **Python**: Data manipulation, visualization, ML tools
-- **R**: Statistical modeling, packages, and reporting
 
 ### 2️⃣ Mathematics & Statistics
 - Linear Algebra, Calculus, Probability
@@ -81,7 +80,7 @@ The curriculum is structured into **10 sections**, grouped by learning stage and
 |--------|------|----------------|
 | 01 | Fundamentals | ~40h |
 | 02 | Mathematics & Statistics | ~90h |
-| 03 | Programming (Python & R) | ~215h |
+| 03 | Programming (Python) | ~215h |
 | 04 | Data Mining | ~120h |
 | 05 | Databases & SQL | ~80h |
 | 06 | Big Data | ~85h |
@@ -416,21 +415,6 @@ Social network analysis is increasingly useful in marketing, user behavior, frau
 | Course                                                                                                                      |     Offered by    | Effort | Certificate | Status |
 | :-------------------------------------------------------------------------------------------------------------------------- | :---------------: | :----: | :---------: | :----: |
 | [Social Network Analysis](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | Univ. of Michigan |  \~26h |      --     |   --   |
-
-##
-
-##
-
-#### Section 03-B - R Language for Statistical Analysis and Modeling (~75h)
-
-Course | Offered by | Effort of | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[R Programming](https://www.coursera.org/learn/r-programming-environment?specialization=r) | Johns Hopkins University | ~27h | -- | -- |
-[Advanced R Programming](https://www.coursera.org/learn/advanced-r?specialization=r) | Johns Hopkins University | ~18h | -- | -- |
-[Building R Packages](https://www.coursera.org/learn/r-packages?specialization=r) | Johns Hopkins University | ~20 | -- | -- |
-[Building Data Visualization Tools](https://www.coursera.org/learn/r-data-visualization?specialization=r) | Johns Hopkins University | ~12h | -- | -- |
-[Mastering Software Development in R](https://www.coursera.org/learn/r-capstone?specialization=r) | Johns Hopkins University | ~3h | -- | -- |
-
 
 ##
 
