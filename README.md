@@ -3,7 +3,7 @@
 <!--Cabeçalho da página. -->
 
 <p align="center">
-  <a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
+  <a href="https://github.com/marcoshsq/Data_Science_Roadmap">
     <img src="https://images.prismic.io/hiverywebsite/8225ab45-eb3f-4e22-a48f-1cbab9611f59_franki-chamaki-z4H9MYmWIMA-unsplash.jpg?auto=compress,format" alt="Data Science Banner" width="70%">
   </a>
 </p>
@@ -1395,7 +1395,7 @@ Sources used to structure this curriculum:
 	<a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
 	
 <p align="center">
-  <a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
+  <a href="https://github.com/marcoshsq/Data_Science_Roadmap">
     <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" alt="Developer Roadmap" width="" height="">
   </a>
 </p>
