@@ -234,7 +234,7 @@ It’s part of the [Mathematics for Machine Learning and Data Science](https://w
 * Applications in data compression and feature extraction
 
 | Course                                                                                                                                                          |    Offered by   | Effort | 
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----: | 
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----: |
 | [Linear Algebra for ML and DS](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~34h | 
 
 ---
@@ -254,7 +254,7 @@ Traditional calculus courses are very theoretical. This one, however, is laser-f
 * Applications of calculus in ML training
 
 | Course                                                                                                                                              |    Offered by   | Effort | 
-| :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----: | 
+| :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----: |
 | [Calculus for ML and DS](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~25h | 
 
 ---
@@ -274,9 +274,9 @@ This course doesn't just teach "classical stats" — it explicitly bridges the g
 * Confidence intervals and hypothesis testing
 * Probabilistic thinking in ML
 
-| Course                                                                                                                                                                    |    Offered by   | Effort | Certificate | Status |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------: | :----: | :---------: | :----: |
-| [Probability & Stats for ML](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~33h |      --     |   ✓   |
+| Course                                                                                                                                                                    |    Offered by   | Effort |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------: | :----: |
+| [Probability & Stats for ML](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~33h |  
 
 ##
 
@@ -332,9 +332,9 @@ It’s the first course of the [Applied Data Science with Python Specialization]
 * Handling missing values and data types
 * Basic exploratory data analysis (EDA)
 
-| Course                                                                                                                    |     Offered by    | Effort | Certificate | Status |
-| :------------------------------------------------------------------------------------------------------------------------ | :---------------: | :----: | :---------: | :----: |
-| [Intro to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | Univ. of Michigan |  \~34h |      --     |   --   |
+| Course                                                                                                                    |     Offered by    | Effort |
+| :------------------------------------------------------------------------------------------------------------------------ | :---------------: | :----: |
+| [Intro to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) | Univ. of Michigan |  \~34h |  
 
 ---
 
@@ -352,9 +352,9 @@ Data visualization is often underestimated, but it’s critical for communicatin
 * Visual perception principles
 * Interactive plotting and dashboard elements
 
-| Course                                                                                                  |     Offered by    | Effort | Certificate | Status |
-| :------------------------------------------------------------------------------------------------------ | :---------------: | :----: | :---------: | :----: |
-| [Plotting in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | Univ. of Michigan |  \~24h |      --     |   --   |
+| Course                                                                                                  |     Offered by    | Effort |
+| :------------------------------------------------------------------------------------------------------ | :---------------: | :----: |
+| [Plotting in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) | Univ. of Michigan |  \~24h | 
 
 ---
 
@@ -372,9 +372,9 @@ It emphasizes not just the use of models but also best practices like train/test
 * Supervised learning (logistic regression, decision trees)
 * Model evaluation and validation techniques
 
-| Course                                                                                                    |     Offered by    | Effort | Certificate | Status |
-| :-------------------------------------------------------------------------------------------------------- | :---------------: | :----: | :---------: | :----: |
-| [ML in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | Univ. of Michigan |  \~31h |      --     |   --   |
+| Course                                                                                                    |     Offered by    | Effort |
+| :-------------------------------------------------------------------------------------------------------- | :---------------: | :----: |
+| [ML in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python) | Univ. of Michigan |  \~31h |
 
 ---
 
@@ -392,9 +392,9 @@ Text data is everywhere — and this course provides the essential tools to proc
 * Document-term matrices
 * Basic text classifiers (e.g., Naive Bayes)
 
-| Course                                                                                                        |     Offered by    | Effort | Certificate | Status |
-| :------------------------------------------------------------------------------------------------------------ | :---------------: | :----: | :---------: | :----: |
-| [Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | Univ. of Michigan |  \~25h |      --     |   --   |
+| Course                                                                                                        |     Offered by    | Effort |
+| :------------------------------------------------------------------------------------------------------------ | :---------------: | :----: |
+| [Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) | Univ. of Michigan |  \~25h |
 
 ---
 
@@ -412,9 +412,9 @@ Social network analysis is increasingly useful in marketing, user behavior, frau
 * Using NetworkX for social graphs
 * Identifying influential nodes and clusters
 
-| Course                                                                                                                      |     Offered by    | Effort | Certificate | Status |
-| :-------------------------------------------------------------------------------------------------------------------------- | :---------------: | :----: | :---------: | :----: |
-| [Social Network Analysis](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | Univ. of Michigan |  \~26h |      --     |   --   |
+| Course                                                                                                                      |     Offered by    | Effort |
+| :-------------------------------------------------------------------------------------------------------------------------- | :---------------: | :----: |
+| [Social Network Analysis](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python) | Univ. of Michigan |  \~26h |
 
 ##
 
@@ -465,9 +465,9 @@ Understanding how to **communicate insights visually** is just as important as t
 - Use of color, layout, and perception in data storytelling  
 - Hands-on experience building visualizations  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Data Visualization](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois | ~15h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Data Visualization](https://www.coursera.org/learn/datavisualization?specialization=data-mining) | University of Illinois | ~15h
 
 ---
 
@@ -485,9 +485,9 @@ It offers a solid foundation for **building search systems** and working with **
 - TF-IDF and cosine similarity  
 - Evaluation of retrieval performance (precision, recall)  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois | ~30h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval?specialization=data-mining) | University of Illinois | ~30h
 
 ---
 
@@ -505,9 +505,9 @@ Text is one of the most abundant data formats today. This course builds **NLP fu
 - Topic modeling (e.g., LDA)  
 - Sentiment analysis and classification  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Text Mining and Analytics](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois | ~33h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Text Mining and Analytics](https://www.coursera.org/learn/text-mining?specialization=data-mining) | University of Illinois | ~33h
 
 ---
 
@@ -525,9 +525,9 @@ It’s essential for **market basket analysis**, **fraud detection**, and **beha
 - Association rules (support, confidence, lift)  
 - Sequential pattern mining  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns?specialization=data-mining) | University of Illinois | ~17h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns?specialization=data-mining) | University of Illinois | ~17h
 
 ---
 
@@ -545,9 +545,9 @@ Clustering is a powerful tool for **customer segmentation**, **anomaly detection
 - Density-based clustering (DBSCAN)  
 - Cluster evaluation and visualization  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis?specialization=data-mining) | University of Illinois | ~16h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis?specialization=data-mining) | University of Illinois | ~16h
 
 ---
 
@@ -601,9 +601,9 @@ Before writing any SQL, it’s essential to understand **how databases are struc
 - Normalization (1NF to 3NF)  
 - Schema creation and database logic  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Relational Database Design](https://www.coursera.org/learn/relational-database-design?specialization=databases-for-data-scientists) | University of Colorado | ~34h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Relational Database Design](https://www.coursera.org/learn/relational-database-design?specialization=databases-for-data-scientists) | University of Colorado | ~34h
 
 ---
 
@@ -621,9 +621,9 @@ SQL is a **must-have skill** for data professionals. This course reinforces the 
 - Writing nested queries and subqueries  
 - Filtering, sorting, and aggregating data  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql?specialization=databases-for-data-scientists) | University of Colorado | ~26h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql?specialization=databases-for-data-scientists) | University of Colorado | ~26h
 
 ---
 
@@ -641,9 +641,9 @@ As data ecosystems evolve, it’s important to understand **where database techn
 - Distributed database systems and CAP theorem  
 - Emerging trends: scalability, cloud databases, and database-as-a-service  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Advanced Topics and Future Trends in Database Technologies](https://www.coursera.org/learn/advanced-topics-future-trends-database-technologies?specialization=databases-for-data-scientists) | University of Colorado | ~16h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Advanced Topics and Future Trends in Database Technologies](https://www.coursera.org/learn/advanced-topics-future-trends-database-technologies?specialization=databases-for-data-scientists) | University of Colorado | ~16h
 
 ---
 
@@ -696,9 +696,9 @@ It provides a clear **introductory framework** for the concepts, challenges, and
 - Overview of the Hadoop ecosystem  
 - Real-world applications and case studies  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction?specialization=big-data) | University of California | ~17h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction?specialization=big-data) | University of California | ~17h
 
 ---
 
@@ -716,9 +716,9 @@ To understand the **different paradigms** of data storage and how schema design 
 - NoSQL systems: document, columnar, and key-value stores  
 - Data consistency and availability trade-offs  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Big Data Modeling and Management Systems](https://www.coursera.org/learn/big-data-management?specialization=big-data) | University of California | ~13h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Big Data Modeling and Management Systems](https://www.coursera.org/learn/big-data-management?specialization=big-data) | University of California | ~13h
 
 ---
 
@@ -736,9 +736,9 @@ Efficient processing is key in big data — this course builds **hands-on skills
 - ETL and data integration pipelines  
 - Batch vs. stream processing  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data) | University of California | ~17h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data) | University of California | ~17h
 
 ---
 
@@ -756,9 +756,9 @@ It connects **machine learning theory** with **big data tools**, which is essent
 - Model training and evaluation in distributed systems  
 - Feature engineering at scale  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Machine Learning with Big Data](https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data) | University of California | ~23h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Machine Learning with Big Data](https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data) | University of California | ~23h
 
 ---
 
@@ -776,9 +776,9 @@ Graph analytics is a powerful approach for **understanding structure and influen
 - Graph traversal and centrality  
 - Distributed graph processing (e.g., GraphX)
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data) | University of California | ~13h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data) | University of California | ~13h
 
 ---
 
@@ -831,9 +831,9 @@ It provides the **best conceptual intro** to supervised learning, with hands-on 
 - Gradient descent and loss functions  
 - Bias-variance tradeoff and regularization  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~33h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~33h
 
 ---
 
@@ -851,9 +851,9 @@ To **expand beyond linear models** and gain confidence in implementing some of t
 - SVMs and kernel tricks  
 - Model selection and hyperparameter tuning  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Advanced Machine Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction) | DeepLearning.AI | ~34h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Advanced Machine Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction) | DeepLearning.AI | ~34h
 
 ---
 
@@ -872,9 +872,9 @@ It connects **theory to application**, showing how clustering and reinforcement 
 - Recommender systems and collaborative filtering  
 - Reinforcement learning and Q-learning  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~37h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) | DeepLearning.AI | ~37h
 
 ---
 
@@ -926,9 +926,9 @@ It lays the **core theoretical foundation** for all deep learning work and prese
 - Forward and backward propagation  
 - Activation functions and weight initialization  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | DeepLearning.AI | ~24h | -- | -- |
+| Course | Offered by | Effort 
+| :----: | :--------: | :----:
+| [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | DeepLearning.AI | ~24h
 
 ---
 
@@ -946,9 +946,9 @@ It bridges the gap between theory and practice, offering **hands-on techniques**
 - Regularization: L2, dropout  
 - Hyperparameter tuning and optimizers (Adam, RMSprop)  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | DeepLearning.AI | ~23h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----: 
+| [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | DeepLearning.AI | ~23h
 
 ---
 
@@ -966,9 +966,9 @@ It offers **strategic thinking** that is often overlooked: how to debug, scale, 
 - Avoiding data leakage  
 - Managing train/dev/test splits in production  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) | DeepLearning.AI | ~06h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) | DeepLearning.AI | ~06h
 
 ---
 
@@ -986,9 +986,9 @@ CNNs are essential for working with image data — this course gives a **hands-o
 - Deep CNN architectures (ResNet, Inception)  
 - Image classification and object detection  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) | DeepLearning.AI | ~35h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) | DeepLearning.AI | ~35h
 
 ---
 
@@ -1006,9 +1006,9 @@ Sequence models power everything from **chatbots to music generation** — and t
 - Natural language processing basics  
 - Attention and sequence-to-sequence models  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning) | DeepLearning.AI | ~37h | -- | -- |
+| Course | Offered by | Effort 
+| :----: | :--------: | :----:
+| [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning) | DeepLearning.AI | ~37h
 
 ---
 
@@ -1060,9 +1060,9 @@ It provides the **core theoretical and technical background** needed for underst
 - SQL for data definition and manipulation  
 - Foundations for OLAP vs. OLTP systems  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Database Management Essentials](https://www.coursera.org/learn/database-management?specialization=data-warehousing) | Colorado Boulder | ~122h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----: 
+| [Database Management Essentials](https://www.coursera.org/learn/database-management?specialization=data-warehousing) | Colorado Boulder | ~122h
 
 ---
 
@@ -1080,9 +1080,9 @@ It focuses on the **design principles behind scalable data warehouses**, which a
 - Star, snowflake, and constellation schemas  
 - ETL design and implementation  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign?specialization=data-warehousing) | Colorado Boulder | ~62h | -- | -- |
+| Course | Offered by | Effort 
+| :----: | :--------: | :----:
+| [Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign?specialization=data-warehousing) | Colorado Boulder | ~62h
 
 ---
 
@@ -1100,9 +1100,9 @@ It connects **relational database theory with warehousing practice**, helping un
 - Materialized views and indexing strategies  
 - Physical schema design for OLAP  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational?specialization=data-warehousing) | Colorado Boulder | ~71h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational?specialization=data-warehousing) | Colorado Boulder | ~71h
 
 ---
 
@@ -1120,9 +1120,9 @@ To connect **data infrastructure to end-user decision-making**, focusing on stor
 - OLAP operations (roll-up, drill-down)  
 - Data-driven decision frameworks  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools?specialization=data-warehousing) | Colorado Boulder | ~21h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools?specialization=data-warehousing) | Colorado Boulder | ~21h
 
 ---
 
@@ -1140,9 +1140,9 @@ It offers **hands-on experience** that ties together all previous concepts — f
 - Data sourcing, transformation, and loading  
 - Reporting and BI dashboard implementation  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building?specialization=data-warehousing) | Colorado Boulder | ~31h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building?specialization=data-warehousing) | Colorado Boulder | ~31h
 
 ---
 
@@ -1194,9 +1194,9 @@ It builds the **foundational knowledge** needed to understand the economics, arc
 - Virtualization and resource allocation  
 - Intro to AWS, Google Cloud, and Azure paradigms  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Cloud Concepts 1](https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing) | University of Illinois | ~24h | -- | -- |
+| Course | Offered by | Effort
+| :----: | :--------: | :----:
+| [Cloud Concepts 1](https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing) | University of Illinois | ~24h
 
 ---
 
@@ -1214,9 +1214,9 @@ It dives deeper into **cloud resilience and elasticity**, key aspects for high-a
 - Cloud scalability and elasticity  
 - Managing reliability and availability  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Cloud Concepts 2](https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing) | University of Illinois | ~19h | -- | -- |
+| Course | Offered by | Effort 
+| :----: | :--------: | :----:
+| [Cloud Concepts 2](https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing) | University of Illinois | ~19h
 
 ---
 
@@ -1234,9 +1234,9 @@ It introduces the **developer’s perspective**, teaching how to design and depl
 - Stateless and stateful application design  
 - Handling scale and concurrency  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Cloud Applications 1](https://www.coursera.org/learn/cloud-applications-part1?specialization=cloud-computing) | University of Illinois | ~15h | -- | -- |
+| Course | Offered by | Effort 
+| :----: | :--------: | :----: 
+| [Cloud Applications 1](https://www.coursera.org/learn/cloud-applications-part1?specialization=cloud-computing) | University of Illinois | ~15h
 
 ---
 
@@ -1254,9 +1254,9 @@ This course emphasizes **operational excellence and monitoring**, which are cruc
 - Load balancing and caching  
 - Authentication and access control  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Cloud Applications 2](https://www.coursera.org/learn/cloud-applications-part2?specialization=cloud-computing) | University of Illinois | ~19h | -- | -- |
+| Course | Offered by | Effort 
+| :----: | :--------: | :----: 
+| [Cloud Applications 2](https://www.coursera.org/learn/cloud-applications-part2?specialization=cloud-computing) | University of Illinois | ~19h
 
 ---
 
@@ -1274,9 +1274,9 @@ To understand **how services communicate at scale**, securely and efficiently ac
 - Network configuration and subnetting  
 - Load balancers and security groups  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Cloud Networking](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois | ~22h | -- | -- |
+| Course | Offered by | Effort 
+| :----: | :--------: | :----:
+| [Cloud Networking](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois | ~22h 
 
 ---
 
@@ -1294,9 +1294,9 @@ To apply all concepts in a **realistic, end-to-end scenario**, simulating a true
 - Integrating storage, compute, and networking  
 - Debugging and monitoring a cloud-native app  
 
-| Course | Offered by | Effort | Certificate | Status |
-| :----: | :--------: | :----: | :---------: | :----: |
-| [Cloud Computing Project](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois | ~21h | -- | -- |
+| Course | Offered by | Effort 
+| :----: | :--------: | :----: 
+| [Cloud Computing Project](https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing) | University of Illinois | ~21h
 
 ---
 
