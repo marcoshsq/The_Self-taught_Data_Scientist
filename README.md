@@ -146,9 +146,9 @@ This course provides a clear introduction to what data is, how it is generated, 
 - Practical applications of data usage in problem-solving
 - Introduction to data collection, organization, and interpretation
 
-Course | Offered by | Effort | Certificate | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Data – What It Is, What We Can Do With It](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/XAV9MTSMSAWK) | ✓ |
+Course | Offered by | Effort 
+:-- | :--: | :--: 
+[Data – What It Is, What We Can Do With It](https://www.coursera.org/learn/data-what-it-is-what-can-we-do-with-it?specialization=data-literacy) | Johns Hopkins University | ~11h
 
 ---
 
@@ -161,9 +161,9 @@ This course offers an overview of the field of data science, exploring the respo
 - Insights into the data science lifecycle
 - Knowledge of the key tools and technologies used in the field
 
-Course | Offered by | Effort | Certificate | Status |
-:-- | :--: | :--: | :--: | :--: |
-[What is Data Science?](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM Skills Network | ~11h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/WGYPQRNQSNG6) | ✓ |
+Course | Offered by | Effort
+:-- | :--: | :--: 
+[What is Data Science?](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM Skills Network | ~11h
 
 ---
 
@@ -176,9 +176,9 @@ This course is essential for gaining familiarity with the fundamental tools used
 - Basic concepts of Git and GitHub for version control
 - Insights into data science workflows
 
-Course | Offered by | Effort | Certificate | Status |
-:-- | :--: | :--: | :--: | :--: |
-[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
+Course | Offered by | Effort 
+:-- | :--: | :--: 
+[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h
 
 ##
 
@@ -233,9 +233,9 @@ It’s part of the [Mathematics for Machine Learning and Data Science](https://w
 * Singular Value Decomposition (SVD)
 * Applications in data compression and feature extraction
 
-| Course                                                                                                                                                          |    Offered by   | Effort | Certificate | Status |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----: | :---------: | :----: |
-| [Linear Algebra for ML and DS](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~34h |      --     |   ✓   |
+| Course                                                                                                                                                          |    Offered by   | Effort | 
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----: | 
+| [Linear Algebra for ML and DS](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~34h | 
 
 ---
 
@@ -253,9 +253,9 @@ Traditional calculus courses are very theoretical. This one, however, is laser-f
 * Optimization using gradients
 * Applications of calculus in ML training
 
-| Course                                                                                                                                              |    Offered by   | Effort | Certificate | Status |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----: | :---------: | :----: |
-| [Calculus for ML and DS](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~25h |      --     |   ✓   |
+| Course                                                                                                                                              |    Offered by   | Effort | 
+| :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :----: | 
+| [Calculus for ML and DS](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science) | DeepLearning.AI |  \~25h | 
 
 ---
 
